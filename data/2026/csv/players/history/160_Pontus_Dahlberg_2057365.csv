@@ -1,0 +1,12 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+160,4,1,2026-03-15T16:00:00Z,False,1,Aalesund,1,3,False,90,0,0,0,1,0,0,0,0,0,6,1,0.000000,5,45,2784,0,0,0
+160,18,3,2026-04-06T15:00:00Z,False,9,Molde,0,1,False,90,0,0,1,0,0,0,0,1,0,3,0,0.000000,6,45,5329,2921,554,2367
+160,25,4,2026-04-11T12:00:00Z,True,13,Start,3,1,False,90,0,0,0,1,0,0,0,0,0,4,0,0.000000,3,45,6587,1165,89,1076
+160,33,4,2026-04-15T17:00:00Z,False,14,Tromsø,0,0,False,90,0,0,1,0,0,0,0,0,0,7,2,0.000000,10,45,6587,1165,89,1076
+160,37,5,2026-04-19T12:30:00Z,False,16,Vålerenga,0,2,False,90,0,0,1,0,0,0,0,1,0,4,2,0.000000,8,45,7063,675,97,578
+160,49,6,2026-04-26T17:15:00Z,True,2,Bodø/Glimt,0,2,False,90,0,0,0,2,0,0,0,0,0,2,0,0.000000,1,46,7709,689,94,595
+160,54,7,2026-05-03T12:30:00Z,True,12,Sarpsborg 08,4,0,False,90,0,0,1,0,0,0,0,0,0,1,0,0.000000,6,47,8540,879,74,805
+160,62,8,2026-05-10T12:30:00Z,False,10,Rosenborg,2,0,False,90,0,0,0,2,0,0,0,0,0,3,0,0.000000,2,48,9254,805,64,741
+160,72,9,2026-05-16T14:00:00Z,True,11,Sandefjord,3,1,False,90,0,0,0,1,0,0,0,0,0,5,0,0.000000,3,48,10088,671,64,607
+160,15,9,2026-05-20T17:00:00Z,True,7,Kristiansund,1,2,False,90,0,0,0,2,0,0,0,0,0,5,0,0.000000,2,48,10088,671,64,607
+160,77,10,2026-05-25T15:00:00Z,False,5,HamKam,2,0,False,90,0,0,0,2,0,0,0,0,0,7,0,0.000000,3,48,10074,212,90,122

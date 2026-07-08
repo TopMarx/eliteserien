@@ -1,0 +1,11 @@
+{
+  "last_closed_gw": 11,
+  "season": 2026,
+  "current_gw": 11,
+  "fetch_type": "forced",
+  "expected_count": 442,
+  "fetched_count": 442,
+  "failed_ids": [],
+  "completed": true,
+  "last_run": "2026-07-08T05:14:29.907304+00:00"
+}

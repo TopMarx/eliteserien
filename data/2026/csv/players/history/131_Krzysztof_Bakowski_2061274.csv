@@ -1,0 +1,12 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+131,7,1,2026-03-15T16:00:00Z,True,13,Start,2,0,False,90,0,0,1,0,0,0,0,0,0,2,0,0.000000,6,45,470,0,0,0
+131,14,2,2026-03-22T16:00:00Z,False,4,Fredrikstad,3,1,False,90,0,0,0,3,0,0,0,0,0,4,0,0.000000,2,45,694,152,19,133
+131,23,3,2026-04-07T17:00:00Z,True,11,Sandefjord,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,1071,676,319,357
+131,30,4,2026-04-12T15:00:00Z,False,1,Aalesund,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,967,24,118,-94
+131,39,5,2026-04-19T15:00:00Z,False,5,HamKam,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,879,9,111,-102
+131,46,6,2026-04-26T15:00:00Z,True,12,Sarpsborg 08,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,788,5,91,-86
+131,58,7,2026-05-03T17:15:00Z,False,16,Vålerenga,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,744,4,57,-53
+131,63,8,2026-05-10T15:00:00Z,True,15,Viking,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,664,2,43,-41
+131,68,9,2026-05-16T12:00:00Z,False,3,Brann,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,613,12,36,-24
+131,78,10,2026-05-25T15:00:00Z,True,10,Rosenborg,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,43,674,12,22,-10
+131,88,11,2026-05-29T17:00:00Z,True,14,Tromsø,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,43,597,6,65,-59

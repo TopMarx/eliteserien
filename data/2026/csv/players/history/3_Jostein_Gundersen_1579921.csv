@@ -1,0 +1,12 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+3,21,3,2026-04-06T15:00:00Z,False,7,Kristiansund,0,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,60,1685,373,109,264
+3,27,4,2026-04-11T16:00:00Z,False,15,Viking,5,0,False,45,0,0,0,3,0,0,0,0,0,0,0,0.000000,0,60,1561,33,154,-121
+3,5,4,2026-04-15T17:00:00Z,False,12,Sarpsborg 08,1,1,False,84,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,60,1561,33,154,-121
+3,34,5,2026-04-18T12:00:00Z,True,1,Aalesund,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,60,1537,24,59,-35
+3,49,6,2026-04-26T17:15:00Z,False,8,Lillestrøm,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,60,1426,6,113,-107
+3,51,6,2026-04-30T17:00:00Z,True,13,Start,5,0,False,90,0,0,1,0,0,0,0,0,0,0,0,0.000000,6,60,1426,6,113,-107
+3,59,7,2026-05-04T17:00:00Z,True,9,Molde,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,60,1375,2,60,-58
+3,74,9,2026-05-16T16:00:00Z,True,14,Tromsø,5,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,60,1272,3,23,-20
+3,65,9,2026-05-20T16:00:00Z,False,13,Start,1,4,False,76,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,60,1272,3,23,-20
+3,79,10,2026-05-24T14:00:00Z,True,3,Brann,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,60,1259,5,32,-27
+3,87,11,2026-05-29T17:00:00Z,False,10,Rosenborg,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,60,1240,4,22,-18

@@ -1,0 +1,11 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+348,1,1,2026-03-14T15:00:00Z,False,5,HamKam,2,1,False,45,1,0,0,2,0,0,0,1,0,0,0,0.000000,5,55,874,0,0,0
+348,10,2,2026-03-21T17:00:00Z,True,9,Molde,4,1,False,90,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,55,1204,88,21,67
+348,17,3,2026-04-06T12:30:00Z,False,16,Vålerenga,0,1,False,90,0,0,1,0,0,0,0,0,0,0,0,0.000000,6,55,1184,27,67,-40
+348,27,4,2026-04-11T16:00:00Z,True,2,Bodø/Glimt,5,0,False,90,0,0,1,0,0,0,0,0,0,0,0,0.000000,6,55,1228,63,31,32
+348,36,5,2026-04-18T16:00:00Z,True,3,Brann,3,2,False,90,0,0,0,2,0,0,0,0,0,0,0,0.000000,1,55,1290,72,27,45
+348,42,6,2026-04-25T14:00:00Z,False,4,Fredrikstad,1,2,False,90,1,0,0,1,0,0,0,0,0,0,3,0.000000,11,55,1279,30,43,-13
+348,52,7,2026-05-01T16:00:00Z,True,10,Rosenborg,3,0,False,90,0,0,1,0,0,0,0,1,0,0,0,0.000000,5,55,1776,512,37,475
+348,63,8,2026-05-10T15:00:00Z,False,6,KFUM Oslo,0,2,False,90,0,0,1,0,0,0,0,0,0,0,0,0.000000,6,56,2414,599,40,559
+348,69,9,2026-05-16T14:00:00Z,True,13,Start,6,3,False,90,1,0,0,3,0,0,0,1,0,0,0,0.000000,6,56,2310,124,57,67
+348,82,10,2026-05-24T16:00:00Z,False,7,Kristiansund,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,56,2103,181,516,-335

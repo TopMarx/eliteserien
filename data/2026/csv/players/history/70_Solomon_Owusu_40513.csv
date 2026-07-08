@@ -1,0 +1,12 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+70,8,1,2026-03-15T18:15:00Z,False,14,Tromsø,4,0,False,90,0,0,0,4,0,0,0,0,0,0,0,0.000000,0,45,198,0,0,0
+70,14,2,2026-03-22T16:00:00Z,True,6,KFUM Oslo,3,1,False,65,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,45,227,14,9,5
+70,24,3,2026-04-07T17:00:00Z,False,1,Aalesund,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,205,1,24,-23
+70,31,4,2026-04-12T15:00:00Z,True,16,Vålerenga,1,1,False,50,0,0,0,1,0,0,0,0,0,0,0,0.000000,1,45,186,1,20,-19
+70,38,5,2026-04-19T15:00:00Z,False,7,Kristiansund,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,168,0,19,-19
+70,42,6,2026-04-25T14:00:00Z,True,15,Viking,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,156,0,12,-12
+70,53,7,2026-05-02T16:00:00Z,False,3,Brann,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,152,0,4,-4
+70,61,8,2026-05-09T12:00:00Z,False,12,Sarpsborg 08,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,143,0,8,-8
+70,71,9,2026-05-16T14:00:00Z,True,5,HamKam,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,134,0,9,-9
+70,76,10,2026-05-25T17:15:00Z,False,11,Sandefjord,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,133,0,2,-2
+70,85,11,2026-05-29T17:00:00Z,True,13,Start,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,131,0,2,-2

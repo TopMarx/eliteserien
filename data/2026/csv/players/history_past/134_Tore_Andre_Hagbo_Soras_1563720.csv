@@ -1,0 +1,5 @@
+player_id,opta_id,season_name,start_cost,end_cost,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points
+134,1563720,2017,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0
+134,1563720,2023,55,54,793,0,0,1,27,0,0,0,0,0,0,0,988.431030,29
+134,1563720,2024,50,49,1509,1,2,5,19,0,0,0,7,0,0,3,0.000000,50
+134,1563720,2025,45,43,1903,1,1,4,38,0,0,0,3,0,0,2,0.000000,58

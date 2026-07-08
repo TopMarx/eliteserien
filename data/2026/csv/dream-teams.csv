@@ -1,0 +1,133 @@
+type,gw,position,player_id,opta_id,name,player_position,points,is_top_player
+gw,1,1,383,2050550,Oscar Hedvall,GK,15,False
+gw,1,2,127,1634666,Sander Sjökvist,DEF,10,False
+gw,1,3,319,1660513,Tobias Guddal,DEF,10,False
+gw,1,4,190,1589895,Halldor Stenevik,DEF,9,False
+gw,1,5,324,1816761,Jens Hjertø-Dahl,MID,21,True
+gw,1,6,384,2051483,Promise Meliga,MID,13,False
+gw,1,7,325,180293,Ruben Yttergård Jenssen,MID,11,False
+gw,1,8,193,1601181,Emil Varhaugvik Breivik,MID,11,False
+gw,1,9,373,2017587,Carl Lange,MID,10,False
+gw,1,10,183,47482,Thomas Lehne Olsen,FWD,11,False
+gw,1,11,100,7544,Henrik Udahl,FWD,9,False
+gw,10,1,88,1757695,Marcus Sandberg,GK,7,False
+gw,10,2,122,1708342,Daniel Schneider,DEF,15,False
+gw,10,3,294,2027538,Omar Jebali,DEF,14,False
+gw,10,4,344,1704717,Henrik Falchener,DEF,11,False
+gw,10,5,317,1718369,Sander Håvik Innvær,DEF,10,False
+gw,10,6,106,1713289,Brage Skaret,DEF,9,False
+gw,10,7,92,1701180,Aksel Potur,MID,16,True
+gw,10,8,17,1677946,Håkon Evjen,MID,15,False
+gw,10,9,116,1637491,Teodor Berg Haltvik,MID,10,False
+gw,10,10,359,1703697,Simen Kvia-Egeskog,MID,9,False
+gw,10,11,141,1653564,Leander Næss Alvheim,FWD,7,False
+gw,11,1,115,1616887,Emil Ødegaard,GK,7,False
+gw,11,2,55,1572205,Daniel Eid,DEF,14,True
+gw,11,3,109,72830,Fredrik Berglie,DEF,9,False
+gw,11,4,124,1572189,Eirik Saunes,DEF,8,False
+gw,11,5,260,1468007,Sondre Sørli,MID,13,False
+gw,11,6,197,133035,Eirik Hestad,MID,11,False
+gw,11,7,440,1945154,Patrick Robert Metcalfe,MID,10,False
+gw,11,8,373,2017587,Carl Lange,MID,9,False
+gw,11,9,8,1965455,Kasper Høgh,FWD,13,False
+gw,11,10,218,1886317,Dino Islamovic,FWD,12,False
+gw,11,11,419,1900515,Marcus Haagensen Reed,FWD,9,False
+gw,2,1,272,1997548,Mamour Ndiaye,GK,8,False
+gw,2,2,346,1662744,Henrik Heggheim,DEF,16,True
+gw,2,3,385,312482,Ivan Näsberg,DEF,15,False
+gw,2,4,330,2050681,Alexander Warneryd,DEF,14,False
+gw,2,5,315,1553018,Erlend Dahl Reitan,DEF,11,False
+gw,2,6,386,2060135,Kolbeinn Finnsson,DEF,11,False
+gw,2,7,357,1814041,Niklas Fuglestad,MID,13,False
+gw,2,8,373,2017587,Carl Lange,MID,10,False
+gw,2,9,64,2027187,Rocco Shein,MID,10,False
+gw,2,10,260,1468007,Sondre Sørli,MID,10,False
+gw,2,11,414,1671654,Kristian Lonebu,FWD,7,False
+gw,3,1,353,97901,Arild Østbø,GK,6,False
+gw,3,2,1,1577305,Fredrik André Bjørkan,DEF,15,True
+gw,3,3,5,1728666,Fredrik Sjøvold,DEF,12,False
+gw,3,4,330,2050681,Alexander Warneryd,DEF,10,False
+gw,3,5,15,1660385,Ole Didrik Blomberg,MID,13,False
+gw,3,6,336,1727392,Heine Åsen Larsen,MID,11,False
+gw,3,7,402,1579692,Henrik Melland,MID,11,False
+gw,3,8,63,2025293,Oskar Øhlenschlæger,MID,11,False
+gw,3,9,324,1816761,Jens Hjertø-Dahl,MID,10,False
+gw,3,10,31,114647,Bård Finne,FWD,12,False
+gw,3,11,45,1619032,Noah Holm,FWD,11,False
+gw,4,1,322,1937139,Jakob Rønning Haugaard,GK,20,True
+gw,4,2,319,1660513,Tobias Guddal,DEF,15,False
+gw,4,3,163,1618145,Lars Ranger,DEF,12,False
+gw,4,4,321,1772935,Isak Vådebu,DEF,12,False
+gw,4,5,330,2050681,Alexander Warneryd,DEF,12,False
+gw,4,6,55,1572205,Daniel Eid,DEF,11,False
+gw,4,7,171,1661628,Markus Karlsbakk,MID,19,False
+gw,4,8,193,1601181,Emil Varhaugvik Breivik,MID,15,False
+gw,4,9,359,1703697,Simen Kvia-Egeskog,MID,13,False
+gw,4,10,179,2004897,Felix Va,MID,12,False
+gw,4,11,356,2004140,Peter Christiansen,FWD,14,False
+gw,5,1,144,1679797,Adrian Sæther,GK,8,False
+gw,5,2,330,2050681,Alexander Warneryd,DEF,15,True
+gw,5,3,5,1728666,Fredrik Sjøvold,DEF,13,False
+gw,5,4,80,1798379,Viðar Ari Jónsson,DEF,10,False
+gw,5,5,259,2060648,Xander Lambrix,DEF,9,False
+gw,5,6,360,91490,Zlatko Tripic,MID,11,False
+gw,5,7,171,1661628,Markus Karlsbakk,MID,10,False
+gw,5,8,384,2051483,Promise Meliga,MID,9,False
+gw,5,9,435,2018916,Mame Alassane Niang,FWD,13,False
+gw,5,10,100,7544,Henrik Udahl,FWD,12,False
+gw,5,11,312,2057372,Jesper Cornelius,FWD,9,False
+gw,6,1,10,1865861,Nikita Haikin,GK,14,False
+gw,6,2,2,1556766,Odin Bjørtuft,DEF,12,False
+gw,6,3,5,1728666,Fredrik Sjøvold,DEF,12,False
+gw,6,4,320,1637738,Vetle Skjærvik,DEF,11,False
+gw,6,5,348,1926835,Gianni Ryan Stensness,DEF,11,False
+gw,6,6,50,1958337,Kristall Máni Ingason,MID,25,True
+gw,6,7,51,2060091,Jón Dagur Thorsteinsson,MID,12,False
+gw,6,8,15,1660385,Ole Didrik Blomberg,MID,12,False
+gw,6,9,196,1854810,Sondre Granaas,MID,11,False
+gw,6,10,8,1965455,Kasper Høgh,FWD,20,False
+gw,6,11,191,23114,Fredrik Gulbrandsen,FWD,12,False
+gw,7,1,192,1996832,Albert Posiadała,GK,10,False
+gw,7,2,29,113596,Joachim Soltvedt,DEF,13,False
+gw,7,3,344,1704717,Henrik Falchener,DEF,13,False
+gw,7,4,97,1842637,Ethan Amundsen-Day,DEF,9,False
+gw,7,5,208,1703335,Sivert Sira Hansen,DEF,9,False
+gw,7,6,360,91490,Zlatko Tripic,MID,17,True
+gw,7,7,180,1793725,Gustav Nyheim,MID,14,False
+gw,7,8,50,1958337,Kristall Máni Ingason,MID,13,False
+gw,7,9,179,2004897,Felix Va,MID,11,False
+gw,7,10,363,1676656,Kristoffer Askildsen,MID,10,False
+gw,7,11,132,1442250,Magnus Wolff Eikrem,FWD,12,False
+gw,8,1,322,1937139,Jakob Rønning Haugaard,GK,8,False
+gw,8,2,321,1772935,Isak Vådebu,DEF,15,True
+gw,8,3,244,1727187,Vetle Walle Egeli,DEF,9,False
+gw,8,4,243,2031636,Zinedin Smajlović,DEF,9,False
+gw,8,5,346,1662744,Henrik Heggheim,DEF,9,False
+gw,8,6,74,37957,Fredrik Holmé,DEF,8,False
+gw,8,7,276,1743719,Victor Halvorsen,MID,15,False
+gw,8,8,230,1761642,Simen Bolkan Nordli,MID,11,False
+gw,8,9,342,1638744,Ruben Alte,MID,10,False
+gw,8,10,356,2004140,Peter Christiansen,FWD,13,False
+gw,8,11,100,7544,Henrik Udahl,FWD,9,False
+gw,9,1,10,1865861,Nikita Haikin,GK,8,False
+gw,9,2,5,1728666,Fredrik Sjøvold,DEF,20,True
+gw,9,3,58,3840,Simen Rafn,DEF,11,False
+gw,9,4,208,1703335,Sivert Sira Hansen,DEF,11,False
+gw,9,5,360,91490,Zlatko Tripic,MID,19,False
+gw,9,6,17,1677946,Håkon Evjen,MID,16,False
+gw,9,7,410,1763178,Endre Osenbroch,MID,15,False
+gw,9,8,18,1602490,Jens Petter Hauge,MID,14,False
+gw,9,9,14,291448,Patrick Berg,MID,12,False
+gw,9,10,8,1965455,Kasper Høgh,FWD,19,False
+gw,9,11,45,1619032,Noah Holm,FWD,13,False
+season,,1,322,1937139,Jakob Rønning Haugaard,GK,64,False
+season,,2,5,1728666,Fredrik Sjøvold,DEF,67,False
+season,,3,330,2050681,Alexander Warneryd,DEF,62,False
+season,,4,319,1660513,Tobias Guddal,DEF,59,False
+season,,5,346,1662744,Henrik Heggheim,DEF,59,False
+season,,6,360,91490,Zlatko Tripic,MID,96,True
+season,,7,193,1601181,Emil Varhaugvik Breivik,MID,69,False
+season,,8,324,1816761,Jens Hjertø-Dahl,MID,66,False
+season,,9,17,1677946,Håkon Evjen,MID,61,False
+season,,10,325,180293,Ruben Yttergård Jenssen,MID,58,False
+season,,11,8,1965455,Kasper Høgh,FWD,76,False

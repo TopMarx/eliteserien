@@ -1,0 +1,5 @@
+player_id,opta_id,season_name,start_cost,end_cost,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points
+324,1816761,2022,45,44,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0
+324,1816761,2023,45,45,376,0,1,1,5,0,0,0,1,0,0,0,690.792453,21
+324,1816761,2024,50,48,2011,1,0,9,31,0,0,0,0,0,0,1,0.000000,66
+324,1816761,2025,50,50,2375,4,7,11,29,0,0,0,3,0,0,5,0.000000,112

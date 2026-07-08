@@ -1,0 +1,14 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+323,8,1,2026-03-15T18:15:00Z,True,4,Fredrikstad,4,0,False,86,0,1,1,0,0,0,0,0,0,0,0,0.000000,6,50,1271,0,0,0
+323,12,2,2026-03-22T16:00:00Z,False,3,Brann,1,2,False,90,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,50,1257,21,57,-36
+323,22,3,2026-04-06T17:15:00Z,True,10,Rosenborg,2,0,False,90,0,0,1,0,0,0,0,0,0,0,0,0.000000,3,50,1261,92,101,-9
+323,26,4,2026-04-11T14:00:00Z,True,7,Kristiansund,2,0,False,90,0,0,1,0,0,0,0,0,0,0,0,0.000000,3,50,1201,34,87,-53
+323,33,4,2026-04-15T17:00:00Z,True,8,Lillestrøm,0,0,False,90,0,0,1,0,0,0,0,0,0,0,0,0.000000,3,50,1201,34,87,-53
+323,40,5,2026-04-19T15:00:00Z,False,12,Sarpsborg 08,0,1,False,90,0,0,1,0,0,0,0,0,0,0,0,0.000000,3,50,1167,18,64,-46
+323,45,6,2026-04-26T15:00:00Z,True,11,Sandefjord,3,1,False,46,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,50,1134,40,76,-36
+323,50,6,2026-04-29T17:00:00Z,True,3,Brann,0,5,False,90,0,0,0,5,0,0,0,1,0,0,0,0.000000,1,50,1134,40,76,-36
+323,57,7,2026-05-03T15:00:00Z,False,13,Start,1,1,False,90,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,50,1100,17,54,-37
+323,64,8,2026-05-10T15:00:00Z,True,9,Molde,2,0,False,90,0,0,1,0,0,0,0,1,0,0,0,0.000000,2,50,1066,10,37,-27
+323,74,9,2026-05-16T16:00:00Z,False,2,Bodø/Glimt,5,0,False,76,0,0,0,3,0,0,0,0,0,0,0,0.000000,2,50,1025,10,47,-37
+323,81,10,2026-05-25T15:00:00Z,True,1,Aalesund,1,1,False,90,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,50,1025,13,31,-18
+323,88,11,2026-05-29T17:00:00Z,False,6,KFUM Oslo,0,0,False,90,0,0,1,0,0,0,0,0,0,0,0,0.000000,3,50,1009,3,14,-11

@@ -1,0 +1,13 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+293,7,1,2026-03-15T16:00:00Z,False,6,KFUM Oslo,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,30,0,0,0
+293,9,2,2026-03-21T15:00:00Z,True,1,Aalesund,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,31,5,7,-2
+293,20,3,2026-04-06T15:00:00Z,False,12,Sarpsborg 08,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,25,2,8,-6
+293,25,4,2026-04-11T12:00:00Z,False,8,Lillestrøm,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,24,1,2,-1
+293,41,5,2026-04-19T17:15:00Z,True,9,Molde,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,24,0,1,-1
+293,48,6,2026-04-26T15:00:00Z,False,5,HamKam,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,21,0,2,-2
+293,51,6,2026-04-30T17:00:00Z,False,2,Bodø/Glimt,5,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,21,0,2,-2
+293,57,7,2026-05-03T15:00:00Z,True,14,Tromsø,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,20,0,2,-2
+293,69,9,2026-05-16T14:00:00Z,False,15,Viking,6,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,18,0,1,-1
+293,65,9,2026-05-20T16:00:00Z,True,2,Bodø/Glimt,1,4,False,76,0,0,0,2,0,0,0,0,0,0,0,0.000000,1,44,18,0,1,-1
+293,83,10,2026-05-25T12:30:00Z,True,16,Vålerenga,2,0,False,66,0,0,1,0,0,0,0,0,0,0,0,0.000000,6,44,18,0,0,0
+293,85,11,2026-05-29T17:00:00Z,False,4,Fredrikstad,2,1,False,90,0,0,0,2,0,0,0,0,1,0,0,0.000000,-2,44,18,0,0,0

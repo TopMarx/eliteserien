@@ -1,0 +1,12 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+285,13,2,2026-03-22T16:00:00Z,False,11,Sandefjord,0,2,False,86,0,0,1,0,0,0,0,0,0,0,3,0.000000,9,45,505,24,3,21
+285,20,3,2026-04-06T15:00:00Z,True,13,Start,1,1,False,69,1,0,0,1,0,0,0,0,0,0,0,0.000000,8,45,2047,1812,369,1443
+285,28,4,2026-04-12T12:30:00Z,False,10,Rosenborg,2,1,False,76,0,0,0,2,0,0,0,0,0,0,0,0.000000,1,45,2638,645,186,459
+285,5,4,2026-04-15T17:00:00Z,True,2,Bodø/Glimt,1,1,False,19,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,45,2638,645,186,459
+285,40,5,2026-04-19T15:00:00Z,True,14,Tromsø,0,1,False,71,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,45,2504,158,184,-26
+285,46,6,2026-04-26T15:00:00Z,False,6,KFUM Oslo,1,0,False,45,0,0,0,1,0,0,0,0,0,0,0,0.000000,1,45,2059,67,502,-435
+285,54,7,2026-05-03T12:30:00Z,False,8,Lillestrøm,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,2123,146,104,42
+285,61,8,2026-05-09T12:00:00Z,True,4,Fredrikstad,2,1,False,64,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,44,2069,82,114,-32
+285,75,9,2026-05-16T18:00:00Z,False,16,Vålerenga,3,2,False,79,0,1,0,2,0,0,0,0,0,0,1,0.000000,5,44,1603,30,190,-160
+285,80,10,2026-05-25T15:00:00Z,True,9,Molde,2,1,False,90,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,43,2097,191,44,147
+285,91,11,2026-05-29T17:00:00Z,False,3,Brann,1,2,False,75,0,1,0,1,0,0,0,0,0,0,2,0.000000,7,43,2132,123,52,71

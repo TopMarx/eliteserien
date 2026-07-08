@@ -1,0 +1,6 @@
+player_id,opta_id,season_name,start_cost,end_cost,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points
+45,1619032,2021,80,77,1159,3,4,3,18,0,0,0,2,0,0,4,0.000000,53
+45,1619032,2022,95,94,713,1,2,3,12,0,0,0,1,0,0,4,0.000000,31
+45,1619032,2023,80,76,36,0,0,0,1,0,0,0,0,0,0,0,78.456293,2
+45,1619032,2024,65,63,988,4,2,4,13,0,0,0,1,0,0,8,0.000000,56
+45,1619032,2025,75,71,1476,2,5,8,21,0,0,0,3,0,0,3,0.000000,64

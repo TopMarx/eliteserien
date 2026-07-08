@@ -1,0 +1,12 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+249,6,1,2026-03-15T16:00:00Z,False,16,Vålerenga,1,0,False,11,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,55,365,0,0,0
+249,13,2,2026-03-22T16:00:00Z,True,12,Sarpsborg 08,0,2,False,16,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,55,371,19,31,-12
+249,23,3,2026-04-07T17:00:00Z,False,6,KFUM Oslo,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,55,334,3,39,-36
+249,32,4,2026-04-12T17:15:00Z,False,3,Brann,0,1,False,4,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,54,300,5,35,-30
+249,35,5,2026-04-18T14:00:00Z,True,10,Rosenborg,0,0,False,12,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,54,292,2,14,-12
+249,45,6,2026-04-26T15:00:00Z,False,14,Tromsø,3,1,False,27,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,54,278,1,16,-15
+249,55,7,2026-05-03T15:00:00Z,True,1,Aalesund,1,0,False,19,1,0,0,0,0,0,0,0,0,0,0,0.000000,5,53,272,2,7,-5
+249,66,8,2026-05-10T15:00:00Z,True,7,Kristiansund,2,0,False,8,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,53,322,46,7,39
+249,72,9,2026-05-16T14:00:00Z,False,8,Lillestrøm,3,1,False,30,0,0,0,2,0,0,0,0,0,0,0,0.000000,1,53,288,2,16,-14
+249,76,10,2026-05-25T17:15:00Z,True,4,Fredrikstad,1,1,False,12,0,0,0,1,0,0,0,0,0,0,0,0.000000,1,53,285,1,14,-13
+249,90,11,2026-05-30T14:00:00Z,False,9,Molde,2,1,False,25,1,0,0,0,0,0,0,0,0,0,0,0.000000,5,53,264,0,22,-22
