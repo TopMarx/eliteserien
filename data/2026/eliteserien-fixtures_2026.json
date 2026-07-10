@@ -12402,6 +12402,25 @@
     "forzify_id": 0
   },
   {
+    "code": 8986288,
+    "event": 19,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 158,
+    "kickoff_time": "2026-09-04T17:00:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 13,
+    "team_a_score": null,
+    "team_h": 1,
+    "team_h_score": null,
+    "stats": [],
+    "tv_channel": "TV2P",
+    "tickets_url": "https://aafk.ticketco.shop/",
+    "forzify_id": 0
+  },
+  {
     "code": 8986282,
     "event": 19,
     "finished": false,
@@ -12475,25 +12494,6 @@
     "stats": [],
     "tv_channel": "TV2P",
     "tickets_url": "https://brann.ticketco.shop/",
-    "forzify_id": 0
-  },
-  {
-    "code": 8986288,
-    "event": 19,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 158,
-    "kickoff_time": "2026-09-06T15:00:00Z",
-    "minutes": 0,
-    "provisional_start_time": false,
-    "started": false,
-    "team_a": 13,
-    "team_a_score": null,
-    "team_h": 1,
-    "team_h_score": null,
-    "stats": [],
-    "tv_channel": "TV2P",
-    "tickets_url": "https://aafk.ticketco.shop/",
     "forzify_id": 0
   },
   {
