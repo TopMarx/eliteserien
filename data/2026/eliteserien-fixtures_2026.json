@@ -11360,17 +11360,123 @@
     "code": 8986226,
     "event": 12,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 101,
     "kickoff_time": "2026-07-11T12:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 8,
-    "team_a_score": null,
+    "team_a_score": 2,
     "team_h": 4,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 0,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 1,
+            "element": 180
+          },
+          {
+            "value": 1,
+            "element": 183
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 1,
+            "element": 176
+          },
+          {
+            "value": 1,
+            "element": 179
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 171
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 55
+          },
+          {
+            "value": 1,
+            "element": 58
+          },
+          {
+            "value": 1,
+            "element": 77
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 2,
+            "element": 160
+          }
+        ],
+        "h": [
+          {
+            "value": 3,
+            "element": 54
+          }
+        ]
+      },
+      {
+        "identifier": "bonus",
+        "a": [
+          {
+            "value": 3,
+            "element": 180
+          },
+          {
+            "value": 2,
+            "element": 179
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 63
+          }
+        ]
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://ffk.ticketco.shop/",
     "forzify_id": 0
@@ -11379,17 +11485,122 @@
     "code": 8986232,
     "event": 12,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 102,
     "kickoff_time": "2026-07-11T14:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 9,
-    "team_a_score": null,
+    "team_a_score": 2,
     "team_h": 1,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 2,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 1,
+            "element": 197
+          },
+          {
+            "value": 1,
+            "element": 202
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 405
+          },
+          {
+            "value": 1,
+            "element": 410
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 1,
+            "element": 197
+          },
+          {
+            "value": 1,
+            "element": 425
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 372
+          },
+          {
+            "value": 1,
+            "element": 415
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 198
+          },
+          {
+            "value": 1,
+            "element": 202
+          },
+          {
+            "value": 1,
+            "element": 421
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 397
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [],
+        "h": [
+          {
+            "value": 10,
+            "element": 393
+          }
+        ]
+      },
+      {
+        "identifier": "bonus",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://aafk.ticketco.shop/",
     "forzify_id": 0
@@ -11398,17 +11609,113 @@
     "code": 8986231,
     "event": 12,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 107,
     "kickoff_time": "2026-07-11T16:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 16,
-    "team_a_score": null,
+    "team_a_score": 0,
     "team_h": 14,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 4,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [],
+        "h": [
+          {
+            "value": 2,
+            "element": 336
+          },
+          {
+            "value": 1,
+            "element": 324
+          },
+          {
+            "value": 1,
+            "element": 335
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [],
+        "h": [
+          {
+            "value": 1,
+            "element": 318
+          },
+          {
+            "value": 1,
+            "element": 320
+          },
+          {
+            "value": 1,
+            "element": 323
+          },
+          {
+            "value": 1,
+            "element": 325
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 365
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 323
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 4,
+            "element": 383
+          }
+        ],
+        "h": [
+          {
+            "value": 3,
+            "element": 322
+          }
+        ]
+      },
+      {
+        "identifier": "bonus",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://til.ticketco.shop/",
     "forzify_id": 0
