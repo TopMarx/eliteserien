@@ -8,10 +8,10 @@ id,name,deadline_time,average_entry_score,highest_score,finished,data_checked,is
 7,Runde 7,2026-05-01T15:55:00Z,55,128,True,True,False,False,False
 8,Runde 8,2026-05-08T16:55:00Z,42,98,True,True,False,False,False
 9,Runde 9,2026-05-16T11:55:00Z,81,166,True,True,False,False,False
-10,Runde 10,2026-05-24T13:55:00Z,41,82,True,True,True,False,False
-11,Runde 11,2026-05-29T16:55:00Z,45,92,True,True,False,True,False
-12,Runde 13,2026-07-11T11:55:00Z,0,,False,False,False,False,True
-13,Runde 14,2026-07-16T16:55:00Z,0,,False,False,False,False,False
+10,Runde 10,2026-05-24T13:55:00Z,41,82,True,True,False,False,False
+11,Runde 11,2026-05-29T16:55:00Z,45,92,True,True,True,False,False
+12,Runde 13,2026-07-11T11:55:00Z,43,93,True,True,False,True,False
+13,Runde 14,2026-07-16T16:55:00Z,0,,False,False,False,False,True
 14,Runde 15,2026-07-25T13:55:00Z,0,,False,False,False,False,False
 15,Runde 16,2026-07-31T16:55:00Z,0,,False,False,False,False,False
 16,Runde 17,2026-08-07T16:55:00Z,0,,False,False,False,False,False

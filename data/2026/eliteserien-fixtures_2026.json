@@ -11359,7 +11359,7 @@
   {
     "code": 8986226,
     "event": 12,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 101,
     "kickoff_time": "2026-07-11T12:00:00Z",
@@ -11484,7 +11484,7 @@
   {
     "code": 8986232,
     "event": 12,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 102,
     "kickoff_time": "2026-07-11T14:00:00Z",
@@ -11627,7 +11627,7 @@
   {
     "code": 8986231,
     "event": 12,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 107,
     "kickoff_time": "2026-07-11T16:00:00Z",
@@ -11755,7 +11755,7 @@
   {
     "code": 8986227,
     "event": 12,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 105,
     "kickoff_time": "2026-07-12T12:30:00Z",
@@ -11862,7 +11862,7 @@
   {
     "code": 8986225,
     "event": 12,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 104,
     "kickoff_time": "2026-07-12T15:00:00Z",
@@ -11984,7 +11984,7 @@
   {
     "code": 8986228,
     "event": 12,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 106,
     "kickoff_time": "2026-07-12T15:00:00Z",
@@ -12081,7 +12081,20 @@
       {
         "identifier": "bonus",
         "a": [],
-        "h": []
+        "h": [
+          {
+            "value": 3,
+            "element": 221
+          },
+          {
+            "value": 2,
+            "element": 237
+          },
+          {
+            "value": 1,
+            "element": 229
+          }
+        ]
       },
       {
         "identifier": "own_goals",
@@ -12096,7 +12109,7 @@
   {
     "code": 8986229,
     "event": 12,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 103,
     "kickoff_time": "2026-07-12T15:00:00Z",
@@ -12240,7 +12253,7 @@
   {
     "code": 8986230,
     "event": 12,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 100,
     "kickoff_time": "2026-07-12T17:15:00Z",
@@ -12319,7 +12332,20 @@
       {
         "identifier": "bonus",
         "a": [],
-        "h": []
+        "h": [
+          {
+            "value": 3,
+            "element": 273
+          },
+          {
+            "value": 2,
+            "element": 285
+          },
+          {
+            "value": 1,
+            "element": 283
+          }
+        ]
       },
       {
         "identifier": "own_goals",

@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 100,
-      "code": 8986230,
-      "team_h": 12,
-      "team_h_score": null,
-      "team_a": 15,
-      "team_a_score": null,
-      "event": 12,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-07-12T17:15:00Z",
-      "event_name": "Runde 13",
-      "is_home": false
-    },
-    {
       "id": 109,
       "code": 8986239,
       "team_h": 15,
@@ -26,7 +11,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-07-18T18:00:00Z",
+      "kickoff_time": "2026-07-18T16:00:00Z",
       "event_name": "Runde 14",
       "is_home": true
     },
@@ -601,6 +586,36 @@
       "selected": 13238,
       "transfers_in": 1230,
       "transfers_out": 88
+    },
+    {
+      "element": 346,
+      "fixture": 100,
+      "opponent_team": 12,
+      "total_points": 2,
+      "was_home": false,
+      "kickoff_time": "2026-07-12T17:15:00Z",
+      "team_h_score": 1,
+      "team_a_score": 0,
+      "round": 12,
+      "modified": false,
+      "minutes": 62,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "bonus": 0,
+      "own_goals": 0,
+      "opta_index": "0.000000",
+      "value": 62,
+      "transfers_balance": 1107,
+      "selected": 14053,
+      "transfers_in": 1202,
+      "transfers_out": 95
     }
   ],
   "history_past": [

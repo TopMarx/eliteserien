@@ -32,6 +32,17 @@ gw,11,8,373,2017587,Carl Lange,MID,9,False
 gw,11,9,8,1965455,Kasper Høgh,FWD,13,False
 gw,11,10,218,1886317,Dino Islamovic,FWD,12,False
 gw,11,11,419,1900515,Marcus Haagensen Reed,FWD,9,False
+gw,12,1,273,1568480,Leander Øy,GK,9,False
+gw,12,2,235,163662,Jonas Svensson,DEF,12,False
+gw,12,3,285,1624129,Claus Niyukuri,DEF,11,False
+gw,12,4,320,1637738,Vetle Skjærvik,DEF,9,False
+gw,12,5,318,1618096,Leo Cornic,DEF,9,False
+gw,12,6,336,1727392,Heine Åsen Larsen,MID,15,True
+gw,12,7,180,1793725,Gustav Nyheim,MID,11,False
+gw,12,8,324,1816761,Jens Hjertø-Dahl,MID,11,False
+gw,12,9,92,1701180,Aksel Potur,MID,10,False
+gw,12,10,197,133035,Eirik Hestad,MID,10,False
+gw,12,11,45,1619032,Noah Holm,FWD,7,False
 gw,2,1,272,1997548,Mamour Ndiaye,GK,8,False
 gw,2,2,346,1662744,Henrik Heggheim,DEF,16,True
 gw,2,3,385,312482,Ivan Näsberg,DEF,15,False
@@ -120,14 +131,14 @@ gw,9,8,18,1602490,Jens Petter Hauge,MID,14,False
 gw,9,9,14,291448,Patrick Berg,MID,12,False
 gw,9,10,8,1965455,Kasper Høgh,FWD,19,False
 gw,9,11,45,1619032,Noah Holm,FWD,13,False
-season,,1,322,1937139,Jakob Rønning Haugaard,GK,64,False
-season,,2,5,1728666,Fredrik Sjøvold,DEF,67,False
-season,,3,330,2050681,Alexander Warneryd,DEF,62,False
-season,,4,319,1660513,Tobias Guddal,DEF,59,False
-season,,5,346,1662744,Henrik Heggheim,DEF,59,False
-season,,6,360,91490,Zlatko Tripic,MID,96,True
-season,,7,193,1601181,Emil Varhaugvik Breivik,MID,69,False
-season,,8,324,1816761,Jens Hjertø-Dahl,MID,66,False
-season,,9,17,1677946,Håkon Evjen,MID,61,False
-season,,10,325,180293,Ruben Yttergård Jenssen,MID,58,False
-season,,11,8,1965455,Kasper Høgh,FWD,76,False
+season,,1,322,1937139,Jakob Rønning Haugaard,GK,71,False
+season,,2,5,1728666,Fredrik Sjøvold,DEF,73,False
+season,,3,319,1660513,Tobias Guddal,DEF,65,False
+season,,4,318,1618096,Leo Cornic,DEF,65,False
+season,,5,330,2050681,Alexander Warneryd,DEF,62,False
+season,,6,360,91490,Zlatko Tripic,MID,98,True
+season,,7,324,1816761,Jens Hjertø-Dahl,MID,77,False
+season,,8,193,1601181,Emil Varhaugvik Breivik,MID,71,False
+season,,9,336,1727392,Heine Åsen Larsen,MID,68,False
+season,,10,325,180293,Ruben Yttergård Jenssen,MID,64,False
+season,,11,8,1965455,Kasper Høgh,FWD,78,False
