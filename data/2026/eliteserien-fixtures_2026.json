@@ -12361,17 +12361,113 @@
     "code": 8986240,
     "event": 13,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 112,
     "kickoff_time": "2026-07-16T17:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 1,
-    "team_a_score": null,
+    "team_a_score": 1,
     "team_h": 16,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 6,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 1,
+            "element": 410
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 378
+          },
+          {
+            "value": 2,
+            "element": 381
+          },
+          {
+            "value": 2,
+            "element": 388
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 1,
+            "element": 169
+          }
+        ],
+        "h": [
+          {
+            "value": 3,
+            "element": 371
+          },
+          {
+            "value": 1,
+            "element": 378
+          },
+          {
+            "value": 1,
+            "element": 382
+          },
+          {
+            "value": 1,
+            "element": 386
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 4,
+            "element": 393
+          }
+        ],
+        "h": [
+          {
+            "value": 5,
+            "element": 383
+          }
+        ]
+      },
+      {
+        "identifier": "bonus",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://vif-fotball.ticketco.shop/",
     "forzify_id": 0
