@@ -12460,7 +12460,20 @@
       {
         "identifier": "bonus",
         "a": [],
-        "h": []
+        "h": [
+          {
+            "value": 3,
+            "element": 371
+          },
+          {
+            "value": 2,
+            "element": 378
+          },
+          {
+            "value": 1,
+            "element": 388
+          }
+        ]
       },
       {
         "identifier": "own_goals",
@@ -12476,17 +12489,109 @@
     "code": 8986233,
     "event": 13,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 111,
     "kickoff_time": "2026-07-17T17:15:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 4,
-    "team_a_score": null,
+    "team_a_score": 0,
     "team_h": 2,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 1,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [],
+        "h": [
+          {
+            "value": 1,
+            "element": 15
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 54
+          },
+          {
+            "value": 1,
+            "element": 58
+          },
+          {
+            "value": 1,
+            "element": 62
+          },
+          {
+            "value": 1,
+            "element": 71
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 12
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 4,
+            "element": 54
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "bonus",
+        "a": [
+          {
+            "value": 1,
+            "element": 54
+          }
+        ],
+        "h": [
+          {
+            "value": 3,
+            "element": 12
+          },
+          {
+            "value": 2,
+            "element": 448
+          }
+        ]
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://glimt.ticketco.shop/",
     "forzify_id": 0
