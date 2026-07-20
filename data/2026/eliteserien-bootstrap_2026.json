@@ -2241,7 +2241,7 @@
       "link_url": "www.asanefotball.no"
     }
   ],
-  "total_players": 41988,
+  "total_players": 41989,
   "element_stats": [
     {
       "label": "Minutes played",
@@ -3387,8 +3387,8 @@
       "team": 2,
       "team_code": 4,
       "total_points": 64,
-      "transfers_in": 7554,
-      "transfers_in_event": 40,
+      "transfers_in": 7555,
+      "transfers_in_event": 41,
       "transfers_out": 2760,
       "transfers_out_event": 164,
       "value_form": "0.1",
@@ -3451,8 +3451,8 @@
       "total_points": 35,
       "transfers_in": 5750,
       "transfers_in_event": 6,
-      "transfers_out": 6870,
-      "transfers_out_event": 12,
+      "transfers_out": 6871,
+      "transfers_out_event": 13,
       "value_form": "0.0",
       "value_season": "3.4",
       "web_name": "Hauge",
