@@ -12360,7 +12360,7 @@
   {
     "code": 8986240,
     "event": 13,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 112,
     "kickoff_time": "2026-07-16T17:00:00Z",
@@ -12488,7 +12488,7 @@
   {
     "code": 8986233,
     "event": 13,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 111,
     "kickoff_time": "2026-07-17T17:15:00Z",
@@ -12599,7 +12599,7 @@
   {
     "code": 8986234,
     "event": 13,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 113,
     "kickoff_time": "2026-07-18T12:00:00Z",
@@ -12727,7 +12727,7 @@
   {
     "code": 8986235,
     "event": 13,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 114,
     "kickoff_time": "2026-07-18T14:00:00Z",
@@ -12791,13 +12791,13 @@
         "identifier": "saves",
         "a": [
           {
-            "value": 3,
+            "value": 2,
             "element": 273
           }
         ],
         "h": [
           {
-            "value": 3,
+            "value": 2,
             "element": 144
           }
         ]
@@ -12834,7 +12834,7 @@
   {
     "code": 8986236,
     "event": 13,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 110,
     "kickoff_time": "2026-07-18T14:00:00Z",
@@ -12967,7 +12967,7 @@
   {
     "code": 8986238,
     "event": 13,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 115,
     "kickoff_time": "2026-07-18T14:00:00Z",
@@ -13091,7 +13091,7 @@
   {
     "code": 8986237,
     "event": 13,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 108,
     "kickoff_time": "2026-07-18T16:00:00Z",
@@ -13224,7 +13224,7 @@
   {
     "code": 8986239,
     "event": 13,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 109,
     "kickoff_time": "2026-07-18T16:00:00Z",
@@ -13358,7 +13358,7 @@
   {
     "code": 8986137,
     "event": 13,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 16,
     "kickoff_time": "2026-07-22T17:00:00Z",
@@ -13473,7 +13473,7 @@
   {
     "code": 8986212,
     "event": 13,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 86,
     "kickoff_time": "2026-07-22T17:00:00Z",
@@ -13581,8 +13581,22 @@
       },
       {
         "identifier": "bonus",
-        "a": [],
-        "h": []
+        "a": [
+          {
+            "value": 3,
+            "element": 363
+          },
+          {
+            "value": 2,
+            "element": 355
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 163
+          }
+        ]
       },
       {
         "identifier": "own_goals",
