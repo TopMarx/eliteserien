@@ -13612,17 +13612,141 @@
     "code": 8986243,
     "event": 14,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 117,
     "kickoff_time": "2026-07-25T14:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 13,
-    "team_a_score": null,
+    "team_a_score": 2,
     "team_h": 7,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 1,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 1,
+            "element": 304
+          },
+          {
+            "value": 1,
+            "element": 309
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 150
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 1,
+            "element": 313
+          },
+          {
+            "value": 1,
+            "element": 314
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 158
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 313
+          },
+          {
+            "value": 1,
+            "element": 315
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 155
+          },
+          {
+            "value": 1,
+            "element": 157
+          },
+          {
+            "value": 1,
+            "element": 159
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": [
+          {
+            "value": 1,
+            "element": 154
+          }
+        ]
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 1,
+            "element": 290
+          }
+        ],
+        "h": [
+          {
+            "value": 4,
+            "element": 143
+          }
+        ]
+      },
+      {
+        "identifier": "bonus",
+        "a": [
+          {
+            "value": 3,
+            "element": 309
+          },
+          {
+            "value": 2,
+            "element": 304
+          },
+          {
+            "value": 1,
+            "element": 312
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://kristiansundbk.ticketco.events/no/nb",
     "forzify_id": 0
