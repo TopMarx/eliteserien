@@ -14303,8 +14303,22 @@
       },
       {
         "identifier": "bonus",
-        "a": [],
-        "h": []
+        "a": [
+          {
+            "value": 2,
+            "element": 92
+          }
+        ],
+        "h": [
+          {
+            "value": 3,
+            "element": 278
+          },
+          {
+            "value": 1,
+            "element": 282
+          }
+        ]
       },
       {
         "identifier": "own_goals",
@@ -14428,8 +14442,22 @@
       },
       {
         "identifier": "bonus",
-        "a": [],
-        "h": []
+        "a": [
+          {
+            "value": 3,
+            "element": 363
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 405
+          },
+          {
+            "value": 1,
+            "element": 396
+          }
+        ]
       },
       {
         "identifier": "own_goals",
@@ -14445,17 +14473,121 @@
     "code": 8986244,
     "event": 14,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 122,
     "kickoff_time": "2026-07-27T17:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 4,
-    "team_a_score": null,
+    "team_a_score": 0,
     "team_h": 10,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 4,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [],
+        "h": [
+          {
+            "value": 1,
+            "element": 214
+          },
+          {
+            "value": 1,
+            "element": 220
+          },
+          {
+            "value": 1,
+            "element": 221
+          },
+          {
+            "value": 1,
+            "element": 237
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [],
+        "h": [
+          {
+            "value": 2,
+            "element": 224
+          },
+          {
+            "value": 1,
+            "element": 222
+          },
+          {
+            "value": 1,
+            "element": 236
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [],
+        "h": [
+          {
+            "value": 1,
+            "element": 214
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 6,
+            "element": 54
+          }
+        ],
+        "h": [
+          {
+            "value": 4,
+            "element": 232
+          }
+        ]
+      },
+      {
+        "identifier": "bonus",
+        "a": [],
+        "h": [
+          {
+            "value": 3,
+            "element": 224
+          },
+          {
+            "value": 2,
+            "element": 221
+          },
+          {
+            "value": 1,
+            "element": 214
+          }
+        ]
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://billett.rbk.no/",
     "forzify_id": 0
