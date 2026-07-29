@@ -11,7 +11,7 @@
     },
     {
       "element": 5,
-      "points": 85,
+      "points": 91,
       "position": 2
     },
     {
@@ -30,18 +30,18 @@
       "position": 5
     },
     {
+      "element": 193,
+      "points": 88,
+      "position": 6
+    },
+    {
       "element": 324,
       "points": 84,
-      "position": 6
+      "position": 7
     },
     {
       "element": 336,
       "points": 80,
-      "position": 7
-    },
-    {
-      "element": 193,
-      "points": 76,
       "position": 8
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "element": 356,
-      "points": 68,
+      "points": 70,
       "position": 11
     }
   ]
