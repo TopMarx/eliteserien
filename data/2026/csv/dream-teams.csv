@@ -65,6 +65,17 @@ gw,14,8,371,1575610,Henrik Bjørdal,MID,10,False
 gw,14,9,388,1997560,Lucas Ravn-Haren,MID,10,False
 gw,14,10,37,1608592,Felix Horn Myhre,MID,10,False
 gw,14,11,434,1602929,Ola Brynhildsen,FWD,6,False
+gw,15,1,353,97901,Arild Østbø,GK,9,False
+gw,15,2,330,2050681,Alexander Warneryd,DEF,22,True
+gw,15,3,102,1756035,Martin Gjone,DEF,16,False
+gw,15,4,74,37957,Fredrik Holmé,DEF,15,False
+gw,15,5,79,2017745,Anton Ekeroth,DEF,10,False
+gw,15,6,16,1612262,Sondre Brunstad Fet,MID,14,False
+gw,15,7,360,91490,Zlatko Tripic,MID,13,False
+gw,15,8,323,2018039,David Edvardsson,MID,12,False
+gw,15,9,92,1701180,Aksel Potur,MID,11,False
+gw,15,10,196,1854810,Sondre Granaas,MID,10,False
+gw,15,11,356,2004140,Peter Christiansen,FWD,10,False
 gw,2,1,272,1997548,Mamour Ndiaye,GK,8,False
 gw,2,2,346,1662744,Henrik Heggheim,DEF,16,True
 gw,2,3,385,312482,Ivan Näsberg,DEF,15,False
@@ -153,14 +164,14 @@ gw,9,8,18,1602490,Jens Petter Hauge,MID,14,False
 gw,9,9,14,291448,Patrick Berg,MID,12,False
 gw,9,10,8,1965455,Kasper Høgh,FWD,19,False
 gw,9,11,45,1619032,Noah Holm,FWD,13,False
-season,,1,322,1937139,Jakob Rønning Haugaard,GK,73,False
-season,,2,5,1728666,Fredrik Sjøvold,DEF,91,False
-season,,3,330,2050681,Alexander Warneryd,DEF,71,False
-season,,4,319,1660513,Tobias Guddal,DEF,67,False
-season,,5,360,91490,Zlatko Tripic,MID,112,True
-season,,6,193,1601181,Emil Varhaugvik Breivik,MID,88,False
-season,,7,324,1816761,Jens Hjertø-Dahl,MID,84,False
-season,,8,336,1727392,Heine Åsen Larsen,MID,80,False
-season,,9,325,180293,Ruben Yttergård Jenssen,MID,74,False
-season,,10,8,1965455,Kasper Høgh,FWD,80,False
-season,,11,356,2004140,Peter Christiansen,FWD,70,False
+season,,1,10,1865861,Nikita Haikin,GK,75,False
+season,,2,5,1728666,Fredrik Sjøvold,DEF,97,False
+season,,3,330,2050681,Alexander Warneryd,DEF,93,False
+season,,4,2,1556766,Odin Bjørtuft,DEF,73,False
+season,,5,360,91490,Zlatko Tripic,MID,125,True
+season,,6,193,1601181,Emil Varhaugvik Breivik,MID,97,False
+season,,7,336,1727392,Heine Åsen Larsen,MID,88,False
+season,,8,324,1816761,Jens Hjertø-Dahl,MID,84,False
+season,,9,15,1660385,Ole Didrik Blomberg,MID,83,False
+season,,10,356,2004140,Peter Christiansen,FWD,80,False
+season,,11,8,1965455,Kasper Høgh,FWD,80,False

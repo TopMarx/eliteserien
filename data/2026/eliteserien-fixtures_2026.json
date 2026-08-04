@@ -14595,7 +14595,7 @@
   {
     "code": 8986255,
     "event": 15,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 123,
     "kickoff_time": "2026-07-31T17:00:00Z",
@@ -14732,7 +14732,7 @@
   {
     "code": 8986249,
     "event": 15,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 125,
     "kickoff_time": "2026-07-31T19:00:00Z",
@@ -14864,7 +14864,7 @@
   {
     "code": 8986251,
     "event": 15,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 124,
     "kickoff_time": "2026-08-01T14:00:00Z",
@@ -14967,7 +14967,7 @@
   {
     "code": 8986254,
     "event": 15,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 126,
     "kickoff_time": "2026-08-01T16:00:00Z",
@@ -15103,7 +15103,7 @@
   {
     "code": 8986256,
     "event": 15,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 128,
     "kickoff_time": "2026-08-02T15:00:00Z",
@@ -15254,7 +15254,7 @@
   {
     "code": 8986252,
     "event": 15,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 129,
     "kickoff_time": "2026-08-02T15:00:00Z",
@@ -15375,7 +15375,7 @@
   {
     "code": 8986253,
     "event": 15,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 130,
     "kickoff_time": "2026-08-02T15:00:00Z",
@@ -15420,10 +15420,6 @@
           {
             "value": 1,
             "element": 285
-          },
-          {
-            "value": 1,
-            "element": 288
           },
           {
             "value": 1,
@@ -15519,7 +15515,7 @@
   {
     "code": 8986250,
     "event": 15,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 127,
     "kickoff_time": "2026-08-02T17:15:00Z",
@@ -15640,8 +15636,22 @@
       },
       {
         "identifier": "bonus",
-        "a": [],
-        "h": []
+        "a": [
+          {
+            "value": 3,
+            "element": 236
+          },
+          {
+            "value": 1,
+            "element": 210
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 35
+          }
+        ]
       },
       {
         "identifier": "own_goals",

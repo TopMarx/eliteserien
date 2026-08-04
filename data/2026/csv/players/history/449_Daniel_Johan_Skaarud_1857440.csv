@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 449,109,13,2026-07-18T16:00:00Z,False,15,Viking,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,55,0,0,0,0
 449,121,14,2026-07-26T15:00:00Z,True,2,Bodø/Glimt,0,3,False,1,0,0,0,1,0,0,0,0,0,0,0,0.000000,1,55,0,0,0,0
+449,124,15,2026-08-01T14:00:00Z,False,4,Fredrikstad,1,0,False,20,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,55,0,0,0,0
