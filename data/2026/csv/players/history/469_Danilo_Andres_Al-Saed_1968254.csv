@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 469,116,14,2026-07-26T15:00:00Z,False,12,Sarpsborg 08,1,0,False,20,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,55,5,5,0,5
 469,123,15,2026-07-31T17:00:00Z,False,16,Vålerenga,0,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,55,10,6,1,5
+469,132,16,2026-08-09T15:00:00Z,True,1,Aalesund,1,1,False,1,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,55,9,1,2,-1

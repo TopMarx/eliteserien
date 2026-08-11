@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 136,
-      "code": 8986263,
-      "team_h": 15,
-      "team_h_score": null,
-      "team_a": 12,
-      "team_a_score": null,
-      "event": 16,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-08-08T14:00:00Z",
-      "event_name": "Runde 17",
-      "is_home": false
-    },
-    {
       "id": 142,
       "code": 8986271,
       "team_h": 12,
@@ -676,6 +661,36 @@
       "selected": 6512,
       "transfers_in": 154,
       "transfers_out": 138
+    },
+    {
+      "element": 270,
+      "fixture": 136,
+      "opponent_team": 15,
+      "total_points": 2,
+      "was_home": false,
+      "kickoff_time": "2026-08-08T14:00:00Z",
+      "team_h_score": 2,
+      "team_a_score": 1,
+      "round": 16,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 2,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "bonus": 0,
+      "own_goals": 0,
+      "opta_index": "0.000000",
+      "value": 87,
+      "transfers_balance": 280,
+      "selected": 6817,
+      "transfers_in": 425,
+      "transfers_out": 145
     }
   ],
   "history_past": [
