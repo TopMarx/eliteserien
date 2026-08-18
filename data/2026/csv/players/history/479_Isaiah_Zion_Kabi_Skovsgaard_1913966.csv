@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 479,129,15,2026-08-02T15:00:00Z,True,7,Kristiansund,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0,0,0,0
 479,133,16,2026-08-07T17:00:00Z,False,11,Sandefjord,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,23,30,8,22
+479,138,17,2026-08-15T14:00:00Z,True,8,Lillestrøm,1,1,False,11,0,1,0,0,0,0,0,0,0,0,0,0.000000,4,45,22,7,8,-1
