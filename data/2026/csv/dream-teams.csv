@@ -98,6 +98,17 @@ gw,17,8,410,1763178,Endre Osenbroch,MID,12,False
 gw,17,9,381,1571045,Mohamed Ofkir,MID,11,False
 gw,17,10,382,1561501,Mathias Grundetjern,FWD,15,False
 gw,17,11,487,1671868,Oscar Kapskarmo,FWD,12,False
+gw,18,1,273,1568480,Leander Øy,GK,11,False
+gw,18,2,1,1577305,Fredrik André Bjørkan,DEF,17,True
+gw,18,3,169,1970930,Uba Charles Nwokoma,DEF,9,False
+gw,18,4,315,1553018,Erlend Dahl Reitan,DEF,8,False
+gw,18,5,62,1816099,Benjamin Faraas,MID,14,False
+gw,18,6,359,1703697,Simen Kvia-Egeskog,MID,14,False
+gw,18,7,221,1688819,Emil Konradsen Ceïde,MID,12,False
+gw,18,8,196,1854810,Sondre Granaas,MID,9,False
+gw,18,9,7,1613544,Andreas Helmersen,FWD,13,False
+gw,18,10,312,2057372,Jesper Cornelius,FWD,10,False
+gw,18,11,59,1767706,Henrik Skogvold,FWD,10,False
 gw,2,1,272,1997548,Mamour Ndiaye,GK,8,False
 gw,2,2,346,1662744,Henrik Heggheim,DEF,16,True
 gw,2,3,385,312482,Ivan Näsberg,DEF,15,False
@@ -186,14 +197,14 @@ gw,9,8,18,1602490,Jens Petter Hauge,MID,14,False
 gw,9,9,14,291448,Patrick Berg,MID,12,False
 gw,9,10,8,1965455,Kasper Høgh,FWD,19,False
 gw,9,11,45,1619032,Noah Holm,FWD,13,False
-season,,1,10,1865861,Nikita Haikin,GK,77,False
-season,,2,5,1728666,Fredrik Sjøvold,DEF,99,False
-season,,3,330,2050681,Alexander Warneryd,DEF,94,False
-season,,4,346,1662744,Henrik Heggheim,DEF,81,False
-season,,5,360,91490,Zlatko Tripic,MID,134,True
-season,,6,193,1601181,Emil Varhaugvik Breivik,MID,101,False
-season,,7,237,2060228,Amin Chiakha,MID,97,False
-season,,8,336,1727392,Heine Åsen Larsen,MID,94,False
-season,,9,15,1660385,Ole Didrik Blomberg,MID,88,False
-season,,10,356,2004140,Peter Christiansen,FWD,91,False
-season,,11,8,1965455,Kasper Høgh,FWD,80,False
+season,,1,322,1937139,Jakob Rønning Haugaard,GK,81,False
+season,,2,330,2050681,Alexander Warneryd,DEF,102,False
+season,,3,5,1728666,Fredrik Sjøvold,DEF,100,False
+season,,4,346,1662744,Henrik Heggheim,DEF,82,False
+season,,5,1,1577305,Fredrik André Bjørkan,DEF,80,False
+season,,6,360,91490,Zlatko Tripic,MID,139,True
+season,,7,193,1601181,Emil Varhaugvik Breivik,MID,105,False
+season,,8,237,2060228,Amin Chiakha,MID,99,False
+season,,9,336,1727392,Heine Åsen Larsen,MID,96,False
+season,,10,179,2004897,Felix Va,MID,88,False
+season,,11,356,2004140,Peter Christiansen,FWD,97,False

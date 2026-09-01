@@ -17482,7 +17482,7 @@
   {
     "code": 8986273,
     "event": 18,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 152,
     "kickoff_time": "2026-08-30T12:30:00Z",
@@ -17509,15 +17509,11 @@
         "h": [
           {
             "value": 2,
-            "element": 7
-          },
-          {
-            "value": 1,
             "element": 1
           },
           {
-            "value": 1,
-            "element": 2
+            "value": 2,
+            "element": 7
           }
         ]
       },
@@ -17540,15 +17536,15 @@
           },
           {
             "value": 1,
+            "element": 2
+          },
+          {
+            "value": 1,
             "element": 4
           },
           {
             "value": 1,
             "element": 12
-          },
-          {
-            "value": 1,
-            "element": 14
           }
         ]
       },
@@ -17629,7 +17625,7 @@
   {
     "code": 8986274,
     "event": 18,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 148,
     "kickoff_time": "2026-08-30T15:00:00Z",
@@ -17768,7 +17764,7 @@
   {
     "code": 8986276,
     "event": 18,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 146,
     "kickoff_time": "2026-08-30T15:00:00Z",
@@ -17836,13 +17832,13 @@
         "identifier": "saves",
         "a": [
           {
-            "value": 1,
+            "value": 5,
             "element": 32
           }
         ],
         "h": [
           {
-            "value": 2,
+            "value": 3,
             "element": 246
           }
         ]
@@ -17879,7 +17875,7 @@
   {
     "code": 8986277,
     "event": 18,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 150,
     "kickoff_time": "2026-08-30T15:00:00Z",
@@ -18030,7 +18026,7 @@
   {
     "code": 8986278,
     "event": 18,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 149,
     "kickoff_time": "2026-08-30T15:00:00Z",
@@ -18133,7 +18129,7 @@
   {
     "code": 8986280,
     "event": 18,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 151,
     "kickoff_time": "2026-08-30T15:00:00Z",
@@ -18267,7 +18263,7 @@
         ],
         "h": [
           {
-            "value": 6,
+            "value": 5,
             "element": 383
           }
         ]
@@ -18304,7 +18300,7 @@
   {
     "code": 8986279,
     "event": 18,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 147,
     "kickoff_time": "2026-08-30T15:00:00Z",
@@ -18396,21 +18392,35 @@
         "identifier": "saves",
         "a": [
           {
-            "value": 1,
+            "value": 4,
             "element": 454
           }
         ],
         "h": [
           {
-            "value": 1,
+            "value": 3,
             "element": 352
           }
         ]
       },
       {
         "identifier": "bonus",
-        "a": [],
-        "h": []
+        "a": [
+          {
+            "value": 2,
+            "element": 169
+          }
+        ],
+        "h": [
+          {
+            "value": 3,
+            "element": 359
+          },
+          {
+            "value": 1,
+            "element": 356
+          }
+        ]
       },
       {
         "identifier": "own_goals",
@@ -18425,7 +18435,7 @@
   {
     "code": 8986275,
     "event": 18,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 145,
     "kickoff_time": "2026-08-30T17:15:00Z",
@@ -18534,8 +18544,22 @@
       },
       {
         "identifier": "bonus",
-        "a": [],
-        "h": []
+        "a": [
+          {
+            "value": 3,
+            "element": 62
+          },
+          {
+            "value": 2,
+            "element": 59
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 179
+          }
+        ]
       },
       {
         "identifier": "own_goals",
@@ -18662,6 +18686,25 @@
     "forzify_id": 0
   },
   {
+    "code": 8986287,
+    "event": 19,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 156,
+    "kickoff_time": "2026-09-06T15:00:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 16,
+    "team_a_score": null,
+    "team_h": 12,
+    "team_h_score": null,
+    "stats": [],
+    "tv_channel": "TV2P",
+    "tickets_url": "https://sarpsborg08.ticketco.events/no/nb",
+    "forzify_id": 0
+  },
+  {
     "code": 8986283,
     "event": 19,
     "finished": false,
@@ -18678,25 +18721,6 @@
     "stats": [],
     "tv_channel": "TV2P",
     "tickets_url": "https://kristiansundbk.ticketco.events/no/nb",
-    "forzify_id": 0
-  },
-  {
-    "code": 8986287,
-    "event": 19,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 156,
-    "kickoff_time": "2026-09-07T17:00:00Z",
-    "minutes": 0,
-    "provisional_start_time": false,
-    "started": false,
-    "team_a": 16,
-    "team_a_score": null,
-    "team_h": 12,
-    "team_h_score": null,
-    "stats": [],
-    "tv_channel": "TV2P",
-    "tickets_url": "https://sarpsborg08.ticketco.events/no/nb",
     "forzify_id": 0
   },
   {
