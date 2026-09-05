@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 485,131,16,2026-08-08T16:00:00Z,True,4,Fredrikstad,0,1,False,90,0,0,0,1,0,0,0,0,0,2,0,0.000000,2,45,0,0,0,0
 485,150,18,2026-08-30T15:00:00Z,True,6,KFUM Oslo,4,1,False,90,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,45,17,11,2,9
+485,158,19,2026-09-04T17:00:00Z,False,1,Aalesund,2,0,False,90,0,0,0,2,0,0,0,0,0,10,0,0.000000,4,45,23,3,0,3
