@@ -2,7 +2,7 @@
   "team_opta_id": 198,
   "team_name": "Viking",
   "season": 2026,
-  "generated_at": "2026-09-05T04:58:21.680486+00:00",
+  "generated_at": "2026-09-06T02:39:31.536725+00:00",
   "players": [
     {
       "player_id": 342,
@@ -4725,7 +4725,7 @@
           "element": 371,
           "fixture": 160,
           "opponent_team": 11,
-          "total_points": 6,
+          "total_points": 8,
           "was_home": false,
           "kickoff_time": "2026-09-04T19:00:00Z",
           "team_h_score": 1,
@@ -4742,7 +4742,7 @@
           "yellow_cards": 0,
           "red_cards": 0,
           "saves": 0,
-          "bonus": 0,
+          "bonus": 2,
           "own_goals": 0,
           "opta_index": "0.000000",
           "value": 62,

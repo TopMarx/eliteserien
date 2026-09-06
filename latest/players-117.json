@@ -2,7 +2,7 @@
   "team_opta_id": 117,
   "team_name": "Fredrikstad",
   "season": 2026,
-  "generated_at": "2026-09-05T04:58:21.680486+00:00",
+  "generated_at": "2026-09-06T02:39:31.536725+00:00",
   "players": [
     {
       "player_id": 54,
@@ -1820,7 +1820,7 @@
           "element": 504,
           "fixture": 159,
           "opponent_team": 2,
-          "total_points": 6,
+          "total_points": 7,
           "was_home": true,
           "kickoff_time": "2026-09-04T17:00:00Z",
           "team_h_score": 1,
@@ -1837,7 +1837,7 @@
           "yellow_cards": 0,
           "red_cards": 0,
           "saves": 0,
-          "bonus": 0,
+          "bonus": 1,
           "own_goals": 0,
           "opta_index": "0.000000",
           "value": 55,
