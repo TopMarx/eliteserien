@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 154,
-      "code": 8986283,
-      "team_h": 7,
-      "team_h_score": null,
-      "team_a": 14,
-      "team_a_score": null,
-      "event": 19,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-09-06T17:15:00Z",
-      "event_name": "Runde 20",
-      "is_home": false
-    },
-    {
       "id": 167,
       "code": 8986294,
       "team_h": 10,
@@ -56,7 +41,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-10-11T15:00:00Z",
+      "kickoff_time": "2026-10-11T12:30:00Z",
       "event_name": "Runde 23",
       "is_home": false
     },
@@ -71,7 +56,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-10-18T15:00:00Z",
+      "kickoff_time": "2026-10-18T17:15:00Z",
       "event_name": "Runde 24",
       "is_home": true
     },
@@ -86,7 +71,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-10-25T16:00:00Z",
+      "kickoff_time": "2026-10-25T13:30:00Z",
       "event_name": "Runde 12",
       "is_home": false
     },
@@ -101,7 +86,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-11-01T16:00:00Z",
+      "kickoff_time": "2026-11-01T18:15:00Z",
       "event_name": "Runde 25",
       "is_home": false
     },
@@ -116,7 +101,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-11-08T16:00:00Z",
+      "kickoff_time": "2026-11-08T13:30:00Z",
       "event_name": "Runde 26",
       "is_home": true
     },
@@ -131,7 +116,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-11-22T16:00:00Z",
+      "kickoff_time": "2026-11-21T13:00:00Z",
       "event_name": "Runde 27",
       "is_home": true
     },
@@ -721,6 +706,36 @@
       "selected": 13181,
       "transfers_in": 201,
       "transfers_out": 297
+    },
+    {
+      "element": 322,
+      "fixture": 154,
+      "opponent_team": 7,
+      "total_points": 1,
+      "was_home": false,
+      "kickoff_time": "2026-09-06T17:15:00Z",
+      "team_h_score": 2,
+      "team_a_score": 0,
+      "round": 19,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 2,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 1,
+      "bonus": 0,
+      "own_goals": 0,
+      "opta_index": "0.000000",
+      "value": 50,
+      "transfers_balance": 238,
+      "selected": 13453,
+      "transfers_in": 329,
+      "transfers_out": 91
     }
   ],
   "history_past": [
