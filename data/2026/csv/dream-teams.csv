@@ -197,14 +197,25 @@ gw,18,8,196,1854810,Sondre Granaas,MID,9,False
 gw,18,9,7,1613544,Andreas Helmersen,FWD,13,False
 gw,18,10,312,2057372,Jesper Cornelius,FWD,10,False
 gw,18,11,59,1767706,Henrik Skogvold,FWD,10,False
-season,,1,322,1937139,Jakob Rønning Haugaard,GK,81,False
-season,,2,330,2050681,Alexander Warneryd,DEF,102,False
-season,,3,5,1728666,Fredrik Sjøvold,DEF,100,False
-season,,4,346,1662744,Henrik Heggheim,DEF,82,False
-season,,5,1,1577305,Fredrik André Bjørkan,DEF,80,False
-season,,6,360,91490,Zlatko Tripic,MID,139,True
-season,,7,193,1601181,Emil Varhaugvik Breivik,MID,105,False
-season,,8,237,2060228,Amin Chiakha,MID,99,False
-season,,9,336,1727392,Heine Åsen Larsen,MID,96,False
-season,,10,179,2004897,Felix Va,MID,88,False
-season,,11,356,2004140,Peter Christiansen,FWD,97,False
+gw,19,1,143,1909901,Michael Lansing,GK,7,False
+gw,19,2,285,1624129,Claus Niyukuri,DEF,14,False
+gw,19,3,526,2082446,Marius Elvius,DEF,9,False
+gw,19,4,188,49607,Martin Linnes,DEF,9,False
+gw,19,5,366,1549402,Aaron Kiil Olsen,DEF,7,False
+gw,19,6,237,2060228,Amin Chiakha,MID,19,True
+gw,19,7,221,1688819,Emil Konradsen Ceïde,MID,13,False
+gw,19,8,405,2050493,Mathias Christensen,MID,11,False
+gw,19,9,202,1803312,Oskar Spiten-Nysæter,MID,11,False
+gw,19,10,489,1693409,Tobias Borchgrevink Børkeeiet,MID,10,False
+gw,19,11,141,1653564,Leander Næss Alvheim,FWD,13,False
+season,,1,322,1937139,Jakob Rønning Haugaard,GK,82,False
+season,,2,330,2050681,Alexander Warneryd,DEF,103,False
+season,,3,5,1728666,Fredrik Sjøvold,DEF,101,False
+season,,4,346,1662744,Henrik Heggheim,DEF,84,False
+season,,5,285,1624129,Claus Niyukuri,DEF,83,False
+season,,6,360,91490,Zlatko Tripic,MID,141,True
+season,,7,237,2060228,Amin Chiakha,MID,118,False
+season,,8,193,1601181,Emil Varhaugvik Breivik,MID,108,False
+season,,9,221,1688819,Emil Konradsen Ceïde,MID,101,False
+season,,10,179,2004897,Felix Va,MID,98,False
+season,,11,356,2004140,Peter Christiansen,FWD,99,False

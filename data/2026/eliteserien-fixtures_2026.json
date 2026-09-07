@@ -18574,7 +18574,7 @@
   {
     "code": 8986288,
     "event": 19,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 158,
     "kickoff_time": "2026-09-04T17:00:00Z",
@@ -18658,7 +18658,7 @@
         ],
         "h": [
           {
-            "value": 6,
+            "value": 5,
             "element": 454
           }
         ]
@@ -18694,7 +18694,7 @@
   {
     "code": 8986282,
     "event": 19,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 159,
     "kickoff_time": "2026-09-04T17:00:00Z",
@@ -18829,7 +18829,7 @@
   {
     "code": 8986286,
     "event": 19,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 160,
     "kickoff_time": "2026-09-04T19:00:00Z",
@@ -18969,7 +18969,7 @@
   {
     "code": 8986285,
     "event": 19,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 157,
     "kickoff_time": "2026-09-05T14:00:00Z",
@@ -19096,7 +19096,7 @@
   {
     "code": 8986281,
     "event": 19,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 153,
     "kickoff_time": "2026-09-05T16:00:00Z",
@@ -19208,7 +19208,7 @@
   {
     "code": 8986284,
     "event": 19,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 155,
     "kickoff_time": "2026-09-06T15:00:00Z",
@@ -19315,7 +19315,7 @@
   {
     "code": 8986287,
     "event": 19,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 156,
     "kickoff_time": "2026-09-06T15:00:00Z",
@@ -19450,7 +19450,7 @@
   {
     "code": 8986283,
     "event": 19,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 154,
     "kickoff_time": "2026-09-06T17:15:00Z",
@@ -19526,15 +19526,10 @@
       },
       {
         "identifier": "saves",
-        "a": [
-          {
-            "value": 1,
-            "element": 322
-          }
-        ],
+        "a": [],
         "h": [
           {
-            "value": 2,
+            "value": 3,
             "element": 143
           }
         ]
@@ -19542,7 +19537,20 @@
       {
         "identifier": "bonus",
         "a": [],
-        "h": []
+        "h": [
+          {
+            "value": 3,
+            "element": 141
+          },
+          {
+            "value": 2,
+            "element": 155
+          },
+          {
+            "value": 1,
+            "element": 526
+          }
+        ]
       },
       {
         "identifier": "own_goals",

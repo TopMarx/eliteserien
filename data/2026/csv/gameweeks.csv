@@ -17,7 +17,7 @@ id,name,deadline_time,average_entry_score,highest_score,finished,data_checked,is
 16,Runde 17,2026-08-07T16:55:00Z,33,111,True,True,False,False,False
 17,Runde 18,2026-08-14T16:55:00Z,38,105,True,True,False,False,False
 18,Runde 19,2026-08-30T12:25:00Z,39,102,True,True,True,False,False
-19,Runde 20,2026-09-04T16:55:00Z,31,102,False,False,False,True,False
+19,Runde 20,2026-09-04T16:55:00Z,36,115,True,True,False,True,False
 20,Runde 21,2026-09-12T13:55:00Z,0,,False,False,False,False,True
 21,Runde 22,2026-09-18T16:55:00Z,0,,False,False,False,False,False
 22,Runde 23,2026-10-09T16:55:00Z,0,,False,False,False,False,False

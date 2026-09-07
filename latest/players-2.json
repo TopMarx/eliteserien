@@ -2,7 +2,7 @@
   "team_opta_id": 2,
   "team_name": "Tromsø",
   "season": 2026,
-  "generated_at": "2026-09-07T02:44:47.577695+00:00",
+  "generated_at": "2026-09-07T10:45:05.520099+00:00",
   "players": [
     {
       "player_id": 519,
@@ -8787,7 +8787,7 @@
           "penalties_missed": 0,
           "yellow_cards": 0,
           "red_cards": 0,
-          "saves": 1,
+          "saves": 0,
           "bonus": 0,
           "own_goals": 0,
           "opta_index": "0.000000",
