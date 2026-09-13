@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 513,152,18,2026-08-30T12:30:00Z,False,2,Bodø/Glimt,4,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0,0,0,0
 513,157,19,2026-09-05T14:00:00Z,True,5,HamKam,4,0,False,25,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,50,2,2,0,2
+513,167,20,2026-09-12T16:00:00Z,True,14,Tromsø,5,3,False,24,0,0,0,3,0,0,0,0,0,0,0,0.000000,1,50,2,1,0,1
