@@ -208,14 +208,25 @@ gw,19,8,405,2050493,Mathias Christensen,MID,11,False
 gw,19,9,202,1803312,Oskar Spiten-Nysæter,MID,11,False
 gw,19,10,489,1693409,Tobias Borchgrevink Børkeeiet,MID,10,False
 gw,19,11,141,1653564,Leander Næss Alvheim,FWD,13,False
-season,,1,322,1937139,Jakob Rønning Haugaard,GK,82,False
-season,,2,330,2050681,Alexander Warneryd,DEF,103,False
-season,,3,5,1728666,Fredrik Sjøvold,DEF,101,False
-season,,4,346,1662744,Henrik Heggheim,DEF,84,False
-season,,5,285,1624129,Claus Niyukuri,DEF,83,False
-season,,6,360,91490,Zlatko Tripic,MID,141,True
-season,,7,237,2060228,Amin Chiakha,MID,118,False
-season,,8,193,1601181,Emil Varhaugvik Breivik,MID,108,False
-season,,9,221,1688819,Emil Konradsen Ceïde,MID,101,False
-season,,10,179,2004897,Felix Va,MID,98,False
-season,,11,356,2004140,Peter Christiansen,FWD,99,False
+gw,20,1,485,2080978,Filip Manojlovic,GK,7,False
+gw,20,2,308,1753659,Ousmane Diallo Toure,DEF,15,False
+gw,20,3,166,214957,Ruben Gabrielsen,DEF,15,False
+gw,20,4,112,1560546,Håkon Hoseth,DEF,11,False
+gw,20,5,425,2063666,Trent Toure Koné-Doherty,MID,20,True
+gw,20,6,371,1575610,Henrik Bjørdal,MID,18,False
+gw,20,7,18,1602490,Jens Petter Hauge,MID,17,False
+gw,20,8,223,2017709,Noah Sahsah,MID,14,False
+gw,20,9,224,200083,Ole Selnæs,MID,11,False
+gw,20,10,523,1579300,Erik Botheim,FWD,13,False
+gw,20,11,7,1613544,Andreas Helmersen,FWD,12,False
+season,,1,322,1937139,Jakob Rønning Haugaard,GK,83,False
+season,,2,5,1728666,Fredrik Sjøvold,DEF,107,False
+season,,3,330,2050681,Alexander Warneryd,DEF,103,False
+season,,4,346,1662744,Henrik Heggheim,DEF,92,False
+season,,5,285,1624129,Claus Niyukuri,DEF,85,False
+season,,6,360,91490,Zlatko Tripic,MID,150,True
+season,,7,237,2060228,Amin Chiakha,MID,126,False
+season,,8,193,1601181,Emil Varhaugvik Breivik,MID,113,False
+season,,9,336,1727392,Heine Åsen Larsen,MID,108,False
+season,,10,221,1688819,Emil Konradsen Ceïde,MID,104,False
+season,,11,356,2004140,Peter Christiansen,FWD,107,False
