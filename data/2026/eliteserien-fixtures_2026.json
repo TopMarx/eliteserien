@@ -20673,17 +20673,131 @@
     "code": 8986301,
     "event": 21,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 171,
     "kickoff_time": "2026-09-18T17:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 6,
-    "team_a_score": null,
+    "team_a_score": 3,
     "team_h": 12,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 1,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 1,
+            "element": 86
+          },
+          {
+            "value": 1,
+            "element": 112
+          },
+          {
+            "value": 1,
+            "element": 118
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 270
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 1,
+            "element": 111
+          },
+          {
+            "value": 1,
+            "element": 123
+          },
+          {
+            "value": 1,
+            "element": 129
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 285
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 118
+          },
+          {
+            "value": 1,
+            "element": 129
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 283
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 6,
+            "element": 115
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "bonus",
+        "a": [
+          {
+            "value": 3,
+            "element": 112
+          },
+          {
+            "value": 2,
+            "element": 115
+          },
+          {
+            "value": 1,
+            "element": 106
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://sarpsborg08.ticketco.events/no/nb",
     "forzify_id": 0

@@ -1,12 +1,12 @@
 {
   "last_closed_gw": 20,
   "season": 2026,
-  "current_gw": 20,
-  "fetch_type": "gw_closure",
-  "expected_count": 536,
-  "fetched_count": 536,
+  "current_gw": 21,
+  "fetch_type": "active_gw",
+  "expected_count": 74,
+  "fetched_count": 74,
   "failed_ids": [],
   "completed": true,
-  "last_run": "2026-09-15T12:46:21.829097+00:00",
+  "last_run": "2026-09-19T02:33:32.584432+00:00",
   "event_status": "event-status unavailable"
 }
