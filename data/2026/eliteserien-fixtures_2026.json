@@ -20672,7 +20672,7 @@
   {
     "code": 8986301,
     "event": 21,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 171,
     "kickoff_time": "2026-09-18T17:00:00Z",
@@ -20805,7 +20805,7 @@
   {
     "code": 8986298,
     "event": 21,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 170,
     "kickoff_time": "2026-09-19T14:00:00Z",
@@ -20930,7 +20930,7 @@
   {
     "code": 8986299,
     "event": 21,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 173,
     "kickoff_time": "2026-09-19T16:00:00Z",
@@ -21068,7 +21068,7 @@
   {
     "code": 8986304,
     "event": 21,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 176,
     "kickoff_time": "2026-09-20T12:30:00Z",
@@ -21187,7 +21187,7 @@
   {
     "code": 8986300,
     "event": 21,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 172,
     "kickoff_time": "2026-09-20T15:00:00Z",
@@ -21311,7 +21311,7 @@
   {
     "code": 8986302,
     "event": 21,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 174,
     "kickoff_time": "2026-09-20T15:00:00Z",
@@ -21445,7 +21445,7 @@
   {
     "code": 8986303,
     "event": 21,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 169,
     "kickoff_time": "2026-09-20T15:00:00Z",
@@ -21561,7 +21561,7 @@
   {
     "code": 8986297,
     "event": 21,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 175,
     "kickoff_time": "2026-09-20T17:15:00Z",
@@ -21664,7 +21664,20 @@
       {
         "identifier": "bonus",
         "a": [],
-        "h": []
+        "h": [
+          {
+            "value": 3,
+            "element": 33
+          },
+          {
+            "value": 2,
+            "element": 35
+          },
+          {
+            "value": 1,
+            "element": 28
+          }
+        ]
       },
       {
         "identifier": "own_goals",
