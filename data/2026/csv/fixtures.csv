@@ -167,7 +167,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 174,8986302,21,14,2,Tromsø,TIL,5,63,HamKam,HAM,3,2,2026-09-20T15:00:00Z,True,True,,
 169,8986303,21,15,198,Viking,VIK,8,177,Lillestrøm,LSK,3,0,2026-09-20T15:00:00Z,True,True,,
 175,8986297,21,3,298,Brann,BRA,2,4,Bodø/Glimt,B/G,2,1,2026-09-20T17:15:00Z,True,True,,
-180,8986306,22,3,298,Brann,BRA,15,198,Viking,VIK,,,2026-10-09T17:00:00Z,False,False,,
+180,8986306,22,3,298,Brann,BRA,15,198,Viking,VIK,0,2,2026-10-09T17:00:00Z,False,True,,
 181,8986305,22,2,4,Bodø/Glimt,B/G,7,785,Kristiansund,KBK,,,2026-10-10T14:00:00Z,False,False,,
 179,8986310,22,10,145,Rosenborg,RBK,11,195,Sandefjord,SAN,,,2026-10-10T16:00:00Z,False,False,,
 178,8986307,22,4,117,Fredrikstad,FFK,14,2,Tromsø,TIL,,,2026-10-11T12:30:00Z,False,False,,
