@@ -230,14 +230,25 @@ gw,21,8,236,2060192,Mads Bomholt,MID,10,False
 gw,21,9,505,2081879,Ervin Gigovic,MID,9,False
 gw,21,10,517,1646897,Isak Gabriel Skotheim,MID,9,False
 gw,21,11,270,1728468,Daniel Karlsbakk,FWD,6,False
-season,,1,322,1937139,Jakob Rønning Haugaard,GK,84,False
-season,,2,5,1728666,Fredrik Sjøvold,DEF,108,False
-season,,3,330,2050681,Alexander Warneryd,DEF,107,False
-season,,4,346,1662744,Henrik Heggheim,DEF,98,False
-season,,5,285,1624129,Claus Niyukuri,DEF,88,False
-season,,6,360,91490,Zlatko Tripic,MID,159,True
-season,,7,237,2060228,Amin Chiakha,MID,133,False
-season,,8,193,1601181,Emil Varhaugvik Breivik,MID,118,False
-season,,9,336,1727392,Heine Åsen Larsen,MID,115,False
-season,,10,221,1688819,Emil Konradsen Ceïde,MID,109,False
-season,,11,356,2004140,Peter Christiansen,FWD,113,False
+gw,22,1,353,97901,Arild Østbø,GK,11,False
+gw,22,2,346,1662744,Henrik Heggheim,DEF,17,True
+gw,22,3,74,37957,Fredrik Holmé,DEF,11,False
+gw,22,4,268,1556954,Eirik Wichne,DEF,9,False
+gw,22,5,366,1549402,Aaron Kiil Olsen,DEF,8,False
+gw,22,6,372,37880,Elias Hagen,MID,12,False
+gw,22,7,381,1571045,Mohamed Ofkir,MID,11,False
+gw,22,8,81,1926490,Luc Mares,MID,10,False
+gw,22,9,460,1566067,Olaus Jair Skarsem,MID,10,False
+gw,22,10,288,1927033,Noa Williams,MID,10,False
+gw,22,11,419,1900515,Marcus Haagensen Reed,FWD,8,False
+season,,1,322,1937139,Jakob Rønning Haugaard,GK,88,False
+season,,2,346,1662744,Henrik Heggheim,DEF,115,False
+season,,3,5,1728666,Fredrik Sjøvold,DEF,110,False
+season,,4,330,2050681,Alexander Warneryd,DEF,109,False
+season,,5,360,91490,Zlatko Tripic,MID,163,True
+season,,6,237,2060228,Amin Chiakha,MID,141,False
+season,,7,193,1601181,Emil Varhaugvik Breivik,MID,128,False
+season,,8,336,1727392,Heine Åsen Larsen,MID,120,False
+season,,9,179,2004897,Felix Va,MID,111,False
+season,,10,356,2004140,Peter Christiansen,FWD,119,False
+season,,11,141,1653564,Leander Næss Alvheim,FWD,91,False

@@ -21692,7 +21692,7 @@
   {
     "code": 8986306,
     "event": 22,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 180,
     "kickoff_time": "2026-10-09T17:00:00Z",
@@ -21812,7 +21812,7 @@
   {
     "code": 8986305,
     "event": 22,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 181,
     "kickoff_time": "2026-10-10T14:00:00Z",
@@ -21938,7 +21938,7 @@
   {
     "code": 8986310,
     "event": 22,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 179,
     "kickoff_time": "2026-10-10T16:00:00Z",
@@ -22061,7 +22061,7 @@
   {
     "code": 8986307,
     "event": 22,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 178,
     "kickoff_time": "2026-10-11T12:30:00Z",
@@ -22197,7 +22197,7 @@
   {
     "code": 8986312,
     "event": 22,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 182,
     "kickoff_time": "2026-10-11T15:00:00Z",
@@ -22339,7 +22339,7 @@
   {
     "code": 8986311,
     "event": 22,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 177,
     "kickoff_time": "2026-10-11T15:00:00Z",
@@ -22471,7 +22471,7 @@
   {
     "code": 8986309,
     "event": 22,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 184,
     "kickoff_time": "2026-10-11T17:15:00Z",
@@ -22613,7 +22613,7 @@
   {
     "code": 8986308,
     "event": 22,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 183,
     "kickoff_time": "2026-10-12T17:00:00Z",
@@ -22702,15 +22702,29 @@
         ],
         "h": [
           {
-            "value": 6,
+            "value": 5,
             "element": 115
           }
         ]
       },
       {
         "identifier": "bonus",
-        "a": [],
-        "h": []
+        "a": [
+          {
+            "value": 1,
+            "element": 366
+          }
+        ],
+        "h": [
+          {
+            "value": 3,
+            "element": 111
+          },
+          {
+            "value": 2,
+            "element": 123
+          }
+        ]
       },
       {
         "identifier": "own_goals",
