@@ -22740,17 +22740,114 @@
     "code": 8986313,
     "event": 23,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 192,
     "kickoff_time": "2026-10-17T12:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 2,
-    "team_a_score": null,
+    "team_a_score": 2,
     "team_h": 5,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 0,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 1,
+            "element": 15
+          },
+          {
+            "value": 1,
+            "element": 511
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 1,
+            "element": 5
+          },
+          {
+            "value": 1,
+            "element": 14
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 2
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 92
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 1,
+            "element": 10
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 88
+          }
+        ]
+      },
+      {
+        "identifier": "bonus",
+        "a": [
+          {
+            "value": 3,
+            "element": 5
+          },
+          {
+            "value": 2,
+            "element": 15
+          },
+          {
+            "value": 1,
+            "element": 511
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://hamkam.ticketco.shop/",
     "forzify_id": 0
@@ -22759,17 +22856,140 @@
     "code": 8986314,
     "event": 23,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 186,
     "kickoff_time": "2026-10-17T14:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 1,
-    "team_a_score": null,
+    "team_a_score": 4,
     "team_h": 7,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 1,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 2,
+            "element": 419
+          },
+          {
+            "value": 1,
+            "element": 405
+          },
+          {
+            "value": 1,
+            "element": 412
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 149
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 2,
+            "element": 405
+          },
+          {
+            "value": 1,
+            "element": 410
+          },
+          {
+            "value": 1,
+            "element": 517
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 146
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 410
+          },
+          {
+            "value": 1,
+            "element": 419
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 149
+          },
+          {
+            "value": 1,
+            "element": 416
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 2,
+            "element": 454
+          }
+        ],
+        "h": [
+          {
+            "value": 3,
+            "element": 143
+          }
+        ]
+      },
+      {
+        "identifier": "bonus",
+        "a": [
+          {
+            "value": 3,
+            "element": 419
+          },
+          {
+            "value": 2,
+            "element": 405
+          },
+          {
+            "value": 1,
+            "element": 395
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://kristiansundbk.ticketco.events/no/nb",
     "forzify_id": 0
@@ -22778,17 +22998,149 @@
     "code": 8986319,
     "event": 23,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 187,
     "kickoff_time": "2026-10-17T16:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 4,
-    "team_a_score": null,
+    "team_a_score": 2,
     "team_h": 15,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 3,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 1,
+            "element": 451
+          },
+          {
+            "value": 1,
+            "element": 504
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 356
+          },
+          {
+            "value": 1,
+            "element": 359
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 1,
+            "element": 55
+          },
+          {
+            "value": 1,
+            "element": 451
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 349
+          },
+          {
+            "value": 1,
+            "element": 356
+          },
+          {
+            "value": 1,
+            "element": 359
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 55
+          },
+          {
+            "value": 1,
+            "element": 65
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 349
+          },
+          {
+            "value": 1,
+            "element": 355
+          },
+          {
+            "value": 1,
+            "element": 523
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 2,
+            "element": 54
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 353
+          }
+        ]
+      },
+      {
+        "identifier": "bonus",
+        "a": [
+          {
+            "value": 1,
+            "element": 451
+          }
+        ],
+        "h": [
+          {
+            "value": 3,
+            "element": 356
+          },
+          {
+            "value": 2,
+            "element": 360
+          }
+        ]
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://viking.ticketco.shop/",
     "forzify_id": 0
