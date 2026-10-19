@@ -2,7 +2,7 @@
   "team_opta_id": 306,
   "team_name": "KFUM Oslo",
   "season": 2026,
-  "generated_at": "2026-10-19T02:46:57.313416+00:00",
+  "generated_at": "2026-10-19T14:48:47.784831+00:00",
   "players": [
     {
       "player_id": 108,
@@ -2780,7 +2780,7 @@
           "element": 109,
           "fixture": 191,
           "opponent_team": 14,
-          "total_points": 8,
+          "total_points": 9,
           "was_home": false,
           "kickoff_time": "2026-10-18T17:15:00Z",
           "team_h_score": 1,
@@ -2797,7 +2797,7 @@
           "yellow_cards": 0,
           "red_cards": 0,
           "saves": 0,
-          "bonus": 0,
+          "bonus": 1,
           "own_goals": 0,
           "opta_index": "0.000000",
           "value": 44,

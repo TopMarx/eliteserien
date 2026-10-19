@@ -241,14 +241,25 @@ gw,22,8,81,1926490,Luc Mares,MID,10,False
 gw,22,9,460,1566067,Olaus Jair Skarsem,MID,10,False
 gw,22,10,288,1927033,Noa Williams,MID,10,False
 gw,22,11,419,1900515,Marcus Haagensen Reed,FWD,8,False
-season,,1,322,1937139,Jakob Rønning Haugaard,GK,88,False
-season,,2,346,1662744,Henrik Heggheim,DEF,115,False
-season,,3,5,1728666,Fredrik Sjøvold,DEF,110,False
-season,,4,330,2050681,Alexander Warneryd,DEF,109,False
-season,,5,360,91490,Zlatko Tripic,MID,163,True
+gw,23,1,160,2057365,Pontus Dahlberg,GK,11,False
+gw,23,2,228,320444,Aslak Fonn Witry,DEF,18,False
+gw,23,3,214,1616018,Adrian Pereira,DEF,17,False
+gw,23,4,5,1728666,Fredrik Sjøvold,DEF,12,False
+gw,23,5,150,1761618,Sander Kilen,MID,23,True
+gw,23,6,405,2050493,Mathias Christensen,MID,15,False
+gw,23,7,388,1997560,Lucas Ravn-Haren,MID,13,False
+gw,23,8,193,1601181,Emil Varhaugvik Breivik,MID,12,False
+gw,23,9,451,2079073,Gabriel Juty Wesseh,MID,11,False
+gw,23,10,356,2004140,Peter Christiansen,FWD,16,False
+gw,23,11,419,1900515,Marcus Haagensen Reed,FWD,12,False
+season,,1,160,2057365,Pontus Dahlberg,GK,95,False
+season,,2,5,1728666,Fredrik Sjøvold,DEF,122,False
+season,,3,346,1662744,Henrik Heggheim,DEF,116,False
+season,,4,330,2050681,Alexander Warneryd,DEF,115,False
+season,,5,360,91490,Zlatko Tripic,MID,166,True
 season,,6,237,2060228,Amin Chiakha,MID,141,False
-season,,7,193,1601181,Emil Varhaugvik Breivik,MID,128,False
-season,,8,336,1727392,Heine Åsen Larsen,MID,120,False
-season,,9,179,2004897,Felix Va,MID,111,False
-season,,10,356,2004140,Peter Christiansen,FWD,119,False
-season,,11,141,1653564,Leander Næss Alvheim,FWD,91,False
+season,,7,193,1601181,Emil Varhaugvik Breivik,MID,140,False
+season,,8,336,1727392,Heine Åsen Larsen,MID,122,False
+season,,9,15,1660385,Ole Didrik Blomberg,MID,119,False
+season,,10,356,2004140,Peter Christiansen,FWD,135,False
+season,,11,141,1653564,Leander Næss Alvheim,FWD,93,False
