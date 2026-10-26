@@ -3,10 +3,10 @@
   "season": 2026,
   "current_gw": 24,
   "fetch_type": "active_gw",
-  "expected_count": 130,
-  "fetched_count": 130,
+  "expected_count": 542,
+  "fetched_count": 542,
   "failed_ids": [],
   "completed": true,
-  "last_run": "2026-10-25T02:34:34.152351+00:00",
+  "last_run": "2026-10-26T02:46:06.526105+00:00",
   "event_status": "event-status unavailable"
 }

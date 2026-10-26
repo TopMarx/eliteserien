@@ -2,7 +2,7 @@
   "team_opta_id": 4,
   "team_name": "Bodø/Glimt",
   "season": 2026,
-  "generated_at": "2026-10-25T02:34:35.158546+00:00",
+  "generated_at": "2026-10-26T02:46:07.776028+00:00",
   "players": [
     {
       "player_id": 432,
@@ -1463,6 +1463,47 @@
           "selected": 954,
           "transfers_in": 69,
           "transfers_out": 25
+        }
+      ]
+    },
+    {
+      "player_id": 541,
+      "opta_id": 1907725,
+      "first_name": "Martin Lund",
+      "second_name": "Andersen",
+      "web_name": "Andersen",
+      "known_name": "",
+      "position": "GK",
+      "history": [
+        {
+          "element": 541,
+          "fixture": 94,
+          "opponent_team": 16,
+          "total_points": 0,
+          "was_home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "team_h_score": 0,
+          "team_a_score": 1,
+          "round": 24,
+          "modified": false,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "bonus": 0,
+          "own_goals": 0,
+          "opta_index": "0.000000",
+          "value": 40,
+          "transfers_balance": 0,
+          "selected": 0,
+          "transfers_in": 0,
+          "transfers_out": 0
         }
       ]
     },
