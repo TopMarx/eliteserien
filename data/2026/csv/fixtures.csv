@@ -191,7 +191,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 93,8986222,24,12,797,Sarpsborg 08,S08,1,15,Aalesund,AaFK,2,1,2026-10-25T16:00:00Z,True,True,,
 95,8986223,24,13,261,Start,STA,11,195,Sandefjord,SAN,1,0,2026-10-25T16:00:00Z,True,True,,
 97,8986221,24,9,3,Molde,MOL,4,117,Fredrikstad,FFK,5,1,2026-10-25T18:15:00Z,True,True,,
-195,8986321,25,2,4,Bodø/Glimt,B/G,15,198,Viking,VIK,,,2026-10-30T18:00:00Z,False,False,,
+195,8986321,25,2,4,Bodø/Glimt,B/G,15,198,Viking,VIK,3,2,2026-10-30T18:00:00Z,False,True,,
 197,8986323,25,4,117,Fredrikstad,FFK,10,145,Rosenborg,RBK,,,2026-10-31T15:00:00Z,False,False,,
 199,8986328,25,1,15,Aalesund,AaFK,11,195,Sandefjord,SAN,,,2026-10-31T17:00:00Z,False,False,,
 200,8986322,25,3,298,Brann,BRA,9,3,Molde,MOL,,,2026-11-01T13:30:00Z,False,False,,

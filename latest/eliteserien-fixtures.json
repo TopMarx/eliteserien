@@ -24913,17 +24913,135 @@
     "code": 8986321,
     "event": 25,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 195,
     "kickoff_time": "2026-10-30T18:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 15,
-    "team_a_score": null,
+    "team_a_score": 2,
     "team_h": 2,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 3,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 1,
+            "element": 339
+          },
+          {
+            "value": 1,
+            "element": 523
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 7
+          },
+          {
+            "value": 1,
+            "element": 18
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 1,
+            "element": 339
+          },
+          {
+            "value": 1,
+            "element": 360
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 18
+          },
+          {
+            "value": 1,
+            "element": 20
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 345
+          },
+          {
+            "value": 1,
+            "element": 346
+          },
+          {
+            "value": 1,
+            "element": 347
+          },
+          {
+            "value": 1,
+            "element": 360
+          },
+          {
+            "value": 1,
+            "element": 363
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 1,
+            "element": 353
+          }
+        ],
+        "h": [
+          {
+            "value": 4,
+            "element": 10
+          }
+        ]
+      },
+      {
+        "identifier": "bonus",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "own_goals",
+        "a": [
+          {
+            "value": 1,
+            "element": 344
+          }
+        ],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://glimt.ticketco.shop/",
     "forzify_id": 0

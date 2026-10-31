@@ -1,70 +1,70 @@
 player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_id,team_name,team_short_name,element_type,position,status,news,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,opta_index,total_points,now_cost,selected_by_percent
-1,1577305,Fredrik André,Bjørkan,Bjørkan,,2,4,Bodø/Glimt,B/G,2,DEF,a,,1265,3,3,6,16,0,0,0,0,0,0,5,0.000000,87,66,16.7
-2,1556766,Odin,Bjørtuft,Bjørtuft,,2,4,Bodø/Glimt,B/G,2,DEF,a,,2095,0,2,11,21,0,0,0,1,0,0,3,0.000000,94,68,14.8
-3,1579921,Jostein,Gundersen,Gundersen,,2,4,Bodø/Glimt,B/G,2,DEF,a,,560,0,0,4,5,0,0,0,0,0,0,0,0.000000,30,59,2.7
-4,2005319,Villads,Nielsen,Nielsen,,2,4,Bodø/Glimt,B/G,2,DEF,a,,370,0,1,1,4,0,0,0,0,0,0,0,0.000000,16,48,0.3
-5,1728666,Fredrik,Sjøvold,Sjøvold,,2,4,Bodø/Glimt,B/G,2,DEF,a,,2066,3,3,12,19,0,0,0,1,0,0,8,0.000000,124,78,37.8
+1,1577305,Fredrik André,Bjørkan,Bjørkan,,2,4,Bodø/Glimt,B/G,2,DEF,a,,1348,3,3,6,18,0,0,0,0,0,0,5,0.000000,88,65,16.4
+2,1556766,Odin,Bjørtuft,Bjørtuft,,2,4,Bodø/Glimt,B/G,2,DEF,a,,2185,0,2,11,23,0,0,0,1,0,0,3,0.000000,95,68,14.5
+3,1579921,Jostein,Gundersen,Gundersen,,2,4,Bodø/Glimt,B/G,2,DEF,a,,650,0,0,4,7,0,0,0,0,0,0,0,0.000000,31,59,2.7
+4,2005319,Villads,Nielsen,Nielsen,,2,4,Bodø/Glimt,B/G,2,DEF,a,,370,0,1,1,4,0,0,0,0,0,0,0,0.000000,16,48,0.2
+5,1728666,Fredrik,Sjøvold,Sjøvold,,2,4,Bodø/Glimt,B/G,2,DEF,a,,2156,3,3,12,21,0,0,0,1,0,0,8,0.000000,125,78,37.6
 6,2027329,Mikkel,Bro Hansen,Bro,,2,4,Bodø/Glimt,B/G,4,FWD,u,Overgang til PSV,54,1,0,0,0,0,0,0,1,0,0,0,0.000000,9,60,0.1
-7,1613544,Andreas,Helmersen,Helmersen,,2,4,Bodø/Glimt,B/G,4,FWD,a,,922,12,1,2,9,0,0,1,1,0,0,8,0.000000,85,85,18.0
+7,1613544,Andreas,Helmersen,Helmersen,,2,4,Bodø/Glimt,B/G,4,FWD,d,Smell - 75 % sjanse for å spille,998,13,1,2,11,0,0,1,1,0,0,8,0.000000,91,84,17.0
 8,1965455,Kasper,Høgh,Høgh,,2,4,Bodø/Glimt,B/G,4,FWD,u,Overgang til Celtic,928,7,7,8,9,0,0,0,0,0,0,7,0.000000,80,117,28.1
-9,1592582,Julian,Faye Lund,Faye,,2,4,Bodø/Glimt,B/G,1,GK,a,,180,0,0,0,4,0,0,0,0,0,2,0,0.000000,2,40,0.2
-10,1865861,Nikita,Haikin,Haikin,,2,4,Bodø/Glimt,B/G,1,GK,a,,1980,0,0,11,17,0,0,0,0,0,46,1,0.000000,93,56,22.7
+9,1592582,Julian,Faye Lund,Faye,,2,4,Bodø/Glimt,B/G,1,GK,i,Smell - Ute på ubestemt tid,180,0,0,0,4,0,0,0,0,0,2,0,0.000000,2,39,0.2
+10,1865861,Nikita,Haikin,Haikin,,2,4,Bodø/Glimt,B/G,1,GK,a,,2070,0,0,11,19,0,0,0,0,0,50,1,0.000000,95,56,22.8
 11,1857321,Isak,Sjong,Sjong,,2,4,Bodø/Glimt,B/G,1,GK,i,Smell - Ute på ubestemt tid,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.1
-12,1723183,Sondre,Auklend,Auklend,,2,4,Bodø/Glimt,B/G,3,MID,a,,1651,1,5,8,16,1,0,0,3,0,0,9,0.000000,73,66,1.2
+12,1723183,Sondre,Auklend,Auklend,,2,4,Bodø/Glimt,B/G,3,MID,a,,1670,1,5,8,16,1,0,0,3,0,0,9,0.000000,74,66,1.0
 13,1534602,Daniel,Bassi,Bassi,,8,177,Lillestrøm,LSK,3,MID,a,,601,0,2,1,13,0,0,0,0,0,0,0,0.000000,28,65,0.2
-14,291448,Patrick,Berg,Berg,,2,4,Bodø/Glimt,B/G,3,MID,a,,1878,2,3,9,19,0,0,0,1,0,0,15,0.000000,85,91,12.7
-15,1660385,Ole Didrik,Blomberg,Blomberg,,2,4,Bodø/Glimt,B/G,3,MID,a,,1779,6,8,12,16,0,0,0,2,0,0,11,0.000000,121,99,13.0
-16,1612262,Sondre,Brunstad Fet,Fet,,2,4,Bodø/Glimt,B/G,3,MID,a,,1506,4,4,8,13,0,0,0,1,0,0,5,0.000000,83,80,2.7
+14,291448,Patrick,Berg,Berg,,2,4,Bodø/Glimt,B/G,3,MID,a,,1968,2,3,9,21,0,0,0,1,0,0,15,0.000000,87,90,12.6
+15,1660385,Ole Didrik,Blomberg,Blomberg,,2,4,Bodø/Glimt,B/G,3,MID,a,,1869,6,8,12,18,0,0,0,2,0,0,11,0.000000,123,99,12.5
+16,1612262,Sondre,Brunstad Fet,Fet,,2,4,Bodø/Glimt,B/G,3,MID,a,,1596,4,4,8,15,0,0,0,1,0,0,5,0.000000,85,80,2.6
 17,1677946,Håkon,Evjen,Evjen,,2,4,Bodø/Glimt,B/G,3,MID,i,Kne - Ute på ubestemt tid,745,5,2,5,7,0,0,0,1,0,0,12,0.000000,68,80,6.0
-18,1602490,Jens Petter,Hauge,Hauge,,2,4,Bodø/Glimt,B/G,3,MID,a,,1366,5,5,8,11,0,0,0,1,0,0,8,0.000000,92,104,14.9
-19,1701315,Isak,Dybvik Määttä,Määttä,,2,4,Bodø/Glimt,B/G,3,MID,a,,1099,1,0,7,9,0,0,0,0,0,0,4,0.000000,50,65,0.2
-20,169661,Ulrik,Saltnes,Saltnes,,2,4,Bodø/Glimt,B/G,3,MID,a,,335,0,0,2,4,0,0,0,0,0,0,0,0.000000,17,79,0.5
-21,43126,Haitam,Aleesami,Aleesami,,2,4,Bodø/Glimt,B/G,2,DEF,a,,1282,1,0,7,12,0,0,0,0,0,0,5,0.000000,67,55,2.2
-22,1754358,Magnus,Riisnæs,Riisnæs,,2,4,Bodø/Glimt,B/G,2,DEF,d,Kne - 25 % sjanse for å spille,23,0,0,0,0,0,0,0,0,0,0,0,0.000000,3,55,0.9
+18,1602490,Jens Petter,Hauge,Hauge,,2,4,Bodø/Glimt,B/G,3,MID,d,Lår - 75 % sjanse for å spille,1448,6,6,8,13,0,0,0,1,0,0,8,0.000000,102,104,14.8
+19,1701315,Isak,Dybvik Määttä,Määttä,,2,4,Bodø/Glimt,B/G,3,MID,a,,1105,1,0,7,9,0,0,0,0,0,0,4,0.000000,51,65,0.2
+20,169661,Ulrik,Saltnes,Saltnes,,2,4,Bodø/Glimt,B/G,3,MID,a,,405,0,1,2,6,0,0,0,0,0,0,0,0.000000,22,79,0.5
+21,43126,Haitam,Aleesami,Aleesami,,2,4,Bodø/Glimt,B/G,2,DEF,a,,1289,1,0,7,12,0,0,0,0,0,0,5,0.000000,68,55,2.2
+22,1754358,Magnus,Riisnæs,Riisnæs,,2,4,Bodø/Glimt,B/G,2,DEF,a,,23,0,0,0,0,0,0,0,0,0,0,0,0.000000,3,55,0.9
 23,2050499,Anders,Klynge,Klynge,,2,4,Bodø/Glimt,B/G,3,MID,u,Overgang til Jagiellonia Białystok,153,1,0,1,2,0,0,0,0,0,0,0,0.000000,13,55,0.0
 24,4082898,Gift,Sunday,Sunday,,2,4,Bodø/Glimt,B/G,3,MID,u,På lån til FC KTP,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0.0
 25,1579765,August,Mikkelsen,Mikkelsen,,2,4,Bodø/Glimt,B/G,3,MID,i,Lyske - Ute på ubestemt tid,6,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,55,0.0
-26,1711450,Martin,Hellan,Hellan,,11,195,Sandefjord,SAN,2,DEF,a,,304,0,1,0,6,0,0,0,0,0,0,0,0.000000,14,43,0.3
+26,1711450,Martin,Hellan,Hellan,,11,195,Sandefjord,SAN,2,DEF,a,,304,0,1,0,6,0,0,0,0,0,0,0,0.000000,14,43,0.2
 27,1787724,Rasmus,Holten,Holten,,11,195,Sandefjord,SAN,2,DEF,a,,1123,1,0,2,18,0,0,0,1,0,0,2,0.000000,39,44,0.4
-28,1565712,Fredrik,Pallesen Knudsen,Pallesen,,3,298,Brann,BRA,2,DEF,a,,1833,0,0,2,35,0,0,0,1,0,0,1,0.000000,39,47,3.1
-29,113596,Joachim,Soltvedt,Soltvedt,,3,298,Brann,BRA,2,DEF,a,,1760,4,5,3,31,0,0,1,2,0,0,6,0.000000,85,60,22.0
+28,1565712,Fredrik,Pallesen Knudsen,Pallesen,,3,298,Brann,BRA,2,DEF,a,,1833,0,0,2,35,0,0,0,1,0,0,1,0.000000,39,47,3.0
+29,113596,Joachim,Soltvedt,Soltvedt,,3,298,Brann,BRA,2,DEF,a,,1760,4,5,3,31,0,0,1,2,0,0,6,0.000000,85,59,21.6
 30,1807281,Jonas,Torsvik,Torsvik,,3,298,Brann,BRA,2,DEF,a,,200,0,0,0,7,0,0,0,1,0,0,0,0.000000,7,49,0.1
 31,114647,Bård,Finne,Finne,,3,298,Brann,BRA,4,FWD,a,,647,5,2,0,14,0,0,0,0,0,0,4,0.000000,54,62,9.1
-32,306458,Mathias,Dyngeland,Dyngeland,,3,298,Brann,BRA,1,GK,a,,1170,0,0,2,21,0,0,0,1,0,40,0,0.000000,35,50,8.1
-33,1622520,Simen,Vidtun Nilsen,Vidtun Nilsen,,3,298,Brann,BRA,1,GK,a,,990,0,0,1,19,0,1,0,0,0,35,5,0.000000,37,42,2.0
+32,306458,Mathias,Dyngeland,Dyngeland,,3,298,Brann,BRA,1,GK,i,Rygg - Ute på ubestemt tid,1170,0,0,2,21,0,0,0,1,0,40,0,0.000000,35,50,8.0
+33,1622520,Simen,Vidtun Nilsen,Vidtun Nilsen,,3,298,Brann,BRA,1,GK,a,,990,0,0,1,19,0,1,0,0,0,35,5,0.000000,37,42,2.4
 34,1887100,Mathias,Klausen,Klausen,,3,298,Brann,BRA,1,GK,u,På lån til Åsane,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.1
-35,1564737,Niklas,Castro,Castro,,3,298,Brann,BRA,3,MID,a,,839,2,3,2,17,0,0,0,3,0,0,8,0.000000,46,75,1.3
+35,1564737,Niklas,Castro,Castro,,3,298,Brann,BRA,3,MID,a,,839,2,3,2,17,0,0,0,3,0,0,8,0.000000,46,74,1.3
 36,1771907,Markus,Haaland,Haaland,,3,298,Brann,BRA,3,MID,u,På lån til Häcken,267,2,0,0,5,0,0,0,0,0,0,0,0.000000,20,57,0.5
 37,1608592,Felix,Horn Myhre,Horn Myhre,,3,298,Brann,BRA,3,MID,u,Overgang til West Bromwich,1350,2,3,1,25,0,0,0,2,0,0,11,0.000000,59,72,16.0
-38,1552945,Ulrik,Mathisen,Mathisen,,3,298,Brann,BRA,3,MID,i,Fot - Forventet tilbake 8. november,948,1,4,3,18,0,0,0,0,0,0,1,0.000000,48,74,1.6
+38,1552945,Ulrik,Mathisen,Mathisen,,3,298,Brann,BRA,3,MID,a,,948,1,4,3,18,0,0,0,0,0,0,1,0.000000,48,74,1.6
 39,1562640,Thore,Baardsen Pedersen,Pedersen,,3,298,Brann,BRA,3,MID,a,,1532,0,0,3,30,0,0,0,2,0,0,0,0.000000,38,44,0.6
 40,1835815,Lars,Remmem,Remmem,,3,298,Brann,BRA,3,MID,u,På lån til Haugesund,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
 41,1584945,Sakarias,Opsahl,Opsahl,,3,298,Brann,BRA,3,MID,i,Smell - Ute resten av sesongen,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,43,0.0
 42,1574301,Mads,Berg Sande,Sande,,3,298,Brann,BRA,3,MID,u,Overgang til Kongsvinger,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0.1
 43,2030843,Eggert Aron,Gudmundsson,Gudmundsson,,3,298,Brann,BRA,3,MID,a,,552,1,0,2,9,0,0,0,1,0,0,0,0.000000,20,64,0.4
-44,2032537,Denzel,De Roeve,De Roeve,,3,298,Brann,BRA,2,DEF,u,Overgang til Union Saint-Gilloise,944,1,2,2,16,0,0,0,1,0,0,2,0.000000,38,59,7.8
-45,1619032,Noah,Holm,Noah,,3,298,Brann,BRA,4,FWD,a,,1734,7,3,4,33,0,0,0,4,0,0,8,0.000000,83,75,16.8
-46,2050502,Jacob Lungi,Sørensen,Sørensen,,3,298,Brann,BRA,3,MID,a,,1591,0,1,4,25,0,0,0,4,0,0,1,0.000000,41,43,1.6
+44,2032537,Denzel,De Roeve,De Roeve,,3,298,Brann,BRA,2,DEF,u,Overgang til Union Saint-Gilloise,944,1,2,2,16,0,0,0,1,0,0,2,0.000000,38,59,7.7
+45,1619032,Noah,Holm,Noah,,3,298,Brann,BRA,4,FWD,a,,1734,7,3,4,33,0,0,0,4,0,0,8,0.000000,83,75,16.9
+46,2050502,Jacob Lungi,Sørensen,Sørensen,,3,298,Brann,BRA,3,MID,i,Ankel - Ute på ubestemt tid,1591,0,1,4,25,0,0,0,4,0,0,1,0.000000,41,43,1.6
 47,2050406,Sævar Atli,Magnússon,Magnússon,,3,298,Brann,BRA,3,MID,a,,363,0,0,0,8,0,0,0,0,0,0,0,0.000000,12,89,0.2
-48,20663,Vetle,Dragsnes,Dragsnes,,3,298,Brann,BRA,2,DEF,a,,1303,1,0,3,21,0,0,0,1,0,0,1,0.000000,45,47,1.0
-49,2051596,Nana,Boakye,Boakye,,3,298,Brann,BRA,2,DEF,i,Kne - Ute resten av sesongen,135,0,0,0,4,0,0,0,0,0,0,0,0.000000,2,48,0.7
+48,20663,Vetle,Dragsnes,Dragsnes,,3,298,Brann,BRA,2,DEF,a,,1303,1,0,3,21,0,0,0,1,0,0,1,0.000000,45,46,1.0
+49,2051596,Nana,Boakye,Boakye,,3,298,Brann,BRA,2,DEF,i,Kne - Ute resten av sesongen,135,0,0,0,4,0,0,0,0,0,0,0,0.000000,2,48,0.6
 50,1958337,Kristall,Máni Ingason,Ingason,,3,298,Brann,BRA,3,MID,a,,1207,6,5,4,18,0,0,0,2,1,0,7,0.000000,84,65,4.7
 51,2060091,Jón Dagur,Thorsteinsson,Thorsteinsson,,3,298,Brann,BRA,3,MID,u,Lån avsluttet,819,2,3,2,15,0,0,0,3,0,0,3,0.000000,41,78,3.3
-52,1757446,Niklas,Jensen Wassberg,Wassberg,,3,298,Brann,BRA,3,MID,a,,945,0,1,1,22,0,0,0,2,0,0,0,0.000000,30,54,0.2
+52,1757446,Niklas,Jensen Wassberg,Wassberg,,3,298,Brann,BRA,3,MID,a,,945,0,1,1,22,0,0,0,2,0,0,0,0.000000,30,53,0.2
 53,1817717,Jesper,Eikrem,Eikrem,,3,298,Brann,BRA,3,MID,u,Lån til Åsane,4,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,50,0.1
 54,1837000,Martin,Børsheim,Børsheim,,4,117,Fredrikstad,FFK,1,GK,a,,2160,0,0,3,41,0,0,0,3,0,78,7,0.000000,69,48,7.2
-55,1572205,Daniel,Eid,Eid,,4,117,Fredrikstad,FFK,2,DEF,a,,1956,2,4,3,32,0,0,0,4,0,0,8,0.000000,74,56,6.0
+55,1572205,Daniel,Eid,Eid,,4,117,Fredrikstad,FFK,2,DEF,a,,1956,2,4,3,32,0,0,0,4,0,0,8,0.000000,74,56,5.9
 56,1582025,Sigurd,Kvile,Kvile,,4,117,Fredrikstad,FFK,2,DEF,i,Kne - Ute resten av sesongen,30,0,0,0,0,0,0,0,1,0,0,0,0.000000,1,44,0.0
-57,2024528,Kennedy,Okpaleke,Okpaleke,,4,117,Fredrikstad,FFK,2,DEF,a,,6,0,0,0,0,0,0,0,0,0,0,0,0.000000,2,39,1.0
-58,3840,Simen,Rafn,Rafn,,4,117,Fredrikstad,FFK,2,DEF,a,,923,1,1,1,12,0,0,0,3,0,0,4,0.000000,35,41,6.7
-59,1767706,Henrik,Skogvold,Skogvold,,4,117,Fredrikstad,FFK,4,FWD,a,,1721,0,3,4,29,0,0,0,0,0,0,2,0.000000,53,67,7.0
+57,2024528,Kennedy,Okpaleke,Okpaleke,,4,117,Fredrikstad,FFK,2,DEF,a,,6,0,0,0,0,0,0,0,0,0,0,0,0.000000,2,39,1.1
+58,3840,Simen,Rafn,Rafn,,4,117,Fredrikstad,FFK,2,DEF,a,,923,1,1,1,12,0,0,0,3,0,0,4,0.000000,35,41,6.5
+59,1767706,Henrik,Skogvold,Skogvold,,4,117,Fredrikstad,FFK,4,FWD,a,,1721,0,3,4,29,0,0,0,0,0,0,2,0.000000,53,67,6.9
 60,1739530,Ole,Langbråten,Langbråten,,4,117,Fredrikstad,FFK,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.7
 61,1857559,Elias,Solberg,Solberg,,4,117,Fredrikstad,FFK,3,MID,u,Overgang til Ranheim,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.1
 62,1816099,Benjamin,Faraas,Faraas,,4,117,Fredrikstad,FFK,3,MID,a,,823,3,0,1,16,0,0,0,2,0,0,3,0.000000,42,60,0.2
 63,2025293,Oskar,Øhlenschlæger,Øhlenschlæger,,4,117,Fredrikstad,FFK,3,MID,u,Overgang til Samsunspor,1287,3,2,3,18,0,0,0,2,0,0,9,0.000000,61,67,6.2
 64,2027187,Rocco,Shein,Shein,,4,117,Fredrikstad,FFK,3,MID,u,Overgang til Portsmouth,963,2,4,1,18,0,0,0,1,0,0,11,0.000000,55,57,1.8
-65,1542214,Sondre,Sørløkk,Sørløkk,,4,117,Fredrikstad,FFK,2,DEF,a,,1418,0,4,1,32,0,0,0,1,0,0,0,0.000000,38,52,6.6
-66,1633872,Ulrik,Fredriksen,Fredriksen,,4,117,Fredrikstad,FFK,2,DEF,a,,1604,1,0,3,25,0,0,0,1,0,0,1,0.000000,48,46,12.2
+65,1542214,Sondre,Sørløkk,Sørløkk,,4,117,Fredrikstad,FFK,2,DEF,a,,1418,0,4,1,32,0,0,0,1,0,0,0,0.000000,38,52,6.7
+66,1633872,Ulrik,Fredriksen,Fredriksen,,4,117,Fredrikstad,FFK,2,DEF,a,,1604,1,0,3,25,0,0,0,1,0,0,1,0.000000,48,46,12.1
 67,294605,Johannes Andres,Hummelvoll-Nuñez,Nuñez,,4,117,Fredrikstad,FFK,4,FWD,a,,397,1,1,0,9,0,0,0,1,0,0,0,0.000000,18,78,5.2
 68,122750,Øystein,Øvretveit,Øvretveit,,4,117,Fredrikstad,FFK,1,GK,u,Lagt opp,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,39,0.8
 69,1942048,Eirik Julius,Granaas,Granaas,,4,117,Fredrikstad,FFK,3,MID,u,Overgang til Porto,86,1,0,0,4,0,0,0,3,0,0,0,0.000000,10,48,0.1
@@ -84,7 +84,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 83,1801700,Ola,Rye,Rye,,5,63,HamKam,HAM,2,DEF,u,På lån til Ullern,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,39,0.3
 84,47121,Fredrik,Sjølstad,Sjølstad,,5,63,HamKam,HAM,2,DEF,a,,1624,0,0,2,39,1,0,0,1,0,0,5,0.000000,37,44,0.5
 85,1556643,Snorre,Strand Nilsen,Strand Nilsen,,5,63,HamKam,HAM,2,DEF,a,,897,0,2,0,28,0,0,0,2,0,0,0,0.000000,21,42,0.9
-86,1813104,Julian,Gonstad,Gonstad,,6,306,KFUM Oslo,KFUM,4,FWD,d,Kne - 25 % sjanse for å spille,419,1,0,0,9,0,0,0,0,0,0,0,0.000000,19,56,1.4
+86,1813104,Julian,Gonstad,Gonstad,,6,306,KFUM Oslo,KFUM,4,FWD,i,Kne - Ute på ubestemt tid,419,1,0,0,9,0,0,0,0,0,0,0,0.000000,19,56,1.4
 87,1606911,Ilir,Kukleci,Kukleci,,5,63,HamKam,HAM,2,DEF,u,Overgang til KF Teuta,113,0,0,0,1,0,0,0,1,0,0,0,0.000000,7,44,0.1
 88,1757695,Marcus,Sandberg,Sandberg,,5,63,HamKam,HAM,1,GK,a,,2160,0,0,4,51,0,0,0,1,0,97,0,0.000000,67,50,4.0
 89,1893144,David,De Ornelas,De Ornelas,,5,63,HamKam,HAM,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.1
@@ -95,12 +95,12 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 94,2050551,Peter,Sunday,Sunday,,5,63,HamKam,HAM,2,DEF,u,Lån avsluttet,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.5
 95,3366022,Mats,Pedersen,Pedersen,,5,63,HamKam,HAM,3,MID,u,På lån til FF Jaro,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
 96,1750276,Sander,Kaldråstøyl Østraat,Østraat,,5,63,HamKam,HAM,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,39,0.5
-97,1842637,Ethan,Amundsen-Day,Amundsen-Day,,5,63,HamKam,HAM,2,DEF,a,,1905,1,0,4,45,0,0,0,1,0,0,3,0.000000,51,45,1.1
+97,1842637,Ethan,Amundsen-Day,Amundsen-Day,,5,63,HamKam,HAM,2,DEF,a,,1905,1,0,4,45,0,0,0,1,0,0,3,0.000000,51,45,1.0
 98,1890258,Markus,Østerud,Østerud,,5,63,HamKam,HAM,4,FWD,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,0.9
 99,1849325,Eron,Gojani,Gojani,,5,63,HamKam,HAM,3,MID,u,På lån til GIF Sundsvall,15,0,0,0,2,0,0,0,0,0,0,0,0.000000,1,49,0.0
-100,7544,Henrik,Udahl,Udahl,,5,63,HamKam,HAM,4,FWD,a,,1321,5,0,3,28,0,0,0,0,0,0,8,0.000000,61,51,16.0
+100,7544,Henrik,Udahl,Udahl,,5,63,HamKam,HAM,4,FWD,a,,1321,5,0,3,28,0,0,0,0,0,0,8,0.000000,61,50,15.5
 101,1930255,Noah,Alexandersson,Alexandersson,,5,63,HamKam,HAM,3,MID,u,På lån til Moss,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0.0
-102,1756035,Martin,Gjone,Gjone,,5,63,HamKam,HAM,2,DEF,a,,1792,3,4,4,41,1,0,0,2,1,0,9,0.000000,74,47,5.0
+102,1756035,Martin,Gjone,Gjone,,5,63,HamKam,HAM,2,DEF,a,,1792,3,4,4,41,1,0,0,2,1,0,9,0.000000,74,47,4.9
 103,1970431,Ian,Hoffmann,Hoffmann,,5,63,HamKam,HAM,2,DEF,u,Lån avsluttet,599,0,0,2,14,0,0,0,2,0,0,0,0.000000,15,48,0.2
 104,1972335,Loris,Mettler,Mettler,,5,63,HamKam,HAM,3,MID,a,,645,2,2,1,13,0,0,0,0,0,0,0,0.000000,35,57,0.5
 105,1859886,Alan,Cole,Cole,,5,63,HamKam,HAM,4,FWD,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,3.9
@@ -110,9 +110,9 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 109,72830,Fredrik,Berglie,Berglie,,6,306,KFUM Oslo,KFUM,2,DEF,a,,1388,1,0,3,25,0,0,0,1,1,0,11,0.000000,49,44,0.8
 110,1570586,David,Hickson,Hickson,,6,306,KFUM Oslo,KFUM,3,MID,a,,467,0,1,2,9,0,0,0,2,0,0,1,0.000000,20,53,0.8
 111,1654120,Jonas,Lange Hjorth,Hjorth,,6,306,KFUM Oslo,KFUM,2,DEF,a,,1443,0,5,2,27,0,0,0,1,0,0,3,0.000000,50,48,1.0
-112,1560546,Håkon,Hoseth,Hoseth,,6,306,KFUM Oslo,KFUM,2,DEF,a,,1594,4,3,6,24,1,0,0,1,0,0,9,0.000000,94,50,13.1
+112,1560546,Håkon,Hoseth,Hoseth,,6,306,KFUM Oslo,KFUM,2,DEF,a,,1594,4,3,6,24,1,0,0,1,0,0,9,0.000000,94,51,13.8
 113,44085,Amin,Nouri,Nouri,,6,306,KFUM Oslo,KFUM,2,DEF,d,Smell - 50 % sjanse for å spille,103,0,0,0,2,0,0,0,0,0,0,0,0.000000,8,39,10.2
-114,1690044,Momodou,Lion Njie,Lion Njie,,6,306,KFUM Oslo,KFUM,2,DEF,u,På lån til Moss,177,0,0,0,3,0,0,0,1,1,0,0,0.000000,1,39,1.4
+114,1690044,Momodou,Lion Njie,Lion Njie,,6,306,KFUM Oslo,KFUM,2,DEF,u,På lån til Moss,177,0,0,0,3,0,0,0,1,1,0,0,0.000000,1,39,1.3
 115,1616887,Emil,Ødegaard,Ødegaard,,6,306,KFUM Oslo,KFUM,1,GK,a,,1260,0,0,3,18,0,0,0,0,0,50,3,0.000000,47,46,2.0
 116,1637491,Teodor,Berg Haltvik,Haltvik,,6,306,KFUM Oslo,KFUM,3,MID,u,Overgang til Sønderjyske,536,4,0,3,9,0,0,0,0,0,0,3,0.000000,42,48,5.6
 117,191505,Simen,Hestnes,Hestnes,,6,306,KFUM Oslo,KFUM,3,MID,u,Overgang til Häcken,926,1,1,3,17,1,0,0,0,0,0,5,0.000000,35,58,2.2
@@ -121,7 +121,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 120,191139,Robin,Rasch,Rasch,,6,306,KFUM Oslo,KFUM,3,MID,a,,1033,1,3,3,15,0,0,0,2,0,0,2,0.000000,45,48,0.3
 121,1631352,Mansour,Sinyan,Sinyan,,6,306,KFUM Oslo,KFUM,3,MID,u,På lån til KI Klaksvik,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
 122,1708342,Daniel,Schneider,Schneider,,6,306,KFUM Oslo,KFUM,2,DEF,a,,1884,1,0,5,35,0,0,0,5,1,0,6,0.000000,52,45,0.7
-123,1588161,Bilal,Elmi Njie,Elmi Njie,,6,306,KFUM Oslo,KFUM,3,MID,a,,1274,7,1,3,20,0,0,0,1,0,0,11,0.000000,84,54,0.5
+123,1588161,Bilal,Elmi Njie,Elmi Njie,,6,306,KFUM Oslo,KFUM,3,MID,a,,1274,7,1,3,20,0,0,0,1,0,0,11,0.000000,84,54,0.6
 124,1572189,Eirik,Saunes,Saunes,,6,306,KFUM Oslo,KFUM,2,DEF,a,,1740,0,0,4,32,0,0,1,3,0,0,3,0.000000,42,43,1.5
 125,1787113,Mostafa,Najafzadeh,Najafzadeh,,6,306,KFUM Oslo,KFUM,3,MID,a,,2,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,43,0.1
 126,1946555,Marko,Vuckovic,Vuckovic,,6,306,KFUM Oslo,KFUM,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,0.1
@@ -139,16 +139,16 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 138,2028915,Frederik,Flex,Flex,,7,785,Kristiansund,KBK,2,DEF,a,,1110,0,0,1,26,1,0,0,3,0,0,0,0.000000,19,44,0.1
 139,135222,Dan Peter,Ulvestad,Ulvestad,,7,785,Kristiansund,KBK,2,DEF,s,Suspendert - Tilbake 7. november,1900,0,0,3,36,0,0,0,2,1,0,0,0.000000,37,44,1.2
 140,1686544,Max,Normann Williamsen,Williamsen,,7,785,Kristiansund,KBK,2,DEF,a,,439,0,0,0,20,0,0,0,0,0,0,0,0.000000,8,43,0.0
-141,1653564,Leander,Næss Alvheim,Næss Alvheim,,7,785,Kristiansund,KBK,4,FWD,s,Suspendert - Tilbake 7. november,1820,12,0,3,40,0,0,1,4,0,0,11,0.000000,96,67,12.9
+141,1653564,Leander,Næss Alvheim,Næss Alvheim,,7,785,Kristiansund,KBK,4,FWD,s,Suspendert - Tilbake 7. november,1820,12,0,3,40,0,0,1,4,0,0,11,0.000000,96,66,9.9
 142,2017631,Mustapha,Isah Ubandoma,Mustapha,,7,785,Kristiansund,KBK,4,FWD,u,Overgang til RAAL La Louvière,913,1,1,4,14,0,0,0,3,0,0,2,0.000000,30,57,5.3
-143,1909901,Michael,Lansing,Lansing,,7,785,Kristiansund,KBK,1,GK,a,,990,0,0,1,27,0,2,0,1,0,50,3,0.000000,41,43,1.8
-144,1679797,Adrian,Sæther,Sæther,,7,785,Kristiansund,KBK,1,GK,a,,1170,0,0,2,22,0,1,0,1,0,45,3,0.000000,43,44,3.8
+143,1909901,Michael,Lansing,Lansing,,7,785,Kristiansund,KBK,1,GK,a,,990,0,0,1,27,0,2,0,1,0,50,3,0.000000,41,43,1.6
+144,1679797,Adrian,Sæther,Sæther,,7,785,Kristiansund,KBK,1,GK,a,,1170,0,0,2,22,0,1,0,1,0,45,3,0.000000,43,44,3.7
 145,1851013,Haakon,Haugen,Haugen,,7,785,Kristiansund,KBK,2,DEF,a,,585,0,0,1,11,0,0,0,1,0,0,0,0.000000,19,44,0.1
-146,1987501,Wilfred George,Igor,George,,7,785,Kristiansund,KBK,3,MID,d,Kne - 50 % sjanse for å spille,1792,1,2,2,38,0,0,0,4,0,0,3,0.000000,54,44,5.7
+146,1987501,Wilfred George,Igor,George,,7,785,Kristiansund,KBK,3,MID,d,Kne - 50 % sjanse for å spille,1792,1,2,2,38,0,0,0,4,0,0,3,0.000000,54,44,5.6
 147,1822682,Adrian,Kurd Rønning,Kurd Rønning,,7,785,Kristiansund,KBK,3,MID,a,,1004,1,3,2,20,0,0,0,3,0,0,2,0.000000,47,43,0.3
 148,2795755,Franklin,Daddys Boy Nyenetue,Daddys Boy,,7,785,Kristiansund,KBK,3,MID,u,Overgang til FC Dila Gori,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0.1
-149,1807420,David,Tufekcic,Tufekcic,,7,785,Kristiansund,KBK,3,MID,a,,403,3,0,0,13,0,0,0,2,0,0,3,0.000000,26,54,0.1
-150,1761618,Sander,Kilen,Kilen,,9,3,Molde,MOL,3,MID,a,,1542,6,6,3,26,0,0,0,3,0,0,7,0.000000,95,60,6.9
+149,1807420,David,Tufekcic,Tufekcic,,7,785,Kristiansund,KBK,3,MID,d,Lyske - 50 % sjanse for å spille,403,3,0,0,13,0,0,0,2,0,0,3,0.000000,26,54,0.1
+150,1761618,Sander,Kilen,Kilen,,9,3,Molde,MOL,3,MID,a,,1542,6,6,3,26,0,0,0,3,0,0,7,0.000000,95,61,7.3
 151,1820173,Sander,Rød,Rød,,7,785,Kristiansund,KBK,1,GK,u,På lån i Follo,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.4
 152,1884520,Herman,Sjåvik Opsahl,Sjåvik Opsahl,,7,785,Kristiansund,KBK,3,MID,u,På lån til Træff,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
 153,1797995,Anders,Børset,Børset,,7,785,Kristiansund,KBK,2,DEF,a,,54,0,0,0,2,0,0,0,1,0,0,0,0.000000,3,39,3.8
@@ -158,16 +158,16 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 157,1575701,Jesper,Isaksen,Isaksen,,7,785,Kristiansund,KBK,3,MID,a,,1128,0,1,3,31,0,0,0,3,0,0,2,0.000000,37,50,0.0
 158,1969144,Alexander,Munksgaard Nielsen,Munksgaard,,7,785,Kristiansund,KBK,2,DEF,u,Overgang til Sønderjyske,1314,0,2,2,25,0,0,0,0,0,0,1,0.000000,36,45,0.1
 159,2057499,Hrannar,Snær Magnusson,Magnusson,,7,785,Kristiansund,KBK,3,MID,u,Overgang til Knattspyrnufélagið Víkingur,155,0,0,0,5,0,0,0,1,0,0,0,0.000000,8,53,0.0
-160,2057365,Pontus,Dahlberg,Dahlberg,,8,177,Lillestrøm,LSK,1,GK,d,Smell - 50 % sjanse for å spille,2070,0,0,7,31,0,0,0,2,0,102,9,0.000000,95,49,21.5
-161,203158,Stefan,Hagerup,Hagerup,,8,177,Lillestrøm,LSK,1,GK,a,,90,0,0,0,2,0,0,0,0,0,2,0,0.000000,1,39,0.9
+160,2057365,Pontus,Dahlberg,Dahlberg,,8,177,Lillestrøm,LSK,1,GK,d,Skulder - 50 % sjanse for å spille,2070,0,0,7,31,0,0,0,2,0,102,9,0.000000,95,49,20.2
+161,203158,Stefan,Hagerup,Hagerup,,8,177,Lillestrøm,LSK,1,GK,a,,90,0,0,0,2,0,0,0,0,0,2,0,0.000000,1,39,1.2
 162,1671800,Sturla,Ottesen,Ottesen,,8,177,Lillestrøm,LSK,2,DEF,a,,995,0,1,4,12,0,0,0,0,0,0,0,0.000000,42,42,1.3
-163,1618145,Lars,Ranger,Ranger,,8,177,Lillestrøm,LSK,2,DEF,a,,1771,2,2,5,28,0,0,0,2,0,0,8,0.000000,73,49,15.5
-164,63069,Espen,Garnås,Garnås,,8,177,Lillestrøm,LSK,2,DEF,d,Kne - 25 % sjanse for å spille,288,0,0,0,8,0,0,0,0,1,0,0,0.000000,4,43,0.6
-165,1579725,Sander,Moen Foss,Moen Foss,,8,177,Lillestrøm,LSK,2,DEF,a,,951,1,0,4,9,0,0,0,1,0,0,0,0.000000,43,42,1.5
-166,214957,Ruben,Gabrielsen,Gabrielsen,,8,177,Lillestrøm,LSK,2,DEF,a,,1710,1,0,5,27,0,0,0,2,0,0,3,0.000000,54,45,2.3
+163,1618145,Lars,Ranger,Ranger,,8,177,Lillestrøm,LSK,2,DEF,a,,1771,2,2,5,28,0,0,0,2,0,0,8,0.000000,73,50,16.6
+164,63069,Espen,Garnås,Garnås,,8,177,Lillestrøm,LSK,2,DEF,i,Kne - Ute på ubestemt tid,288,0,0,0,8,0,0,0,0,1,0,0,0.000000,4,43,0.6
+165,1579725,Sander,Moen Foss,Moen Foss,,8,177,Lillestrøm,LSK,2,DEF,a,,951,1,0,4,9,0,0,0,1,0,0,0,0.000000,43,42,1.6
+166,214957,Ruben,Gabrielsen,Gabrielsen,,8,177,Lillestrøm,LSK,2,DEF,a,,1710,1,0,5,27,0,0,0,2,0,0,3,0.000000,54,45,2.4
 167,1713399,Lucas,Svenningsen,Svenningsen,,8,177,Lillestrøm,LSK,2,DEF,u,På lån til Skeid,1,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,39,0.3
 168,1988551,Frederik,Elkær,Elkær,,8,177,Lillestrøm,LSK,2,DEF,a,,1039,0,3,3,19,0,0,0,3,0,0,1,0.000000,39,55,0.3
-169,1970930,Uba,Charles Nwokoma,Uba Charles,,1,15,Aalesund,AaFK,2,DEF,a,,1796,1,5,0,44,0,0,0,1,0,0,7,0.000000,51,46,1.9
+169,1970930,Uba,Charles Nwokoma,Uba Charles,,1,15,Aalesund,AaFK,2,DEF,d,Smell - 75 % sjanse for å spille,1796,1,5,0,44,0,0,0,1,0,0,7,0.000000,51,46,1.8
 170,325192,Ylldren,Ibrahimaj,Ibrahimaj,,8,177,Lillestrøm,LSK,3,MID,a,,1824,0,2,7,26,0,0,0,7,0,0,5,0.000000,54,52,1.5
 171,1661628,Markus,Karlsbakk,Karlsbakk,,8,177,Lillestrøm,LSK,3,MID,u,Overgang til Arca Çorum FK,1172,4,1,4,15,1,0,0,2,0,0,7,0.000000,58,70,10.5
 172,1540744,Eric,Kitolano,E. Kitolano,,8,177,Lillestrøm,LSK,3,MID,a,,890,1,0,3,12,0,0,0,0,0,0,0,0.000000,30,68,4.3
@@ -177,101 +177,101 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 176,2033039,Salieu,Drammeh,Drammeh,,8,177,Lillestrøm,LSK,3,MID,u,Overgang til Standard Liège,978,2,2,6,10,0,0,0,0,0,0,4,0.000000,49,62,3.1
 177,2003104,Efe,Lucky,Lucky,,8,177,Lillestrøm,LSK,3,MID,u,Kontrakt terminert,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,49,0.0
 178,1872936,Angelos,Chaminta,Chaminta,,8,177,Lillestrøm,LSK,3,MID,u,Lån til Kongsvinger,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,43,0.1
-179,2004897,Felix,Va,Va,,8,177,Lillestrøm,LSK,3,MID,a,,1982,8,5,6,32,0,0,0,3,0,0,23,0.000000,128,63,15.4
-180,1793725,Gustav,Nyheim,Nyheim,,8,177,Lillestrøm,LSK,3,MID,a,,1484,4,5,4,24,0,0,0,6,0,0,15,0.000000,86,52,1.2
+179,2004897,Felix,Va,Va,,8,177,Lillestrøm,LSK,3,MID,a,,1982,8,5,6,32,0,0,0,3,0,0,23,0.000000,128,64,18.9
+180,1793725,Gustav,Nyheim,Nyheim,,8,177,Lillestrøm,LSK,3,MID,a,,1484,4,5,4,24,0,0,0,6,0,0,15,0.000000,86,52,1.3
 181,2057438,Camil,Jebara,Jebara,,8,177,Lillestrøm,LSK,3,MID,i,Lyske - Forventet tilbake 22. november,329,1,1,0,4,0,0,0,1,0,0,0,0.000000,20,57,0.1
 182,2033036,Kparobo,Arierhi,Arierhi,,8,177,Lillestrøm,LSK,4,FWD,u,På lån til Sogndal,244,1,0,1,4,0,0,0,0,0,0,0,0.000000,17,58,0.4
-183,47482,Thomas,Lehne Olsen,Lehne Olsen,,8,177,Lillestrøm,LSK,4,FWD,a,,1179,6,2,6,19,0,0,1,0,0,0,6,0.000000,66,79,22.4
+183,47482,Thomas,Lehne Olsen,Lehne Olsen,,8,177,Lillestrøm,LSK,4,FWD,a,,1179,6,2,6,19,0,0,1,0,0,0,6,0.000000,66,79,22.5
 184,1896361,Markus,Wæhler,Wæhler,,8,177,Lillestrøm,LSK,4,FWD,u,Lån til Strømmen,6,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,54,0.1
 185,1621340,Yaw,Paintsil,Paintsil,,8,177,Lillestrøm,LSK,2,DEF,a,,913,0,3,3,16,0,0,0,1,0,0,0,0.000000,43,48,0.4
 186,1537559,Isak,Helstad Amundsen,Amundsen,,4,117,Fredrikstad,FFK,2,DEF,a,,897,0,1,2,18,0,0,0,1,1,0,2,0.000000,28,43,0.7
 187,302884,Eirik,Haugan,Haugan,,9,3,Molde,MOL,2,DEF,a,,530,0,0,0,11,0,0,0,1,0,0,0,0.000000,16,42,2.6
-188,49607,Martin,Linnes,Linnes,,9,3,Molde,MOL,2,DEF,a,,1072,1,4,1,18,0,0,0,3,0,0,2,0.000000,46,54,0.9
+188,49607,Martin,Linnes,Linnes,,9,3,Molde,MOL,2,DEF,a,,1072,1,4,1,18,0,0,0,3,0,0,2,0.000000,46,54,1.0
 189,1577144,Casper,Øyvann,Øyvann,,14,2,Tromsø,TIL,2,DEF,a,,138,0,0,0,5,0,0,0,0,0,0,0,0.000000,4,43,0.1
-190,1589895,Halldor,Stenevik,Stenevik,,9,3,Molde,MOL,2,DEF,i,Smell - Forventet tilbake 8. november,1080,0,2,3,15,0,0,0,1,0,0,0,0.000000,36,49,2.8
-191,23114,Fredrik,Gulbrandsen,Gulbrandsen,,8,177,Lillestrøm,LSK,4,FWD,a,,1059,7,1,4,9,0,0,0,5,0,0,3,0.000000,60,74,5.4
+190,1589895,Halldor,Stenevik,Stenevik,,9,3,Molde,MOL,2,DEF,d,Smell - 25 % sjanse for å spille,1080,0,2,3,15,0,0,0,1,0,0,0,0.000000,36,49,2.8
+191,23114,Fredrik,Gulbrandsen,Gulbrandsen,,8,177,Lillestrøm,LSK,4,FWD,a,,1059,7,1,4,9,0,0,0,5,0,0,3,0.000000,60,74,5.5
 192,1996832,Albert,Posiadała,Posiadała,,9,3,Molde,MOL,1,GK,a,,1727,0,1,3,28,1,1,0,2,0,53,2,0.000000,58,47,4.4
-193,1601181,Emil,Varhaugvik Breivik,Breivik,,9,3,Molde,MOL,3,MID,a,,2152,10,10,5,35,0,0,0,3,0,0,22,0.000000,152,77,50.8
+193,1601181,Emil,Varhaugvik Breivik,Breivik,,9,3,Molde,MOL,3,MID,a,,2152,10,10,5,35,0,0,0,3,0,0,22,0.000000,152,78,51.3
 194,2025801,Daniel,Daga,Daga,,9,3,Molde,MOL,3,MID,a,,885,2,1,1,16,0,0,0,1,0,0,6,0.000000,41,48,0.2
 195,46688,Kristian,Eriksen,Eriksen,,3,298,Brann,BRA,3,MID,a,,1431,6,6,4,28,0,0,0,3,0,0,4,0.000000,90,76,3.6
-196,1854810,Sondre,Granaas,Granaas,,9,3,Molde,MOL,3,MID,a,,1484,3,6,2,26,0,0,0,5,0,0,9,0.000000,76,50,2.2
+196,1854810,Sondre,Granaas,Granaas,,9,3,Molde,MOL,3,MID,a,,1484,3,6,2,26,0,0,0,5,0,0,9,0.000000,76,49,1.8
 197,133035,Eirik,Hestad,Hestad,,9,3,Molde,MOL,3,MID,i,Legg - Forventet tilbake 8. november,1149,8,3,4,18,0,0,0,7,0,0,5,0.000000,80,59,1.5
 198,207598,Mats,Møller Dæhli,Møller Dæhli,,9,3,Molde,MOL,3,MID,a,,881,0,1,2,10,0,0,0,1,0,0,3,0.000000,30,50,0.3
 199,2036537,Samukelo,Kabini,Kabini,,9,3,Molde,MOL,2,DEF,a,,1348,1,2,4,23,0,0,0,2,2,0,4,0.000000,48,55,3.5
 200,2037485,Caleb,Zady Sery,Zady Sery,,9,3,Molde,MOL,3,MID,a,,887,2,3,1,15,0,0,0,1,0,0,2,0.000000,47,68,2.2
 201,312566,Birk,Risa,Risa,,9,3,Molde,MOL,2,DEF,a,,1500,0,0,3,22,0,0,0,1,0,0,3,0.000000,43,50,0.9
-202,1803312,Oskar,Spiten-Nysæter,Spiten,,9,3,Molde,MOL,3,MID,a,,762,3,2,2,15,0,0,0,2,0,0,7,0.000000,52,80,0.4
+202,1803312,Oskar,Spiten-Nysæter,Spiten,,9,3,Molde,MOL,3,MID,a,,762,3,2,2,15,0,0,0,2,0,0,7,0.000000,52,79,0.3
 203,2051892,Jacob,Steen Christensen,Christensen,,9,3,Molde,MOL,3,MID,u,På lån til Sönderjyske,481,0,0,1,7,0,0,0,0,0,0,0,0.000000,15,50,0.1
 204,1688244,Peder,Hoel Lervik,Lervik,,9,3,Molde,MOL,1,GK,a,,90,0,0,0,2,0,0,0,0,0,0,0,0.000000,1,45,0.1
 205,2058352,Mads,Kikkenborg,Kikkenborg,,9,3,Molde,MOL,1,GK,i,Akilles - Ute resten av sesongen,342,0,1,1,6,0,0,0,0,0,7,0,0.000000,14,47,0.8
 206,2058741,Viktor,Bender,Bender,,9,3,Molde,MOL,3,MID,a,,181,0,1,0,4,0,0,0,1,0,0,0,0.000000,13,46,0.1
 207,1847799,Blerton,Isufi,Isufi,,5,63,HamKam,HAM,3,MID,a,,414,1,0,1,6,0,0,0,3,0,0,0,0.000000,17,48,0.0
-208,1703335,Sivert,Sira Hansen,Sira Hansen,,9,3,Molde,MOL,2,DEF,d,Smell - 25 % sjanse for å spille,1555,0,2,3,28,0,0,0,2,0,0,7,0.000000,48,49,3.2
+208,1703335,Sivert,Sira Hansen,Sira Hansen,,9,3,Molde,MOL,2,DEF,a,,1555,0,2,3,28,0,0,0,2,0,0,7,0.000000,48,49,3.1
 209,1597807,Fredrik,Kristensen Dahl,Dahl,,9,3,Molde,MOL,2,DEF,a,,426,0,0,0,7,0,0,0,1,0,0,0,0.000000,8,49,0.1
-210,1688818,Mikkel,Konradsen Ceïde,M. Ceïde,,10,145,Rosenborg,RBK,2,DEF,a,,1426,0,0,7,19,0,0,0,1,0,0,3,0.000000,55,45,5.6
+210,1688818,Mikkel,Konradsen Ceïde,M. Ceïde,,10,145,Rosenborg,RBK,2,DEF,a,,1426,0,0,7,19,0,0,0,1,0,0,3,0.000000,55,46,5.9
 211,1798418,Tobias,Dahl,Dahl,,10,145,Rosenborg,RBK,2,DEF,a,,840,0,1,1,14,0,0,0,2,0,0,1,0.000000,25,45,0.2
 212,2025084,Jonas,Mortensen,Mortensen,,10,145,Rosenborg,RBK,2,DEF,a,,612,1,0,1,12,0,0,0,2,0,0,0,0.000000,26,44,0.1
 213,1996735,Tomáš,Nemčík,Nemčík,,10,145,Rosenborg,RBK,2,DEF,a,,1775,0,0,8,25,0,0,0,4,0,0,5,0.000000,65,52,2.5
-214,1616018,Adrian,Pereira,Pereira,,10,145,Rosenborg,RBK,2,DEF,a,,1157,2,3,8,13,0,0,0,2,0,0,6,0.000000,85,62,21.2
+214,1616018,Adrian,Pereira,Pereira,,10,145,Rosenborg,RBK,2,DEF,d,Sykdom - 50 % sjanse for å spille,1157,2,3,8,13,0,0,0,2,0,0,6,0.000000,85,62,21.6
 215,3698988,Elias,Sandrød,Sandrød,,10,145,Rosenborg,RBK,2,DEF,u,På lån til Stjørdals-Blink,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.1
 216,1840523,Håkon,Singsdal Volden,Singsdal Volden,,10,145,Rosenborg,RBK,2,DEF,i,Rygg - Ute på ubestemt tid,330,0,0,0,7,0,0,0,0,0,0,0,0.000000,6,49,0.4
 217,1579916,Ulrik,Yttergård Jenssen,Y. Jenssen,,8,177,Lillestrøm,LSK,2,DEF,u,Overgang til Odense,634,0,0,4,5,0,0,0,1,0,0,0,0.000000,30,45,2.0
 218,1886317,Dino,Islamovic,Islamovic,,10,145,Rosenborg,RBK,4,FWD,a,,552,2,0,0,11,0,0,1,1,0,0,2,0.000000,24,80,10.1
 219,1654109,Rasmus,Semundseth Sandberg,Semundseth,,10,145,Rosenborg,RBK,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,43,0.3
 220,67078,Iver,Fossum,Fossum,,10,145,Rosenborg,RBK,3,MID,a,,856,3,3,4,10,0,0,0,0,0,0,0,0.000000,52,47,1.7
-221,1688819,Emil,Konradsen Ceïde,E. Ceïde,,10,145,Rosenborg,RBK,3,MID,a,,1989,6,10,11,25,0,0,0,2,0,0,15,0.000000,131,81,18.4
+221,1688819,Emil,Konradsen Ceïde,E. Ceïde,,10,145,Rosenborg,RBK,3,MID,a,,1989,6,10,11,25,0,0,0,2,0,0,15,0.000000,131,82,19.3
 222,1840518,Jesper,Reitan-Sunde,Reitan-Sunde,,10,145,Rosenborg,RBK,3,MID,a,,153,0,1,0,3,0,0,0,2,0,0,0,0.000000,11,49,0.0
-223,2017709,Noah,Sahsah,Sahsah,,10,145,Rosenborg,RBK,3,MID,a,,820,5,1,5,13,0,0,0,1,0,0,4,0.000000,61,61,2.0
+223,2017709,Noah,Sahsah,Sahsah,,10,145,Rosenborg,RBK,3,MID,a,,820,5,1,5,13,0,0,0,1,0,0,4,0.000000,61,60,1.6
 224,200083,Ole,Selnæs,Selnæs,,10,145,Rosenborg,RBK,3,MID,a,,1502,1,8,6,19,1,0,0,2,1,0,10,0.000000,73,49,1.2
 225,1962696,Santeri,Väänänen,Väänänen,,10,145,Rosenborg,RBK,3,MID,u,Overgang til Karlsruher,447,0,0,1,8,0,0,0,0,0,0,0,0.000000,13,49,0.0
 226,1849238,Elias,Slørdal,Slørdal,,10,145,Rosenborg,RBK,3,MID,i,Fot - Ute resten av sesongen,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,0.0
 227,1862911,Isak,Holmen,Holmen,,10,145,Rosenborg,RBK,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,42,0.0
-228,320444,Aslak,Fonn Witry,Witry,,10,145,Rosenborg,RBK,2,DEF,a,,1214,2,1,4,21,0,0,0,4,0,0,4,0.000000,53,54,2.5
+228,320444,Aslak,Fonn Witry,Witry,,10,145,Rosenborg,RBK,2,DEF,a,,1214,2,1,4,21,0,0,0,4,0,0,4,0.000000,53,55,3.0
 229,2050711,Dávid,Duris,Duris,,10,145,Rosenborg,RBK,3,MID,a,,756,1,0,4,7,0,0,0,3,0,0,1,0.000000,29,68,1.3
 230,1761642,Simen,Bolkan Nordli,Bolkan Nordli,,10,145,Rosenborg,RBK,3,MID,i,Lår - Ute på ubestemt tid,775,4,0,3,13,0,0,0,2,0,0,3,0.000000,46,69,0.3
 231,1941598,Aleksander,Borgersen,Borgersen,,10,145,Rosenborg,RBK,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,48,0.0
-232,1866330,Leopold,Wahlstedt,Wahlstedt,,10,145,Rosenborg,RBK,1,GK,a,,2160,0,0,9,31,0,0,0,3,0,76,1,0.000000,88,51,4.6
+232,1866330,Leopold,Wahlstedt,Wahlstedt,,10,145,Rosenborg,RBK,1,GK,a,,2160,0,0,9,31,0,0,0,3,0,76,1,0.000000,88,52,5.1
 233,1808349,Haakon,Ingdal Sørum,Sørum,,10,145,Rosenborg,RBK,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,38,0.6
 234,1815091,Håkon,Røsten,Røsten,,6,306,KFUM Oslo,KFUM,2,DEF,a,,1180,0,0,2,22,0,0,0,1,0,0,3,0.000000,31,43,0.2
-235,163662,Jonas,Svensson,Svensson,,10,145,Rosenborg,RBK,2,DEF,a,,894,1,3,4,7,0,0,0,3,0,0,0,0.000000,50,50,2.1
+235,163662,Jonas,Svensson,Svensson,,10,145,Rosenborg,RBK,2,DEF,a,,894,1,3,4,7,0,0,0,3,0,0,0,0.000000,50,50,2.2
 236,2060192,Mads,Bomholt,Bomholt,,10,145,Rosenborg,RBK,3,MID,a,,2039,2,5,9,28,0,0,0,3,0,0,13,0.000000,91,66,3.0
-237,2060228,Amin,Chiakha,Chiakha,,10,145,Rosenborg,RBK,3,MID,a,,1940,15,5,8,28,0,0,0,4,0,0,18,0.000000,157,81,35.5
+237,2060228,Amin,Chiakha,Chiakha,,10,145,Rosenborg,RBK,3,MID,a,,1940,15,5,8,28,0,0,0,4,0,0,18,0.000000,157,81,36.0
 238,1725695,Johan,Bakke,Bakke,,10,145,Rosenborg,RBK,3,MID,i,Smell - Ute resten av sesongen,276,0,0,0,8,0,0,0,0,0,0,0,0.000000,10,56,0.1
 239,1661511,Jacob,Hanstad,Hanstad,,11,195,Sandefjord,SAN,3,MID,u,Overgang til Stabæk,57,0,0,0,0,0,0,0,1,0,0,0,0.000000,1,54,0.0
 240,1536092,Stian,Kristiansen,Kristiansen,,8,177,Lillestrøm,LSK,2,DEF,a,,994,0,0,1,23,0,0,0,1,0,0,2,0.000000,23,41,7.8
 241,1792894,Filip,Loftesnes-Bjune,Loftesnes-Bjune,,11,195,Sandefjord,SAN,2,DEF,i,Lår - Ute på ubestemt tid,34,0,0,0,0,0,0,0,0,0,0,0,0.000000,3,44,0.0
 242,1658867,Fredrik,Carson Pedersen,Carson,,11,195,Sandefjord,SAN,2,DEF,a,,1994,0,0,6,28,0,0,0,2,0,0,1,0.000000,61,45,0.7
 243,2031636,Zinedin,Smajlović,Smajlović,,11,195,Sandefjord,SAN,2,DEF,u,Overgang til Olympiakos,896,0,1,4,12,0,0,0,0,1,0,9,0.000000,41,52,4.5
-244,1727187,Vetle,Walle Egeli,Walle Egeli,,11,195,Sandefjord,SAN,2,DEF,a,,1759,1,2,6,24,0,0,0,2,0,0,2,0.000000,71,48,5.6
+244,1727187,Vetle,Walle Egeli,Walle Egeli,,11,195,Sandefjord,SAN,2,DEF,a,,1759,1,2,6,24,0,0,0,2,0,0,2,0.000000,71,48,5.3
 245,1735316,Alf Lukas,Grønneberg,Grønneberg,,11,195,Sandefjord,SAN,1,GK,a,,59,0,0,0,0,0,0,0,0,0,3,0,0.000000,2,39,1.9
 246,1866009,Elias,Hadaya,Hadaya,,11,195,Sandefjord,SAN,1,GK,a,,2100,0,0,6,31,0,0,0,3,0,82,6,0.000000,86,51,3.5
 247,1646531,Jacob,Maslø Dunsby,Dunsby,,11,195,Sandefjord,SAN,3,MID,a,,1244,1,1,3,20,0,0,0,4,0,0,0,0.000000,38,73,1.8
 248,2029331,Robin,Dzabic,Dzabic,,11,195,Sandefjord,SAN,3,MID,u,På lån til Degerfors,93,0,0,0,1,0,0,0,0,0,0,0,0.000000,9,53,0.0
-249,1718708,Sebastian,Holm Mathisen,Holm Mathisen,,11,195,Sandefjord,SAN,4,FWD,a,,627,2,0,0,12,0,0,0,1,0,0,0,0.000000,33,52,0.8
+249,1718708,Sebastian,Holm Mathisen,Holm Mathisen,,11,195,Sandefjord,SAN,4,FWD,a,,627,2,0,0,12,0,0,0,1,0,0,0,0.000000,33,51,0.8
 250,1626586,Marcus,Melchior,Melchior,,11,195,Sandefjord,SAN,3,MID,i,Kne - Ute resten av sesongen,707,0,0,2,11,0,0,0,2,0,0,3,0.000000,22,53,0.1
 251,2031639,Evangelos,Patoulidis,Patoulidis,,11,195,Sandefjord,SAN,3,MID,a,,1554,4,1,6,22,0,0,0,2,0,0,3,0.000000,72,70,4.0
-252,1622993,Sander,Risan Mørk,Risan Mørk,,11,195,Sandefjord,SAN,3,MID,a,,2106,1,1,6,30,0,0,0,1,0,0,6,0.000000,67,43,4.4
+252,1622993,Sander,Risan Mørk,Risan Mørk,,11,195,Sandefjord,SAN,3,MID,a,,2106,1,1,6,30,0,0,0,1,0,0,6,0.000000,67,43,4.3
 253,1858367,Bendik,Slotfeldt Berntsen,Berntsen,,11,195,Sandefjord,SAN,3,MID,s,Suspendert - Tilbake 8. november,836,1,1,2,9,0,0,0,4,0,0,5,0.000000,38,58,0.1
 254,1790155,Edvard,Sundbø Pettersen,Sundbø Pettersen,,11,195,Sandefjord,SAN,3,MID,a,,1517,2,1,4,20,0,0,0,4,0,0,0,0.000000,49,54,0.1
 255,1779857,Håkon,Krogelien,Krogelien,,11,195,Sandefjord,SAN,2,DEF,a,,294,0,0,1,5,0,0,0,0,0,0,0,0.000000,14,40,1.6
 256,2056085,Jakob,Vester,Vester,,11,195,Sandefjord,SAN,3,MID,a,,766,1,0,0,17,0,0,0,2,2,0,0,0.000000,18,57,0.2
 257,1858377,Jakob,Swift,Swift,,11,195,Sandefjord,SAN,3,MID,a,,1,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,42,0.3
 258,2018028,Nikolaj,Duus Möller,Möller,,11,195,Sandefjord,SAN,4,FWD,i,Ankel - Ute på ubestemt tid,1042,3,0,5,13,0,0,1,3,0,0,0,0.000000,34,57,3.0
-259,2060648,Xander,Lambrix,Lambrix,,11,195,Sandefjord,SAN,2,DEF,d,Kne - 50 % sjanse for å spille,2054,0,1,6,28,0,0,0,4,0,0,11,0.000000,72,45,3.4
-260,1468007,Sondre,Sørli,Sørli,,12,797,Sarpsborg 08,S08,3,MID,a,,2032,5,7,5,34,0,0,0,1,0,0,6,0.000000,103,65,5.3
-261,306540,Håvar,Jenssen,Jenssen,,6,306,KFUM Oslo,KFUM,1,GK,a,,720,0,0,1,18,0,0,0,0,0,26,0,0.000000,18,39,15.1
+259,2060648,Xander,Lambrix,Lambrix,,11,195,Sandefjord,SAN,2,DEF,d,Kne - 50 % sjanse for å spille,2054,0,1,6,28,0,0,0,4,0,0,11,0.000000,72,45,3.1
+260,1468007,Sondre,Sørli,Sørli,,12,797,Sarpsborg 08,S08,3,MID,a,,2032,5,7,5,34,0,0,0,1,0,0,6,0.000000,103,66,5.4
+261,306540,Håvar,Jenssen,Jenssen,,6,306,KFUM Oslo,KFUM,1,GK,a,,720,0,0,1,18,0,0,0,0,0,26,0,0.000000,18,39,14.8
 262,1697435,Sander,Christiansen,Christiansen,,12,797,Sarpsborg 08,S08,3,MID,a,,1717,1,2,4,30,0,0,0,3,0,0,4,0.000000,57,44,0.9
-263,1696649,Anders,Hiim,Hiim,,12,797,Sarpsborg 08,S08,2,DEF,a,,1940,2,1,5,29,0,0,0,2,0,0,2,0.000000,70,44,2.6
+263,1696649,Anders,Hiim,Hiim,,12,797,Sarpsborg 08,S08,2,DEF,a,,1940,2,1,5,29,0,0,0,2,0,0,2,0.000000,70,44,3.1
 264,2017593,Menno,Koch,Koch,,12,797,Sarpsborg 08,S08,2,DEF,u,Kontrakt utløpt,471,0,0,0,9,0,0,0,2,0,0,0,0.000000,10,42,1.4
 265,207938,Magnar,Ødegård,Ødegård,,12,797,Sarpsborg 08,S08,2,DEF,u,Lagt opp,340,0,0,3,2,0,0,0,1,0,0,0,0.000000,23,44,0.2
 266,1634211,Peter,Reinhardsen,Reinhardsen,,12,797,Sarpsborg 08,S08,2,DEF,a,,298,0,0,0,8,0,0,0,1,0,0,0,0.000000,5,50,0.1
 267,1739749,Nikolai,Skuseth,Skuseth,,12,797,Sarpsborg 08,S08,2,DEF,u,På lån til Degerfors,15,0,0,0,1,0,0,0,0,0,0,0,0.000000,5,44,0.1
 268,1556954,Eirik,Wichne,Wichne,,12,797,Sarpsborg 08,S08,2,DEF,a,,754,1,0,0,15,0,0,0,1,0,0,2,0.000000,28,48,0.5
 269,214441,Jo Inge,Berget,Berget,,12,797,Sarpsborg 08,S08,3,MID,u,Kontrakt avsluttet,163,0,0,0,2,0,0,0,1,0,0,0,0.000000,7,65,0.8
-270,1728468,Daniel,Karlsbakk,Karlsbakk,,12,797,Sarpsborg 08,S08,4,FWD,s,Suspendert - Tilbake 8. november,2114,7,1,5,34,0,0,1,4,0,0,0,0.000000,73,87,15.6
+270,1728468,Daniel,Karlsbakk,Karlsbakk,,12,797,Sarpsborg 08,S08,4,FWD,s,Suspendert - Tilbake 8. november,2114,7,1,5,34,0,0,1,4,0,0,0,0.000000,73,87,14.3
 271,1534993,Alagie,Sanyang,Sanyang,,12,797,Sarpsborg 08,S08,3,MID,u,Overgang til Stabæk,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0.0
 272,1997548,Mamour,Ndiaye,Ndiaye,,12,797,Sarpsborg 08,S08,1,GK,u,Overgang til St. Etienne,900,0,0,1,12,0,1,0,3,1,34,3,0.000000,33,49,3.8
-273,1568480,Leander,Øy,Øy,,12,797,Sarpsborg 08,S08,1,GK,a,,1260,0,0,4,23,0,0,0,0,0,49,7,0.000000,54,45,9.6
+273,1568480,Leander,Øy,Øy,,12,797,Sarpsborg 08,S08,1,GK,a,,1260,0,0,4,23,0,0,0,0,0,49,7,0.000000,54,46,9.9
 274,2017629,Frederik,Carstensen,Carstensen,,12,797,Sarpsborg 08,S08,3,MID,i,Smell - Ute resten av sesongen,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,59,0.0
 275,3396249,Martin,Håheim-Elveseter,Elveseter,,12,797,Sarpsborg 08,S08,3,MID,u,Utlån til Hødd,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0.0
 276,1743719,Victor,Halvorsen,Halvorsen,,12,797,Sarpsborg 08,S08,3,MID,a,,1378,3,2,5,19,0,0,0,0,0,0,4,0.000000,66,52,0.6
@@ -283,17 +283,17 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 282,2050990,Andreas,Nibe,Nibe,,12,797,Sarpsborg 08,S08,3,MID,a,,1552,3,0,5,25,0,0,0,0,0,0,1,0.000000,62,52,0.1
 283,107822,Bjørn Inge,Utvik,Utvik,,12,797,Sarpsborg 08,S08,2,DEF,a,,2041,0,1,5,33,0,0,0,6,0,0,13,0.000000,66,47,2.2
 284,31810,Sigurd,Rosted,Rosted,,12,797,Sarpsborg 08,S08,2,DEF,a,,788,0,2,1,11,0,0,0,2,0,0,2,0.000000,27,42,0.6
-285,1624129,Claus,Niyukuri,Niyukuri,,12,797,Sarpsborg 08,S08,2,DEF,a,,1369,2,5,5,20,0,0,0,2,0,0,12,0.000000,90,51,17.7
+285,1624129,Claus,Niyukuri,Niyukuri,,12,797,Sarpsborg 08,S08,2,DEF,a,,1369,2,5,5,20,0,0,0,2,0,0,12,0.000000,90,50,16.5
 286,1779018,Jesper,Gregersen,Gregersen,,12,797,Sarpsborg 08,S08,3,MID,u,Utlån til Egersund,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.1
 287,2050851,Bop,Gueye,Gueye,,12,797,Sarpsborg 08,S08,3,MID,a,,119,0,0,0,2,0,0,0,0,0,0,0,0.000000,12,54,0.1
 288,1927033,Noa,Williams,Williams,,12,797,Sarpsborg 08,S08,3,MID,a,,945,1,4,3,17,0,0,0,0,0,0,0,0.000000,51,62,0.4
-289,2060159,Camil,Mmaee,Mmaee,,12,797,Sarpsborg 08,S08,3,MID,a,,49,1,1,0,2,0,0,0,0,0,0,0,0.000000,13,59,0.0
-290,2018511,Jacob,Pryts Larsen,Pryts,,12,797,Sarpsborg 08,S08,1,GK,a,,1440,0,0,1,37,0,1,0,1,0,38,3,0.000000,35,43,2.4
+289,2060159,Camil,Mmaee,Mmaee,,12,797,Sarpsborg 08,S08,3,MID,a,,49,1,1,0,2,0,0,0,0,0,0,0,0.000000,13,59,0.1
+290,2018511,Jacob,Pryts Larsen,Pryts,,12,797,Sarpsborg 08,S08,1,GK,a,,1440,0,0,1,37,0,1,0,1,0,38,3,0.000000,35,43,2.3
 291,1621400,Jasper,Silva Torkildsen,Torkildsen,,4,117,Fredrikstad,FFK,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,39,11.2
 292,1718858,Storm,Strand-Kolbjørnsen,Strand-Kolbjørnsen,,13,261,Start,STA,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,39,0.7
 293,1629145,Altin,Ujkani,Ujkani,,13,261,Start,STA,2,DEF,a,,703,1,0,2,13,0,0,0,1,1,0,0,0.000000,25,44,0.1
 294,2027538,Omar,Jebali,Jebali,,13,261,Start,STA,2,DEF,u,Overgang til Moss,818,0,3,1,23,0,0,0,1,0,0,4,0.000000,28,42,1.3
-295,85994,John Olav,Norheim,Norheim,,13,261,Start,STA,2,DEF,a,,1486,2,0,2,41,0,0,0,2,0,0,3,0.000000,38,44,0.3
+295,85994,John Olav,Norheim,Norheim,,13,261,Start,STA,2,DEF,a,,1486,2,0,2,41,0,0,0,2,0,0,3,0.000000,38,44,0.4
 296,2018020,Sebastian,Griesbeck,Griesbeck,,13,261,Start,STA,2,DEF,d,Smell - 50 % sjanse for å spille,287,0,0,0,11,0,0,0,1,0,0,0,0.000000,5,43,0.0
 297,1561912,Kristoffer,Tønnessen,Tønnessen,,13,261,Start,STA,2,DEF,i,Legg - Trolig ute resten av sesongen,443,0,0,0,8,0,0,0,1,0,0,0,0.000000,7,44,0.3
 298,2058446,Johan,Meyer,Meyer,,13,261,Start,STA,2,DEF,a,,35,0,0,0,0,0,0,0,0,0,0,0,0.000000,4,44,0.0
@@ -302,7 +302,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 301,1619929,Mikael,Ugland,Ugland,,13,261,Start,STA,3,MID,a,,1595,0,2,3,36,0,0,0,3,0,0,1,0.000000,46,48,0.2
 302,3078041,Adrian,Eftestad Nilsen,Nilsen,,13,261,Start,STA,3,MID,u,Overgang til Arendal,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
 303,1859290,Lukas,Hjelleset Gausdal,Gausdal,,13,261,Start,STA,3,MID,u,På lån til Sogndal,261,0,0,0,10,0,0,0,0,0,0,0,0.000000,10,43,0.1
-304,303058,Erlend,Segberg,Segberg,,13,261,Start,STA,3,MID,a,,1902,3,4,2,46,0,0,0,4,0,0,4,0.000000,73,45,1.7
+304,303058,Erlend,Segberg,Segberg,,13,261,Start,STA,3,MID,a,,1902,3,4,2,46,0,0,0,4,0,0,4,0.000000,73,45,1.6
 305,1773740,Alexander,Gurendal,Gurendal,,13,261,Start,STA,4,FWD,u,På lån til Hønefoss,52,0,0,0,2,0,0,0,1,0,0,0,0.000000,4,49,0.1
 306,1621712,Deni,Alijevitsj Dasjajev,Dasjajev,,13,261,Start,STA,2,DEF,a,,606,1,0,1,19,0,0,0,2,0,0,0,0.000000,16,44,0.1
 307,296226,Fredrik,Pålerud,Pålerud,,13,261,Start,STA,2,DEF,a,,176,0,0,0,7,0,0,0,1,0,0,0,0.000000,8,45,0.0
@@ -310,120 +310,120 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 309,1958396,Tom,Strannegård,Strannegård,,13,261,Start,STA,2,DEF,u,Overgang til FC Thun,1508,2,4,1,37,0,0,0,0,0,0,8,0.000000,57,46,1.0
 310,1821112,Felix,Kutsche Eriksen,Eriksen,,13,261,Start,STA,4,FWD,u,På lån i Ull/Kisa,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.6
 311,1788965,Marius,Nordal,Nordal,,13,261,Start,STA,4,FWD,a,,15,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,45,0.5
-312,2057372,Jesper,Cornelius,Cornelius,,13,261,Start,STA,4,FWD,a,,1772,5,4,2,39,0,0,1,2,0,0,10,0.000000,81,58,5.1
+312,2057372,Jesper,Cornelius,Cornelius,,13,261,Start,STA,4,FWD,a,,1772,5,4,2,39,0,0,1,2,0,0,10,0.000000,81,58,4.9
 313,88873,Eirik,Schulze,Schulze,,13,261,Start,STA,3,MID,a,,1002,1,4,0,27,0,0,0,3,0,0,1,0.000000,44,57,1.0
-314,319803,Håkon,Lorentzen,Lorentzen,,13,261,Start,STA,4,FWD,a,,1617,4,4,4,33,0,0,0,0,0,0,1,0.000000,70,53,4.7
+314,319803,Håkon,Lorentzen,Lorentzen,,13,261,Start,STA,4,FWD,a,,1617,4,4,4,33,0,0,0,0,0,0,1,0.000000,70,53,4.8
 315,1553018,Erlend,Dahl Reitan,Reitan,,13,261,Start,STA,2,DEF,a,,1963,2,0,3,47,0,0,0,7,0,0,4,0.000000,49,43,2.5
 316,1575549,Jens,Berland Husebø,Husebø,,13,261,Start,STA,2,DEF,i,Fot - Trolig ute resten av sesongen,650,0,0,1,13,0,0,0,0,0,0,1,0.000000,18,43,0.2
 317,1718369,Sander,Håvik Innvær,Innvær,,14,2,Tromsø,TIL,2,DEF,a,,927,1,1,3,21,0,0,0,3,0,0,3,0.000000,39,47,0.5
-318,1618096,Leo,Cornic,Cornic,,3,298,Brann,BRA,2,DEF,a,,1446,0,2,9,14,0,0,0,4,0,0,1,0.000000,69,63,25.1
-319,1660513,Tobias,Guddal,Guddal,,14,2,Tromsø,TIL,2,DEF,u,Overgang til Sparta Praha,1350,0,2,8,15,0,0,0,2,0,0,5,0.000000,67,52,15.6
+318,1618096,Leo,Cornic,Cornic,,3,298,Brann,BRA,2,DEF,a,,1446,0,2,9,14,0,0,0,4,0,0,1,0.000000,69,63,25.0
+319,1660513,Tobias,Guddal,Guddal,,14,2,Tromsø,TIL,2,DEF,u,Overgang til Sparta Praha,1350,0,2,8,15,0,0,0,2,0,0,5,0.000000,67,52,15.5
 320,1637738,Vetle,Skjærvik,Skjærvik,,14,2,Tromsø,TIL,2,DEF,a,,1564,1,2,6,21,1,0,0,1,0,0,4,0.000000,67,49,5.6
-321,1772935,Isak,Vådebu,Vådebu,,14,2,Tromsø,TIL,2,DEF,a,,1761,1,0,7,32,1,0,0,1,0,0,4,0.000000,66,51,1.7
-322,1937139,Jakob,Rønning Haugaard,Rønning Haugaard,,14,2,Tromsø,TIL,1,GK,a,,2099,0,1,9,31,0,0,0,0,0,53,5,0.000000,91,50,31.1
+321,1772935,Isak,Vådebu,Vådebu,,14,2,Tromsø,TIL,2,DEF,a,,1761,1,0,7,32,1,0,0,1,0,0,4,0.000000,66,50,1.7
+322,1937139,Jakob,Rønning Haugaard,Rønning Haugaard,,14,2,Tromsø,TIL,1,GK,a,,2099,0,1,9,31,0,0,0,0,0,53,5,0.000000,91,50,30.9
 323,2018039,David,Edvardsson,Edvardsson,,14,2,Tromsø,TIL,3,MID,a,,1969,1,4,9,29,0,0,0,5,0,0,2,0.000000,67,49,2.3
-324,1816761,Jens,Hjertø-Dahl,Hjertø-Dahl,,14,2,Tromsø,TIL,3,MID,u,Overgang til Hull City,1195,7,2,8,14,0,0,0,1,0,0,8,0.000000,84,69,21.4
-325,180293,Ruben,Yttergård Jenssen,Y. Jenssen,,14,2,Tromsø,TIL,3,MID,a,,1995,1,8,9,29,0,0,0,2,0,0,16,0.000000,98,59,10.3
+324,1816761,Jens,Hjertø-Dahl,Hjertø-Dahl,,14,2,Tromsø,TIL,3,MID,u,Overgang til Hull City,1195,7,2,8,14,0,0,0,1,0,0,8,0.000000,84,69,21.3
+325,180293,Ruben,Yttergård Jenssen,Y. Jenssen,,14,2,Tromsø,TIL,3,MID,a,,1995,1,8,9,29,0,0,0,2,0,0,16,0.000000,98,59,10.2
 326,1777985,Daniel,Braut,Braut,,14,2,Tromsø,TIL,4,FWD,a,,550,2,1,2,9,0,0,0,0,0,0,0,0.000000,32,60,4.5
 327,58431,Ole Kristian,Lauvli,Lauvli,,14,2,Tromsø,TIL,1,GK,a,,60,0,0,0,3,0,0,0,0,0,0,0,0.000000,1,43,0.2
 328,2037634,Abubacarr Sedi,Kinteh,Kinteh,,14,2,Tromsø,TIL,2,DEF,u,Overgang til Al-Ahli Saudi FC,598,0,0,3,6,0,0,0,0,0,0,8,0.000000,34,48,2.3
 329,1875477,Mads,Mikkelsen,M. Mikkelsen,,14,2,Tromsø,TIL,3,MID,a,,8,0,0,0,0,0,0,0,0,0,0,0,0.000000,3,43,0.1
-330,2050681,Alexander,Warneryd,Warneryd,,14,2,Tromsø,TIL,2,DEF,a,,1755,5,6,7,31,0,0,0,2,1,0,15,0.000000,116,63,28.9
+330,2050681,Alexander,Warneryd,Warneryd,,14,2,Tromsø,TIL,2,DEF,d,Smell - 75 % sjanse for å spille,1755,5,6,7,31,0,0,0,2,1,0,15,0.000000,116,63,27.0
 331,1584648,Lars,Olden Larsen,Olden Larsen,,14,2,Tromsø,TIL,3,MID,a,,1425,1,3,7,17,0,0,0,2,0,0,2,0.000000,57,68,2.6
 332,1684044,Johan,Solstad-Nøis,Solstad-Nøis,,14,2,Tromsø,TIL,3,MID,u,Lån til Lyn,7,0,0,0,0,0,0,0,0,0,0,0,0.000000,2,44,0.1
-333,1748988,Mathias,Tønnessen,Tønnessen,,14,2,Tromsø,TIL,2,DEF,i,Lår - Forventet tilbake 8. november,282,0,0,1,7,0,0,0,1,0,0,0,0.000000,9,48,0.7
+333,1748988,Mathias,Tønnessen,Tønnessen,,14,2,Tromsø,TIL,2,DEF,i,Lår - Forventet tilbake 8. november,282,0,0,1,7,0,0,0,1,0,0,0,0.000000,9,48,0.6
 334,1656521,Jesper,Grundt,Grundt,,14,2,Tromsø,TIL,3,MID,a,,121,1,0,0,2,0,0,0,0,0,0,0,0.000000,14,58,0.0
-335,1806511,Troy,Engseth Nyhammer,Nyhammer,,14,2,Tromsø,TIL,3,MID,d,Legg - 25 % sjanse for å spille,965,6,4,1,15,0,0,0,2,0,0,1,0.000000,71,58,0.6
-336,1727392,Heine,Åsen Larsen,Larsen,,14,2,Tromsø,TIL,3,MID,a,,1747,10,4,8,27,0,0,0,3,0,0,11,0.000000,124,63,22.1
+335,1806511,Troy,Engseth Nyhammer,Nyhammer,,14,2,Tromsø,TIL,3,MID,i,Legg - Ute resten av sesongen,965,6,4,1,15,0,0,0,2,0,0,1,0.000000,71,58,0.4
+336,1727392,Heine,Åsen Larsen,Larsen,,14,2,Tromsø,TIL,3,MID,a,,1747,10,4,8,27,0,0,0,3,0,0,11,0.000000,124,62,19.9
 337,2061107,Viktor,Ekblom,Ekblom,,14,2,Tromsø,TIL,4,FWD,u,På lån til Örgryte IS,26,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,64,0.1
 338,2061421,Abderrahmane,Sarr,Sarr,,14,2,Tromsø,TIL,1,GK,u,På lån til Raufoss,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,39,0.3
-339,97924,Kristoffer,Haugen,K. Haugen,,15,198,Viking,VIK,2,DEF,a,,1433,3,3,6,14,0,0,0,1,0,0,5,0.000000,86,61,4.4
-340,92383,Veton,Berisha,Berisha,,15,198,Viking,VIK,4,FWD,i,Lår - Ute på ubestemt tid,8,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,80,0.2
-341,1928487,Anders,Bærtelsen,Bærtelsen,,15,198,Viking,VIK,2,DEF,i,Fot - Forventet tilbake 8. november,513,0,0,0,5,0,0,0,1,0,0,0,0.000000,14,47,0.4
+339,97924,Kristoffer,Haugen,K. Haugen,,15,198,Viking,VIK,2,DEF,a,,1523,4,4,6,17,0,0,0,1,0,0,5,0.000000,96,61,4.6
+340,92383,Veton,Berisha,Berisha,,15,198,Viking,VIK,4,FWD,d,Lår - 25 % sjanse for å spille,8,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,80,0.2
+341,1928487,Anders,Bærtelsen,Bærtelsen,,15,198,Viking,VIK,2,DEF,d,Fot - 25 % sjanse for å spille,513,0,0,0,5,0,0,0,1,0,0,0,0.000000,14,47,0.4
 342,1638744,Ruben,Alte,Alte,,15,198,Viking,VIK,3,MID,u,På lån til Viborg FF,825,1,1,4,10,0,0,0,2,0,0,7,0.000000,39,56,0.8
 343,97605,Sondre,Flem Bjørshol,Bjørshol,,15,198,Viking,VIK,2,DEF,i,Kne - Ute på ubestemt tid,398,1,1,2,3,0,0,0,2,0,0,0,0.000000,31,58,2.0
-344,1704717,Henrik,Falchener,Falchener,,15,198,Viking,VIK,2,DEF,a,,1362,2,1,6,14,0,0,0,2,0,0,7,0.000000,71,63,23.2
-345,1612395,Herman,Haugen,H. Haugen,,15,198,Viking,VIK,2,DEF,a,,552,0,1,1,7,0,0,0,1,0,0,0,0.000000,28,48,0.3
-346,1662744,Henrik,Heggheim,Heggheim,,15,198,Viking,VIK,2,DEF,a,,1758,7,3,7,19,0,0,0,4,0,0,12,0.000000,126,66,35.1
-347,1779112,Tobias Saliou Moi,Séne,Moi,,15,198,Viking,VIK,3,MID,a,,1000,0,0,4,11,0,0,0,4,0,0,1,0.000000,28,44,0.4
-348,1926835,Gianni Ryan,Stensness,Stensness,,15,198,Viking,VIK,2,DEF,a,,1890,4,0,6,21,0,0,0,5,0,0,6,0.000000,86,57,7.7
+344,1704717,Henrik,Falchener,Falchener,,15,198,Viking,VIK,2,DEF,a,,1452,2,1,6,17,1,0,0,2,0,0,7,0.000000,70,63,23.2
+345,1612395,Herman,Haugen,H. Haugen,,15,198,Viking,VIK,2,DEF,a,,576,0,1,1,7,0,0,0,2,0,0,0,0.000000,28,48,0.3
+346,1662744,Henrik,Heggheim,Heggheim,,15,198,Viking,VIK,2,DEF,a,,1823,7,3,7,22,0,0,0,5,0,0,12,0.000000,126,67,36.0
+347,1779112,Tobias Saliou Moi,Séne,Moi,,15,198,Viking,VIK,3,MID,a,,1023,0,0,4,11,0,0,0,5,0,0,1,0.000000,28,44,0.4
+348,1926835,Gianni Ryan,Stensness,Stensness,,15,198,Viking,VIK,2,DEF,a,,1980,4,0,6,24,0,0,0,5,0,0,6,0.000000,87,57,7.4
 349,1784442,Vetle,Auklend,Auklend,,15,198,Viking,VIK,2,DEF,a,,689,0,1,0,9,0,0,0,1,0,0,0,0.000000,23,48,0.4
-350,1606686,Viljar,Helland Vevatne,H. Vevatne,,15,198,Viking,VIK,2,DEF,a,,105,0,0,1,0,0,0,0,0,0,0,0,0.000000,10,44,0.1
+350,1606686,Viljar,Helland Vevatne,H. Vevatne,,15,198,Viking,VIK,2,DEF,a,,106,0,0,1,0,0,0,0,0,0,0,0,0.000000,11,44,0.1
 351,1964671,Hilmir,Mikaelsson,Mikaelsson,,15,198,Viking,VIK,4,FWD,u,Overgang til SK Sigma Olomouc,92,0,0,0,2,0,0,0,0,0,0,0,0.000000,4,55,1.0
-352,2060393,Ludomir,Belko,Belko,,15,198,Viking,VIK,1,GK,a,,990,0,0,2,12,0,1,0,0,0,23,0,0.000000,38,52,4.6
-353,97901,Arild,Østbø,Østbø,,15,198,Viking,VIK,1,GK,a,,1170,0,0,5,11,0,0,0,1,0,42,6,0.000000,56,44,7.7
+352,2060393,Ludomir,Belko,Belko,,15,198,Viking,VIK,1,GK,a,,990,0,0,2,12,0,1,0,0,0,23,0,0.000000,38,52,4.5
+353,97901,Arild,Østbø,Østbø,,15,198,Viking,VIK,1,GK,a,,1260,0,0,5,14,0,0,0,1,0,43,6,0.000000,57,44,7.8
 354,1758692,Edvin,Austbø,Austbø,,15,198,Viking,VIK,3,MID,u,Overgang til West Ham,658,2,1,3,6,0,0,0,2,0,0,0,0.000000,32,85,1.3
-355,1886738,Joe,Bell,Bell,,15,198,Viking,VIK,3,MID,a,,1206,0,1,4,15,0,0,0,3,0,0,2,0.000000,37,54,7.1
-356,2004140,Peter,Christiansen,Christiansen,,15,198,Viking,VIK,4,FWD,a,,1952,14,9,8,20,0,0,0,2,0,0,14,0.000000,141,107,37.2
+355,1886738,Joe,Bell,Bell,,15,198,Viking,VIK,3,MID,a,,1271,0,1,4,18,0,0,0,3,0,0,2,0.000000,39,54,7.1
+356,2004140,Peter,Christiansen,Christiansen,,15,198,Viking,VIK,4,FWD,a,,2042,14,9,8,23,0,0,0,2,0,0,14,0.000000,143,108,37.7
 357,1814041,Niklas,Fuglestad,Fuglestad,,15,198,Viking,VIK,3,MID,a,,687,3,2,2,9,0,0,0,0,0,0,3,0.000000,50,59,1.7
 358,1802598,Jakob,Segadal Hansen,Hansen,,15,198,Viking,VIK,3,MID,a,,210,0,0,0,4,0,0,0,0,0,0,0,0.000000,11,52,0.1
-359,1703697,Simen,Kvia-Egeskog,Kvia,,15,198,Viking,VIK,3,MID,a,,1660,9,4,6,16,0,0,0,2,0,0,5,0.000000,107,63,5.3
-360,91490,Zlatko,Tripic,Tripic,,15,198,Viking,VIK,3,MID,a,,1841,6,23,8,18,0,0,2,7,0,0,28,0.000000,168,127,65.6
+359,1703697,Simen,Kvia-Egeskog,Kvia,,15,198,Viking,VIK,3,MID,a,,1684,9,4,6,16,0,0,0,2,0,0,5,0.000000,108,62,5.1
+360,91490,Zlatko,Tripic,Tripic,,15,198,Viking,VIK,3,MID,s,Suspendert - Tilbake 21. november,1931,6,24,8,21,0,0,2,8,0,0,28,0.000000,172,127,65.1
 361,1840204,Ola,Visted,Visted,,6,306,KFUM Oslo,KFUM,3,MID,a,,610,0,1,0,7,0,0,0,2,0,0,0,0.000000,22,51,0.0
 362,1574784,Martin Ove,Roseth,Roseth,,15,198,Viking,VIK,2,DEF,i,Kne - Ute på ubestemt tid,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,55,0.1
-363,1676656,Kristoffer,Askildsen,Askildsen,,15,198,Viking,VIK,3,MID,a,,1687,5,2,6,19,0,0,0,7,1,0,9,0.000000,77,62,2.3
+363,1676656,Kristoffer,Askildsen,Askildsen,,15,198,Viking,VIK,3,MID,s,Suspendert - Tilbake 21. november,1753,5,2,6,22,0,0,0,8,1,0,9,0.000000,78,62,2.3
 364,189628,Vegard,Eggen Hedenstad,Hedenstad,,16,169882,Vålerenga,VIF,2,DEF,a,,190,0,0,0,5,0,0,0,1,0,0,0,0.000000,5,41,0.9
 365,1673569,Sebastian,Jarl,Jarl,,16,169882,Vålerenga,VIF,2,DEF,a,,1017,2,0,1,21,0,0,0,2,1,0,3,0.000000,29,44,0.5
-366,1549402,Aaron,Kiil Olsen,K. Olsen,,16,169882,Vålerenga,VIF,2,DEF,a,,2037,1,2,4,43,0,0,0,5,0,0,4,0.000000,56,43,7.6
+366,1549402,Aaron,Kiil Olsen,K. Olsen,,16,169882,Vålerenga,VIF,2,DEF,a,,2037,1,2,4,43,0,0,0,5,0,0,4,0.000000,56,44,8.3
 367,2029333,Noah,Pallas,Pallas,,16,169882,Vålerenga,VIF,2,DEF,u,På lån til Ranheim,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
 368,1640056,Magnus,Sjøeng,Sjøeng,,13,261,Start,STA,1,GK,a,,360,0,0,1,13,0,0,0,0,0,14,0,0.000000,10,43,0.9
 369,2059972,Magnus,Westergaard,Westergaard,,16,169882,Vålerenga,VIF,3,MID,a,,1403,1,1,2,35,0,0,0,4,0,0,1,0.000000,43,51,0.2
 370,2003707,Brice,Ambina,Ambina,,16,169882,Vålerenga,VIF,3,MID,a,,731,0,1,2,10,0,0,0,3,0,0,0,0.000000,25,53,0.2
-371,1575610,Henrik,Bjørdal,Bjørdal,,15,198,Viking,VIK,3,MID,a,,1719,4,9,5,33,0,0,0,3,1,0,11,0.000000,98,64,8.5
+371,1575610,Henrik,Bjørdal,Bjørdal,,15,198,Viking,VIK,3,MID,a,,1809,4,9,5,36,0,0,0,3,1,0,11,0.000000,100,64,7.7
 372,37880,Elias,Hagen,Hagen,,1,15,Aalesund,AaFK,3,MID,a,,1940,4,1,1,46,0,0,0,2,0,0,0,0.000000,66,47,0.7
-373,2017587,Carl,Lange,Lange,,16,169882,Vålerenga,VIF,3,MID,s,Suspendert - Tilbake 7. november,2013,6,1,4,42,0,0,0,4,0,0,11,0.000000,92,49,7.0
+373,2017587,Carl,Lange,Lange,,16,169882,Vålerenga,VIF,3,MID,s,Suspendert - Tilbake 7. november,2013,6,1,4,42,0,0,0,4,0,0,11,0.000000,92,48,6.5
 374,4063225,Obasi,Onyebuchi,Onyebuchi,,16,169882,Vålerenga,VIF,3,MID,u,Overgang til Hobro,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0.0
 375,1831341,Stian,Sjøvold,Sjøvold,,16,169882,Vålerenga,VIF,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0.1
 376,2029335,Elias,Sørensen,Sørensen,,16,169882,Vålerenga,VIF,3,MID,u,Overgang til PEC Zwolle,530,1,0,2,8,0,0,1,1,0,0,0,0.000000,17,70,10.6
-377,199000,Petter,Strand,Strand,,16,169882,Vålerenga,VIF,2,DEF,a,,1006,2,1,1,27,0,0,0,0,0,0,0,0.000000,42,47,0.8
+377,199000,Petter,Strand,Strand,,16,169882,Vålerenga,VIF,2,DEF,d,Smell - 75 % sjanse for å spille,1006,2,1,1,27,0,0,0,0,0,0,0,0.000000,42,47,0.8
 378,1802439,Filip,Thorvaldsen,Thorvaldsen,,16,169882,Vålerenga,VIF,3,MID,u,Overgang til Twente,859,3,1,3,14,0,0,0,0,0,0,3,0.000000,47,72,2.5
 379,2031170,Kevin,Tshiembe,Tshiembe,,16,169882,Vålerenga,VIF,2,DEF,a,,343,0,0,0,7,0,0,0,1,0,0,0,0.000000,12,45,0.0
-380,1706837,Håkon,Sjåtil,Sjåtil,,16,169882,Vålerenga,VIF,2,DEF,a,,1452,0,0,3,31,0,0,0,4,0,0,1,0.000000,34,42,0.9
-381,1571045,Mohamed,Ofkir,Ofkir,,5,63,HamKam,HAM,3,MID,d,Kne - 50 % sjanse for å spille,565,6,3,0,20,0,0,0,0,0,0,0,0.000000,55,65,0.2
-382,1561501,Mathias,Grundetjern,Grundetjern,,16,169882,Vålerenga,VIF,4,FWD,a,,1697,5,6,5,32,0,0,0,4,0,0,4,0.000000,80,75,5.2
-383,2050550,Oscar,Hedvall,Hedvall,,16,169882,Vålerenga,VIF,1,GK,a,,2160,0,0,3,46,0,1,0,1,0,89,13,0.000000,81,48,7.5
+380,1706837,Håkon,Sjåtil,Sjåtil,,16,169882,Vålerenga,VIF,2,DEF,a,,1452,0,0,3,31,0,0,0,4,0,0,1,0.000000,34,42,1.0
+381,1571045,Mohamed,Ofkir,Ofkir,,5,63,HamKam,HAM,3,MID,i,Kne - Ute resten av sesongen,565,6,3,0,20,0,0,0,0,0,0,0,0.000000,55,65,0.1
+382,1561501,Mathias,Grundetjern,Grundetjern,,16,169882,Vålerenga,VIF,4,FWD,a,,1697,5,6,5,32,0,0,0,4,0,0,4,0.000000,80,75,5.5
+383,2050550,Oscar,Hedvall,Hedvall,,16,169882,Vålerenga,VIF,1,GK,a,,2160,0,0,3,46,0,1,0,1,0,89,13,0.000000,81,48,8.1
 384,2051483,Promise,Meliga,Meliga Jr.,,16,169882,Vålerenga,VIF,3,MID,u,Overgang til KFUM - utilgjengelig for spill ut 2026,237,3,0,0,4,0,0,0,2,0,0,6,0.000000,28,60,1.5
-385,312482,Ivan,Näsberg,Fjellstad Näsberg,,16,169882,Vålerenga,VIF,2,DEF,a,,1325,1,0,2,32,0,0,0,3,1,0,4,0.000000,33,42,4.1
-386,2060135,Kolbeinn,Finnsson,Finnsson,,16,169882,Vålerenga,VIF,2,DEF,d,Smell - 50 % sjanse for å spille,1764,0,6,2,40,0,0,0,5,0,0,3,0.000000,47,50,1.6
-387,316758,Ole Christian,Sæter,Sæter,,16,169882,Vålerenga,VIF,4,FWD,a,,424,0,2,1,6,0,0,0,3,0,0,1,0.000000,20,77,7.3
-388,1997560,Lucas,Ravn-Haren,Haren,,16,169882,Vålerenga,VIF,3,MID,a,,1531,11,2,2,32,0,0,2,1,0,0,7,0.000000,104,64,1.9
+385,312482,Ivan,Näsberg,Fjellstad Näsberg,,16,169882,Vålerenga,VIF,2,DEF,a,,1325,1,0,2,32,0,0,0,3,1,0,4,0.000000,33,41,4.0
+386,2060135,Kolbeinn,Finnsson,Finnsson,,16,169882,Vålerenga,VIF,2,DEF,d,Smell - 25 % sjanse for å spille,1764,0,6,2,40,0,0,0,5,0,0,3,0.000000,47,50,1.6
+387,316758,Ole Christian,Sæter,Sæter,,16,169882,Vålerenga,VIF,4,FWD,a,,424,0,2,1,6,0,0,0,3,0,0,1,0.000000,20,77,7.4
+388,1997560,Lucas,Ravn-Haren,Haren,,16,169882,Vålerenga,VIF,3,MID,a,,1531,11,2,2,32,0,0,2,1,0,0,7,0.000000,104,65,2.8
 389,1908479,Evenezer,Awasum Forcha,Awasum,,16,169882,Vålerenga,VIF,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,0.2
 390,1895722,Alexander,Ordal,Ordal,,16,169882,Vålerenga,VIF,1,GK,a,,0,0,0,0,0,0,0,0,1,0,0,0,0.000000,-1,40,0.6
-391,1946339,Gabriel,Rajkovic,Rajkovic,,16,169882,Vålerenga,VIF,3,MID,a,,338,2,1,0,15,0,0,0,1,0,0,1,0.000000,29,51,0.6
+391,1946339,Gabriel,Rajkovic,Rajkovic,,16,169882,Vålerenga,VIF,3,MID,d,Smell - 75 % sjanse for å spille,338,2,1,0,15,0,0,0,1,0,0,1,0.000000,29,51,0.5
 392,1604032,Kristoffer,Klaesson,Klaesson,,1,15,Aalesund,AaFK,1,GK,u,Lagt opp,990,0,0,0,20,0,1,0,2,0,40,0,0.000000,28,46,6.2
-393,1615177,Tor Erik,Larsen,Larsen,,1,15,Aalesund,AaFK,1,GK,a,,180,0,0,0,8,0,0,0,1,0,12,0,0.000000,2,39,3.3
+393,1615177,Tor Erik,Larsen,Larsen,,1,15,Aalesund,AaFK,1,GK,a,,180,0,0,0,8,0,0,0,1,0,12,0,0.000000,2,39,3.2
 394,2057342,Emil,Engqvist,Engqvist,,1,15,Aalesund,AaFK,2,DEF,a,,787,0,0,0,29,1,0,0,2,0,0,0,0.000000,5,43,0.1
 395,2024803,Ólafur,Gudmundsson,Gudmundsson,,1,15,Aalesund,AaFK,2,DEF,s,Suspendert - Forventet tilbake 22. november,1596,0,0,1,39,0,0,0,5,1,0,2,0.000000,18,43,0.1
 396,1809949,Simen,Haram,Haram,,1,15,Aalesund,AaFK,2,DEF,i,Albue - Forventet tilbake 22. november,983,0,1,0,23,0,0,0,2,0,0,1,0.000000,20,44,0.2
 397,1754125,Aleksander,Hammer Kjelsen,Kjelsen,,1,15,Aalesund,AaFK,2,DEF,a,,1185,0,0,1,24,0,0,0,3,0,0,0,0.000000,21,44,0.3
 398,1723137,Erik,Frøysa,Frøysa,,1,15,Aalesund,AaFK,2,DEF,u,På lån til Raufoss,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.3
 399,1704880,Jørgen,Bøe,Bøe,,1,15,Aalesund,AaFK,2,DEF,u,På lån til Træff,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.2
-400,1541202,Philip,Aukland,Aukland,,1,15,Aalesund,AaFK,2,DEF,d,Legg - 50 % sjanse for å spille,397,0,0,0,10,0,0,0,1,0,0,0,0.000000,7,45,0.1
+400,1541202,Philip,Aukland,Aukland,,1,15,Aalesund,AaFK,2,DEF,a,,397,0,0,0,10,0,0,0,1,0,0,0,0.000000,7,45,0.1
 401,1669076,Håkon,Hammer,Hammer,,1,15,Aalesund,AaFK,3,MID,i,Smell - Ute på ubestemt tid,721,0,2,0,23,0,0,0,1,0,0,0,0.000000,26,42,1.1
 402,1579692,Henrik,Melland,Melland,,8,177,Lillestrøm,LSK,3,MID,a,,961,3,1,0,27,0,0,0,2,0,0,1,0.000000,44,57,0.8
 403,1992769,Davíd,Jóhannsson,Jóhannsson,,1,15,Aalesund,AaFK,3,MID,u,På lån til Bryne,520,0,1,0,11,0,0,0,4,0,0,0,0.000000,14,49,0.1
-404,2025428,Mathias,Kristensen,Kristensen,,1,15,Aalesund,AaFK,3,MID,a,,13,0,0,0,2,0,0,0,0,0,0,0,0.000000,1,49,0.0
-405,2050493,Mathias,Christensen,Christensen,,1,15,Aalesund,AaFK,3,MID,a,,1904,10,5,1,42,0,0,0,6,0,0,17,0.000000,122,59,4.7
+404,2025428,Mathias,Kristensen,Kristensen,,1,15,Aalesund,AaFK,3,MID,d,Smell - 50 % sjanse for å spille,13,0,0,0,2,0,0,0,0,0,0,0,0.000000,1,49,0.0
+405,2050493,Mathias,Christensen,Christensen,,1,15,Aalesund,AaFK,3,MID,a,,1904,10,5,1,42,0,0,0,6,0,0,17,0.000000,122,60,5.6
 406,2017671,Janus,Seehusen,Seehusen,,1,15,Aalesund,AaFK,3,MID,d,Smell - 25 % sjanse for å spille,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,44,0.0
 407,19242,Marius,Andresen,Andresen,,1,15,Aalesund,AaFK,2,DEF,a,,979,0,2,2,16,0,0,0,5,0,0,2,0.000000,33,43,0.1
 408,175885,Kristoffer,Nessø,Nessø,,1,15,Aalesund,AaFK,2,DEF,a,,1406,0,0,1,37,0,0,0,0,0,0,0,0.000000,28,45,0.1
 409,1646963,Jakob,Nyland Ørsahl,Ørsahl,,1,15,Aalesund,AaFK,2,DEF,a,,558,1,3,0,13,0,0,0,1,0,0,0,0.000000,26,47,0.3
-410,1763178,Endre,Osenbroch,Osenbroch,,1,15,Aalesund,AaFK,3,MID,a,,1313,5,7,0,36,0,0,0,2,0,0,8,0.000000,87,46,4.3
+410,1763178,Endre,Osenbroch,Osenbroch,,1,15,Aalesund,AaFK,3,MID,a,,1313,5,7,0,36,0,0,0,2,0,0,8,0.000000,87,45,3.9
 411,2051937,Ivan,Djantou,Djantou,,1,15,Aalesund,AaFK,4,FWD,i,Annet - Ikke i tropp,237,1,1,0,7,0,0,0,0,0,0,0,0.000000,19,52,0.6
 412,2019017,Paul,Ngongo,Ngongo,,1,15,Aalesund,AaFK,4,FWD,a,,74,1,0,0,2,0,0,0,0,0,0,0,0.000000,7,55,0.1
 413,1724753,Elias,Myrlid,Myrlid,,1,15,Aalesund,AaFK,4,FWD,a,,247,0,0,0,11,0,0,0,1,0,0,0,0.000000,16,48,0.8
-414,1671654,Kristian,Lonebu,Lonebu,,9,3,Molde,MOL,4,FWD,a,,1520,12,3,1,34,0,0,0,0,0,0,5,0.000000,100,66,19.9
+414,1671654,Kristian,Lonebu,Lonebu,,9,3,Molde,MOL,4,FWD,a,,1520,12,3,1,34,0,0,0,0,0,0,5,0.000000,100,68,25.9
 415,1702406,Ulrik,Syversen,Syversen,,1,15,Aalesund,AaFK,2,DEF,a,,463,0,1,0,18,1,0,0,1,0,0,0,0.000000,6,44,0.1
 416,1584612,John Shuguto,Kitolano,J. Kitolano,,7,785,Kristiansund,KBK,2,DEF,a,,262,0,0,1,9,0,0,0,1,0,0,0,0.000000,8,43,0.1
 417,306201,Anders,Trondsen,Trondsen,,5,63,HamKam,HAM,3,MID,a,,694,1,0,1,13,0,0,0,2,0,0,0,0.000000,26,46,0.0
 418,1974569,Leonard,Owusu,L. Owusu,,4,117,Fredrikstad,FFK,3,MID,a,,865,0,1,0,19,0,0,0,1,0,0,0,0.000000,25,42,0.9
-419,1900515,Marcus Haagensen,Reed,Reed,,1,15,Aalesund,AaFK,4,FWD,d,Smell - 50 % sjanse for å spille,945,6,4,2,18,0,0,0,3,0,0,11,0.000000,67,51,11.6
+419,1900515,Marcus Haagensen,Reed,Reed,,1,15,Aalesund,AaFK,4,FWD,d,Smell - 50 % sjanse for å spille,945,6,4,2,18,0,0,0,3,0,0,11,0.000000,67,51,11.2
 420,292728,Vebjørn Alvestad,Hoff,Hoff,,9,3,Molde,MOL,3,MID,i,Kne - Ute resten av sesongen,902,1,0,2,13,0,0,0,0,0,0,1,0.000000,30,43,0.5
-421,2038349,Wolji Jalal,Abdullai,Abdullai,,9,3,Molde,MOL,4,FWD,a,,1006,3,3,1,21,0,0,0,3,0,0,2,0.000000,47,76,1.3
-422,2064331,Foster,Apetorgbor,Foster,,11,195,Sandefjord,SAN,3,MID,d,Smell - 50 % sjanse for å spille,236,1,2,0,5,0,0,0,4,0,0,0,0.000000,17,55,0.0
+421,2038349,Wolji Jalal,Abdullai,Abdullai,,9,3,Molde,MOL,4,FWD,a,,1006,3,3,1,21,0,0,0,3,0,0,2,0.000000,47,76,1.2
+422,2064331,Foster,Apetorgbor,Foster,,11,195,Sandefjord,SAN,3,MID,d,Smell - 25 % sjanse for å spille,236,1,2,0,5,0,0,0,4,0,0,0,0.000000,17,55,0.0
 423,1825220,Julian,Lægreid,Lægreid,,3,298,Brann,BRA,4,FWD,a,,46,0,0,0,1,0,0,0,0,0,0,0,0.000000,4,50,0.1
 424,1850812,Aksel Nordvik,Brattøy,Brattøy,,7,785,Kristiansund,KBK,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,39,0.2
-425,2063666,Trent Toure,Koné-Doherty,Koné-Doherty,,9,3,Molde,MOL,3,MID,a,,627,6,2,0,17,0,0,1,0,0,0,3,0.000000,60,57,0.9
+425,2063666,Trent Toure,Koné-Doherty,Koné-Doherty,,9,3,Molde,MOL,3,MID,a,,627,6,2,0,17,0,0,1,0,0,0,3,0.000000,60,55,0.7
 426,2065583,Banhourin Chris Emmanuel,Kouakou,Kouakou,,12,797,Sarpsborg 08,S08,3,MID,u,Overgang til Ironi Tiberias,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,43,0.0
 427,1928531,Filip Strømland,Lien,Lien,,13,261,Start,STA,3,MID,a,,7,0,0,0,2,0,0,0,0,0,0,0,0.000000,2,45,0.0
 428,1987320,James,Ampofo,Ampofo,,13,261,Start,STA,4,FWD,u,Lån avsluttet,598,0,0,0,22,0,0,0,1,0,0,0,0.000000,19,54,0.0
@@ -432,7 +432,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 431,2068039,Cheikh Mbacke,Diop,Diop,,1,15,Aalesund,AaFK,2,DEF,a,,739,0,0,1,16,0,0,0,3,0,0,1,0.000000,13,43,0.1
 432,1,,,Duplicate,,2,4,Bodø/Glimt,B/G,4,FWD,u,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,10,0.0
 433,2068207,Gustav,Højbjerg,Højbjerg,,11,195,Sandefjord,SAN,2,DEF,a,,368,0,0,1,5,0,0,0,0,0,0,0,0.000000,16,45,0.0
-434,1602929,Ola,Brynhildsen,Brynhildsen,,2,4,Bodø/Glimt,B/G,4,FWD,a,,880,2,3,7,7,0,0,0,1,0,0,0,0.000000,45,95,1.6
+434,1602929,Ola,Brynhildsen,Brynhildsen,,2,4,Bodø/Glimt,B/G,4,FWD,a,,893,2,3,7,7,0,0,0,1,0,0,0,0.000000,46,92,0.9
 435,2018916,Mame Alassane,Niang,Niang,,5,63,HamKam,HAM,4,FWD,u,Overgang til Porto,897,6,0,3,19,0,0,0,0,0,0,5,0.000000,50,54,2.0
 436,1873301,Jonathan Vonheim,Norbye,Norbye,,4,117,Fredrikstad,FFK,2,DEF,u,Lån avsluttet,467,0,0,0,9,0,0,0,1,0,0,0,0.000000,9,45,0.0
 437,1892852,Jonathan Heggem,Fugelsnes,Fugelsnes,,9,3,Molde,MOL,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
@@ -448,14 +448,14 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 447,1611076,Erlend,Jacobsen,Jacobsen,,15,198,Viking,VIK,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.0
 448,1618831,Joshua Gaston,Kitolano,Kitolano,,2,4,Bodø/Glimt,B/G,3,MID,a,,194,0,0,1,2,0,0,0,0,0,0,2,0.000000,10,62,0.0
 449,1857440,Daniel Johan,Skaarud,Skaarud,,11,195,Sandefjord,SAN,3,MID,a,,21,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,55,0.0
-450,2080838,Isak Mikael,Dahlqvist,Dahlqvist,,14,2,Tromsø,TIL,2,DEF,a,,258,0,1,0,5,0,0,0,1,0,0,0,0.000000,8,48,0.2
+450,2080838,Isak Mikael,Dahlqvist,Dahlqvist,,14,2,Tromsø,TIL,2,DEF,a,,258,0,1,0,5,0,0,0,1,0,0,0,0.000000,8,47,0.1
 451,2079073,Gabriel Juty,Wesseh,Wesseh,,4,117,Fredrikstad,FFK,3,MID,a,,411,2,2,0,11,0,0,0,0,0,0,1,0.000000,29,55,0.1
-452,103279,MARIUS,LODE,Lode,,12,797,Sarpsborg 08,S08,2,DEF,a,,700,0,0,1,14,0,0,0,0,0,0,0,0.000000,17,45,0.1
+452,103279,MARIUS,LODE,Lode,,12,797,Sarpsborg 08,S08,2,DEF,a,,700,0,0,1,14,0,0,0,0,0,0,0,0.000000,17,45,0.0
 453,2080781,Gustav,Nordh,Nordh,,8,177,Lillestrøm,LSK,3,MID,a,,59,0,0,0,1,0,0,0,0,0,0,0,0.000000,5,60,0.0
 454,2080832,Luca,Podlech,Podlech,,1,15,Aalesund,AaFK,1,GK,a,,990,0,0,1,25,0,2,0,2,0,47,0,0.000000,35,45,0.4
 455,2030842,Ieltsin Jeronimo,Semedo Camões,Camões,,14,2,Tromsø,TIL,4,FWD,u,Utlån til Slạsk,79,2,1,0,2,0,0,0,0,0,0,0,0.000000,15,75,0.1
 456,2080836,Romano Ceciel,Postema,Postema,,15,198,Viking,VIK,4,FWD,a,,81,0,1,0,2,0,0,0,0,0,0,0,0.000000,9,77,0.0
-457,2080837,Amin,Cosic,Cosic,,15,198,Viking,VIK,3,MID,a,,104,0,0,0,2,0,0,0,0,0,0,0,0.000000,5,65,0.0
+457,2080837,Amin,Cosic,Cosic,,15,198,Viking,VIK,3,MID,a,,105,0,0,0,2,0,0,0,0,0,0,0,0.000000,6,65,0.0
 458,1687338,Mathias Johan Fjørtoft,Løvik,Fjørtoft Løvik,,9,3,Molde,MOL,2,DEF,a,,600,0,1,0,12,0,0,0,3,0,0,0,0.000000,14,52,0.2
 459,2018118,Seydina Mohamed,Diop,Diop,,9,3,Molde,MOL,3,MID,i,Smell - Ute resten av sesongen,55,1,0,0,1,0,0,0,0,0,0,0,0.000000,8,67,0.0
 460,1566067,Olaus Jair,Skarsem,Skarsem,,12,797,Sarpsborg 08,S08,3,MID,a,,794,2,0,1,12,0,0,0,1,0,0,4,0.000000,35,55,0.1
@@ -463,7 +463,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 462,1886121,Oscar,Skari-Hansen,Skari-Hansen,,4,117,Fredrikstad,FFK,3,MID,a,,33,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,45,0.0
 463,1912765,Magnus Mevik,Eidal,Eidal,,12,797,Sarpsborg 08,S08,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.0
 464,1931156,Dennis Cornelius,Birkenes,Birkenes,,13,261,Start,STA,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.0
-465,2006014,Mathias Dahl,Sauer,Sauer,,11,195,Sandefjord,SAN,3,MID,d,Smell - 50 % sjanse for å spille,72,1,1,0,0,0,0,0,0,0,0,0,0.000000,12,55,0.0
+465,2006014,Mathias Dahl,Sauer,Sauer,,11,195,Sandefjord,SAN,3,MID,d,Smell - 25 % sjanse for å spille,72,1,1,0,0,0,0,0,0,0,0,0,0.000000,12,55,0.0
 466,2018174,Mads,Enggård,Enggård,,9,3,Molde,MOL,3,MID,u,Overgang til Mjällby,37,0,0,0,1,0,0,0,0,0,0,0,0.000000,2,55,0.0
 467,1854824,Joachim,Prent-Eckbo,Prent-Eckbo,,6,306,KFUM Oslo,KFUM,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.0
 468,2080856,Jakub,Jezierski,Jezierski,,4,117,Fredrikstad,FFK,3,MID,a,,169,0,0,0,6,0,0,0,0,0,0,0,0.000000,6,50,0.0
@@ -477,18 +477,18 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 476,312226,Sander,Svendsen,S. Svendsen,,7,785,Kristiansund,KBK,3,MID,a,,679,1,1,2,17,0,0,0,0,0,0,2,0.000000,29,54,0.1
 477,1883525,Aleksander Lilletun,Elvebu,Elvebu,,14,2,Tromsø,TIL,3,MID,a,,1,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,50,0.0
 478,1941454,Benjamin,Myrvold,Myrvold,,14,2,Tromsø,TIL,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
-479,1913966,Isaiah Zion Kabi,Skovsgaard,Skovsgaard,,6,306,KFUM Oslo,KFUM,4,FWD,a,,31,0,1,0,1,0,0,0,0,0,0,0,0.000000,5,45,0.4
+479,1913966,Isaiah Zion Kabi,Skovsgaard,Skovsgaard,,6,306,KFUM Oslo,KFUM,4,FWD,a,,31,0,1,0,1,0,0,0,0,0,0,0,0.000000,5,45,0.5
 480,1787276,Darian Weber,Mink,Mink,,6,306,KFUM Oslo,KFUM,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.0
 481,1887422,Daniel Bayam,Sylte,Sylte,,9,3,Molde,MOL,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.0
 482,1794636,Brage,Haugen,Haugen,,3,298,Brann,BRA,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0.0
 483,1541530,Jesper Norman,Daland,Daland,,15,198,Viking,VIK,2,DEF,a,,238,0,0,0,3,0,0,0,0,1,0,0,0.000000,3,54,0.0
 484,1851742,Sander Åke Andreas,Lønning,Lønning,,16,169882,Vålerenga,VIF,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
-485,2080978,Filip,Manojlovic,Manojlovic,,13,261,Start,STA,1,GK,i,Arm - Ute på ubestemt tid,360,0,0,1,4,0,0,0,0,0,17,0,0.000000,15,44,0.0
+485,2080978,Filip,Manojlovic,Manojlovic,,13,261,Start,STA,1,GK,i,Arm - Ute på ubestemt tid,360,0,0,1,4,0,0,0,0,0,17,0,0.000000,15,43,0.0
 486,2080783,Oluwaseun Ayoola,Akanji,Akanji,,8,177,Lillestrøm,LSK,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0.0
-487,1671868,Oscar,Kapskarmo,Kapskarmo,,11,195,Sandefjord,SAN,4,FWD,a,,461,1,2,2,6,0,0,0,0,0,0,3,0.000000,25,53,0.7
+487,1671868,Oscar,Kapskarmo,Kapskarmo,,11,195,Sandefjord,SAN,4,FWD,a,,461,1,2,2,6,0,0,0,0,0,0,3,0.000000,25,53,0.6
 488,1987371,Duarte Miguel,Ramos Moreira,Moreira,,5,63,HamKam,HAM,4,FWD,a,,278,0,0,0,11,0,0,0,0,0,0,0,0.000000,9,48,0.1
 489,1693409,Tobias Borchgrevink,Børkeeiet,Børkeeiet,,11,195,Sandefjord,SAN,3,MID,a,,500,1,0,2,4,0,0,0,2,1,0,6,0.000000,19,45,0.1
-490,1665224,Jacob Blixt,Flaten,Flaten,,6,306,KFUM Oslo,KFUM,3,MID,d,Smell - 25 % sjanse for å spille,194,0,0,0,5,0,0,0,1,1,0,0,0.000000,0,45,0.0
+490,1665224,Jacob Blixt,Flaten,Flaten,,6,306,KFUM Oslo,KFUM,3,MID,d,Smell - 50 % sjanse for å spille,194,0,0,0,5,0,0,0,1,1,0,0,0.000000,0,45,0.0
 491,43825,Ghayas,Zahid,Zahid,,16,169882,Vålerenga,VIF,3,MID,a,,389,0,1,0,6,0,0,0,1,0,0,0,0.000000,13,60,0.0
 492,1812193,Sondre Blumenfeldt,Vindenes,Vindenes,,3,298,Brann,BRA,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
 493,2081157,Kjartan Mar,Kjartansson,Kjartansson,,3,298,Brann,BRA,3,MID,i,Kne - Ute resten av sesongen,26,0,0,0,0,0,0,0,1,0,0,0,0.000000,2,50,0.0
@@ -498,31 +498,31 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 497,1866169,Abdoulie,Jatta,Jatta,,16,169882,Vålerenga,VIF,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
 498,1963982,Leon Sansah Dechor,Hien,Hien,,14,2,Tromsø,TIL,2,DEF,a,,489,0,0,1,12,0,0,0,1,1,0,0,0.000000,6,48,0.0
 499,94385,Zymer,Bytyqi,Bytyqi,,7,785,Kristiansund,KBK,3,MID,a,,381,0,3,1,12,0,0,0,0,0,0,3,0.000000,24,55,0.0
-500,2081514,Vince Chijioke,Osuji,Osuji,,14,2,Tromsø,TIL,2,DEF,a,,219,0,0,1,2,0,0,0,2,0,0,0,0.000000,9,41,0.0
+500,2081514,Vince Chijioke,Osuji,Osuji,,14,2,Tromsø,TIL,2,DEF,a,,219,0,0,1,2,0,0,0,2,0,0,0,0.000000,9,40,0.0
 501,2081093,Mark,Mampassi,Mampassi,,10,145,Rosenborg,RBK,2,DEF,a,,127,0,0,1,1,0,0,0,0,0,0,0,0.000000,9,45,0.0
 502,2081763,Nicolas,Koutsakos,Koutsakos,,13,261,Start,STA,4,FWD,a,,362,0,0,2,9,0,0,1,0,0,0,0,0.000000,9,47,0.1
 503,2081857,Nikola,Jojic,Jojic,,13,261,Start,STA,3,MID,a,,47,0,0,0,3,0,0,0,0,0,0,0,0.000000,3,50,0.0
-504,1690824,Bryan Benjamin,Fiabema,Fiabema,,4,117,Fredrikstad,FFK,4,FWD,a,,426,3,0,1,9,0,0,0,1,0,0,1,0.000000,23,55,0.6
+504,1690824,Bryan Benjamin,Fiabema,Fiabema,,4,117,Fredrikstad,FFK,4,FWD,a,,426,3,0,1,9,0,0,0,1,0,0,1,0.000000,23,55,0.8
 505,2081879,Ervin,Gigovic,Gigovic,,11,195,Sandefjord,SAN,3,MID,a,,341,1,1,1,6,0,0,0,2,0,0,2,0.000000,18,50,0.0
 506,2082043,Gustav Ørsøe,Christensen,Christensen,,7,785,Kristiansund,KBK,3,MID,a,,328,0,0,0,12,0,0,0,0,0,0,0,0.000000,10,50,0.0
 507,2051972,Neraysho Meritchio,Kasanwirjo,Kasanwirjo,,3,298,Brann,BRA,2,DEF,a,,440,0,0,1,9,0,0,0,2,0,0,0,0.000000,10,50,0.1
 508,1971937,Johannes,Grummedal-Engenes,Grummedal-Engenes,,13,261,Start,STA,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.0
 509,1850376,Luca,Høyland,Høyland,,12,797,Sarpsborg 08,S08,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
 510,1869307,Philip Emblem,Storås,Storås,,1,15,Aalesund,AaFK,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.0
-511,1655466,Joel,Mugisha,Mvuka,,2,4,Bodø/Glimt,B/G,3,MID,a,,136,1,0,0,3,0,0,0,0,0,0,1,0.000000,11,65,0.1
+511,1655466,Joel,Mugisha,Mvuka,,2,4,Bodø/Glimt,B/G,3,MID,a,,136,1,0,0,3,0,0,0,0,0,0,1,0.000000,11,65,0.0
 512,1968433,Karl Filip,Ottosson,Ottosson,,8,177,Lillestrøm,LSK,3,MID,a,,380,0,1,1,8,0,0,0,0,0,0,2,0.000000,16,44,0.1
 513,1671785,Mathias Ullereng,Kjølø,Kjølø,,10,145,Rosenborg,RBK,3,MID,a,,247,0,0,1,4,0,0,0,1,0,0,0,0.000000,8,50,0.0
 514,1858354,Sander Aske,Granheim,Granheim,,13,261,Start,STA,2,DEF,a,,450,0,0,2,13,0,0,0,0,0,0,0,0.000000,12,45,0.0
 515,1885541,Liam Christopher,West,West,,4,117,Fredrikstad,FFK,3,MID,a,,317,0,0,0,10,0,0,0,0,0,0,0,0.000000,9,55,0.0
 516,161591,Sander Erik,Kartum,Kartum,,1,15,Aalesund,AaFK,3,MID,a,,309,0,2,0,7,0,0,0,1,0,0,0,0.000000,14,51,0.0
-517,1646897,Isak Gabriel,Skotheim,Skotheim,,1,15,Aalesund,AaFK,3,MID,a,,404,1,1,2,6,0,0,0,0,0,0,2,0.000000,23,53,0.0
+517,1646897,Isak Gabriel,Skotheim,Skotheim,,1,15,Aalesund,AaFK,3,MID,a,,404,1,1,2,6,0,0,0,0,0,0,2,0.000000,23,52,0.0
 518,1854000,Øystein Robinsønn,Norheim,Norheim,,14,2,Tromsø,TIL,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.0
-519,1621045,Morten,Bjørlo,Bjørlo,,14,2,Tromsø,TIL,3,MID,a,,408,1,0,0,12,0,0,0,1,0,0,2,0.000000,17,64,0.1
+519,1621045,Morten,Bjørlo,Bjørlo,,14,2,Tromsø,TIL,3,MID,a,,408,1,0,0,12,0,0,0,1,0,0,2,0.000000,17,64,0.0
 520,1750043,Dennis,Gjengaar,Gjengaar,,16,169882,Vålerenga,VIF,3,MID,a,,431,0,0,1,5,0,0,0,0,0,0,0,0.000000,11,58,0.0
 521,1662146,Nikolai Jakobsen,Hristov,Hristov,,14,2,Tromsø,TIL,4,FWD,a,,13,0,0,0,0,0,0,0,0,0,0,0,0.000000,2,55,0.0
 522,2082437,Essien Elijah Gerrit,Bassey,Bassey,,15,198,Viking,VIK,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,55,0.0
-523,1579300,Erik,Botheim,Botheim,,15,198,Viking,VIK,4,FWD,a,,399,3,1,3,3,0,0,1,1,0,0,2,0.000000,25,98,2.7
-524,1573045,Vegard Østraat,Erlien,Erlien,,14,2,Tromsø,TIL,4,FWD,d,Smell - 75 % sjanse for å spille,149,1,0,0,7,0,0,0,1,0,0,0,0.000000,9,75,0.1
+523,1579300,Erik,Botheim,Botheim,,15,198,Viking,VIK,4,FWD,a,,489,4,1,3,6,0,0,1,1,0,0,2,0.000000,31,97,2.6
+524,1573045,Vegard Østraat,Erlien,Erlien,,14,2,Tromsø,TIL,4,FWD,a,,149,1,0,0,7,0,0,0,1,0,0,0,0.000000,9,74,0.1
 525,2082021,Assan,Sanyang,Sanyang,,2,4,Bodø/Glimt,B/G,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,50,0.0
 526,2082446,Marius,Elvius,Elvius,,7,785,Kristiansund,KBK,2,DEF,a,,540,0,1,1,20,0,0,0,1,0,0,2,0.000000,11,44,0.1
 527,1877286,Elias,Molund,Molund,,14,2,Tromsø,TIL,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.0
@@ -531,7 +531,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 530,1948994,Andreas Kilhus,Wilhelmsen,Wilhelmsen,,3,298,Brann,BRA,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,40,0.0
 531,2004943,Joao Paulo,Rodrigues Barros,Barros,,5,63,HamKam,HAM,2,DEF,a,,157,0,0,0,4,0,0,0,0,0,0,2,0.000000,6,45,0.0
 532,1872686,Storm Karlsson,Knutsen,Knutsen,,1,15,Aalesund,AaFK,4,FWD,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
-533,43862,Håvard Kallevik,Nielsen,Nielsen,,16,169882,Vålerenga,VIF,4,FWD,a,,75,0,1,0,2,0,0,0,0,0,0,0,0.000000,6,52,0.0
+533,43862,Håvard Kallevik,Nielsen,Nielsen,,16,169882,Vålerenga,VIF,4,FWD,a,,75,0,1,0,2,0,0,0,0,0,0,0,0.000000,6,51,0.0
 534,81662,Elbasan,Rashani,Rashani,,16,169882,Vålerenga,VIF,3,MID,i,Smell - Ute på ubestemt tid,6,0,0,0,0,0,0,0,0,0,0,0,0.000000,1,60,0.0
 535,1889670,Eron,Isufi,Isufi,,7,785,Kristiansund,KBK,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0,45,0.0
 536,1910761,Stefano Giuseppe Arne,Holmquist Vecchia,Vecchia,,1,15,Aalesund,AaFK,4,FWD,a,,76,0,0,0,0,0,0,0,0,0,0,0,0.000000,3,52,0.0
