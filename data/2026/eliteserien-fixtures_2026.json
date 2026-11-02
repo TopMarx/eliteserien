@@ -24912,7 +24912,7 @@
   {
     "code": 8986321,
     "event": 25,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 195,
     "kickoff_time": "2026-10-30T18:00:00Z",
@@ -25063,7 +25063,7 @@
   {
     "code": 8986323,
     "event": 25,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 197,
     "kickoff_time": "2026-10-31T15:00:00Z",
@@ -25187,7 +25187,7 @@
   {
     "code": 8986328,
     "event": 25,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 199,
     "kickoff_time": "2026-10-31T17:00:00Z",
@@ -25358,7 +25358,7 @@
   {
     "code": 8986322,
     "event": 25,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 200,
     "kickoff_time": "2026-11-01T13:30:00Z",
@@ -25492,7 +25492,20 @@
       {
         "identifier": "bonus",
         "a": [],
-        "h": []
+        "h": [
+          {
+            "value": 3,
+            "element": 45
+          },
+          {
+            "value": 2,
+            "element": 50
+          },
+          {
+            "value": 1,
+            "element": 507
+          }
+        ]
       },
       {
         "identifier": "own_goals",
@@ -25507,7 +25520,7 @@
   {
     "code": 8986324,
     "event": 25,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 198,
     "kickoff_time": "2026-11-01T16:00:00Z",
@@ -25637,7 +25650,7 @@
   {
     "code": 8986325,
     "event": 25,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 194,
     "kickoff_time": "2026-11-01T16:00:00Z",
@@ -25759,7 +25772,7 @@
         "identifier": "saves",
         "a": [
           {
-            "value": 8,
+            "value": 7,
             "element": 144
           }
         ],
@@ -25801,7 +25814,7 @@
   {
     "code": 8986326,
     "event": 25,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 196,
     "kickoff_time": "2026-11-01T16:00:00Z",
@@ -25905,7 +25918,7 @@
   {
     "code": 8986327,
     "event": 25,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 193,
     "kickoff_time": "2026-11-01T18:15:00Z",
@@ -26000,7 +26013,20 @@
       {
         "identifier": "bonus",
         "a": [],
-        "h": []
+        "h": [
+          {
+            "value": 3,
+            "element": 387
+          },
+          {
+            "value": 2,
+            "element": 520
+          },
+          {
+            "value": 1,
+            "element": 377
+          }
+        ]
       },
       {
         "identifier": "own_goals",

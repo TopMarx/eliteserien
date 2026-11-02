@@ -263,14 +263,25 @@ gw,24,8,221,1688819,Emil Konradsen Ceïde,MID,14,False
 gw,24,9,193,1601181,Emil Varhaugvik Breivik,MID,12,False
 gw,24,10,149,1807420,David Tufekcic,MID,10,False
 gw,24,11,414,1671654,Kristian Lonebu,FWD,21,True
+gw,25,1,232,1866330,Leopold Wahlstedt,GK,7,False
+gw,25,2,339,97924,Kristoffer Haugen,DEF,13,False
+gw,25,3,377,199000,Petter Strand,DEF,10,False
+gw,25,4,165,1579725,Sander Moen Foss,DEF,8,False
+gw,25,5,247,1646531,Jacob Maslø Dunsby,MID,18,True
+gw,25,6,237,2060228,Amin Chiakha,MID,15,False
+gw,25,7,251,2031639,Evangelos Patoulidis,MID,14,False
+gw,25,8,499,94385,Zymer Bytyqi,MID,13,False
+gw,25,9,506,2082043,Gustav Ørsøe Christensen,MID,12,False
+gw,25,10,133,1562899,Magnus Grødem,FWD,13,False
+gw,25,11,387,316758,Ole Christian Sæter,FWD,13,False
 season,,1,160,2057365,Pontus Dahlberg,GK,95,False
 season,,2,346,1662744,Henrik Heggheim,DEF,126,False
-season,,3,5,1728666,Fredrik Sjøvold,DEF,124,False
-season,,4,330,2050681,Alexander Warneryd,DEF,116,False
-season,,5,360,91490,Zlatko Tripic,MID,168,True
-season,,6,237,2060228,Amin Chiakha,MID,157,False
-season,,7,193,1601181,Emil Varhaugvik Breivik,MID,152,False
-season,,8,221,1688819,Emil Konradsen Ceïde,MID,131,False
-season,,9,179,2004897,Felix Va,MID,128,False
-season,,10,356,2004140,Peter Christiansen,FWD,141,False
-season,,11,414,1671654,Kristian Lonebu,FWD,100,False
+season,,3,5,1728666,Fredrik Sjøvold,DEF,125,False
+season,,4,330,2050681,Alexander Warneryd,DEF,113,False
+season,,5,237,2060228,Amin Chiakha,MID,172,True
+season,,6,360,91490,Zlatko Tripic,MID,172,False
+season,,7,193,1601181,Emil Varhaugvik Breivik,MID,154,False
+season,,8,221,1688819,Emil Konradsen Ceïde,MID,140,False
+season,,9,405,2050493,Mathias Christensen,MID,132,False
+season,,10,356,2004140,Peter Christiansen,FWD,143,False
+season,,11,414,1671654,Kristian Lonebu,FWD,106,False
