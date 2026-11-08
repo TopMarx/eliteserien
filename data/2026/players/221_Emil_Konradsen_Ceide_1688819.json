@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 206,
-      "code": 8986333,
-      "team_h": 10,
-      "team_h_score": null,
-      "team_a": 13,
-      "team_a_score": null,
-      "event": 26,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-11-07T17:00:00Z",
-      "event_name": "Runde 26",
-      "is_home": true
-    },
-    {
       "id": 209,
       "code": 8986344,
       "team_h": 1,
@@ -826,6 +811,36 @@
       "selected": 8248,
       "transfers_in": 582,
       "transfers_out": 59
+    },
+    {
+      "element": 221,
+      "fixture": 206,
+      "opponent_team": 13,
+      "total_points": 7,
+      "was_home": true,
+      "kickoff_time": "2026-11-07T17:00:00Z",
+      "team_h_score": 4,
+      "team_a_score": 1,
+      "round": 26,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 1,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "bonus": 2,
+      "own_goals": 0,
+      "opta_index": "0.000000",
+      "value": 84,
+      "transfers_balance": 2134,
+      "selected": 10666,
+      "transfers_in": 2160,
+      "transfers_out": 26
     }
   ],
   "history_past": [
