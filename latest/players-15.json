@@ -2,7 +2,7 @@
   "team_opta_id": 15,
   "team_name": "Aalesund",
   "season": 2026,
-  "generated_at": "2026-11-09T02:44:19.435899+00:00",
+  "generated_at": "2026-11-10T02:45:51.224439+00:00",
   "players": [
     {
       "player_id": 407,
@@ -14923,7 +14923,7 @@
           "penalties_missed": 0,
           "yellow_cards": 0,
           "red_cards": 0,
-          "saves": 5,
+          "saves": 3,
           "bonus": 0,
           "own_goals": 0,
           "opta_index": "0.000000",
