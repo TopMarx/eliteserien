@@ -1,12 +1,12 @@
 {
   "last_closed_gw": 26,
   "season": 2026,
-  "current_gw": 26,
-  "fetch_type": "none",
-  "expected_count": 546,
-  "fetched_count": 546,
+  "current_gw": 27,
+  "fetch_type": "active_gw",
+  "expected_count": 67,
+  "fetched_count": 67,
   "failed_ids": [],
   "completed": true,
-  "last_run": "2026-11-20T02:30:32.418486+00:00",
-  "reason": "GW26 closure already recorded"
+  "last_run": "2026-11-21T02:33:04.011677+00:00",
+  "event_status": "event-status unavailable"
 }

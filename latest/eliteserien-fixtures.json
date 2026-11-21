@@ -27139,17 +27139,135 @@
     "code": 8986340,
     "event": 27,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 210,
     "kickoff_time": "2026-11-20T18:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 2,
-    "team_a_score": null,
+    "team_a_score": 4,
     "team_h": 9,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 2,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 2,
+            "element": 15
+          },
+          {
+            "value": 1,
+            "element": 7
+          },
+          {
+            "value": 1,
+            "element": 434
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 136
+          },
+          {
+            "value": 1,
+            "element": 202
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 2,
+            "element": 16
+          },
+          {
+            "value": 1,
+            "element": 12
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 196
+          },
+          {
+            "value": 1,
+            "element": 202
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [],
+        "h": [
+          {
+            "value": 1,
+            "element": 187
+          },
+          {
+            "value": 1,
+            "element": 201
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 1,
+            "element": 10
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 547
+          }
+        ]
+      },
+      {
+        "identifier": "bonus",
+        "a": [
+          {
+            "value": 3,
+            "element": 15
+          },
+          {
+            "value": 2,
+            "element": 434
+          },
+          {
+            "value": 1,
+            "element": 14
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      }
+    ],
     "tv_channel": "TV2P",
     "tickets_url": "https://moldefk.ticketco.events/",
     "forzify_id": 0
