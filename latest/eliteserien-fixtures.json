@@ -27138,7 +27138,7 @@
   {
     "code": 8986340,
     "event": 27,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 210,
     "kickoff_time": "2026-11-20T18:00:00Z",
@@ -27275,7 +27275,7 @@
   {
     "code": 8986342,
     "event": 27,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 216,
     "kickoff_time": "2026-11-21T13:00:00Z",
@@ -27416,7 +27416,7 @@
   {
     "code": 8986337,
     "event": 27,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 211,
     "kickoff_time": "2026-11-21T15:00:00Z",
@@ -27519,7 +27519,7 @@
   {
     "code": 8986343,
     "event": 27,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 213,
     "kickoff_time": "2026-11-21T17:00:00Z",
@@ -27657,7 +27657,7 @@
   {
     "code": 8986344,
     "event": 27,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 209,
     "kickoff_time": "2026-11-22T16:00:00Z",
@@ -27804,7 +27804,7 @@
   {
     "code": 8986338,
     "event": 27,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 212,
     "kickoff_time": "2026-11-22T16:00:00Z",
@@ -27928,7 +27928,7 @@
         "identifier": "saves",
         "a": [
           {
-            "value": 4,
+            "value": 2,
             "element": 32
           }
         ],
@@ -27941,8 +27941,22 @@
       },
       {
         "identifier": "bonus",
-        "a": [],
-        "h": []
+        "a": [
+          {
+            "value": 3,
+            "element": 38
+          },
+          {
+            "value": 2,
+            "element": 45
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 112
+          }
+        ]
       },
       {
         "identifier": "own_goals",
@@ -27962,7 +27976,7 @@
   {
     "code": 8986339,
     "event": 27,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 215,
     "kickoff_time": "2026-11-22T16:00:00Z",
@@ -28105,7 +28119,7 @@
   {
     "code": 8986341,
     "event": 27,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 214,
     "kickoff_time": "2026-11-22T18:15:00Z",
@@ -28178,20 +28192,33 @@
         "identifier": "saves",
         "a": [
           {
-            "value": 11,
+            "value": 12,
             "element": 160
           }
         ],
         "h": [
           {
-            "value": 2,
+            "value": 3,
             "element": 290
           }
         ]
       },
       {
         "identifier": "bonus",
-        "a": [],
+        "a": [
+          {
+            "value": 3,
+            "element": 160
+          },
+          {
+            "value": 2,
+            "element": 240
+          },
+          {
+            "value": 1,
+            "element": 165
+          }
+        ],
         "h": []
       },
       {

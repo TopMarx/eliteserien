@@ -2,7 +2,7 @@
   "team_opta_id": 797,
   "team_name": "Sarpsborg 08",
   "season": 2026,
-  "generated_at": "2026-11-23T02:46:29.740835+00:00",
+  "generated_at": "2026-11-23T10:46:00.134274+00:00",
   "players": [
     {
       "player_id": 494,
@@ -16459,7 +16459,7 @@
           "element": 290,
           "fixture": 214,
           "opponent_team": 8,
-          "total_points": 1,
+          "total_points": 2,
           "was_home": true,
           "kickoff_time": "2026-11-22T18:15:00Z",
           "team_h_score": 0,
@@ -16475,7 +16475,7 @@
           "penalties_missed": 0,
           "yellow_cards": 0,
           "red_cards": 0,
-          "saves": 2,
+          "saves": 3,
           "bonus": 0,
           "own_goals": 0,
           "opta_index": "0.000000",
